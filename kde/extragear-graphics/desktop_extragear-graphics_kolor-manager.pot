@@ -1,0 +1,59 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: devices/kmdevices.desktop:2
+msgctxt "Name"
+msgid "Devices"
+msgstr ""
+
+#: devices/kmdevices.desktop:42
+msgctxt "Comment"
+msgid "Device settings for Color Management"
+msgstr ""
+
+#: information/kminfo.desktop:2
+msgctxt "Name"
+msgid "Profile Information"
+msgstr ""
+
+#: information/kminfo.desktop:39
+msgctxt "Comment"
+msgid "Display ICC-specific Profile Information"
+msgstr ""
+
+#: kolor-server/kolorserver.desktop:7
+msgctxt "Name"
+msgid "Color Management Server"
+msgstr ""
+
+#: kolor-server/kolorserver.desktop:43
+msgctxt "Comment"
+msgid ""
+"Allows applications to communicate with the color management system and "
+"implements the X Color Management specification"
+msgstr ""
+
+#: settings/kmsettings.desktop:2
+msgctxt "Name"
+msgid "Settings"
+msgstr ""
+
+#: settings/kmsettings.desktop:41
+msgctxt "Comment"
+msgid "Color Management Settings"
+msgstr ""
+
+#: settings-kolor-management.desktop:8
+msgctxt "Name"
+msgid "Color Management"
+msgstr ""

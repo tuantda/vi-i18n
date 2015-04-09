@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-19 05:59+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gamedetailsoverlay.cpp:39
+msgctxt "Back to the previous view"
+msgid "Back"
+msgstr ""
+
+#: gamedetailsoverlay.cpp:54
+msgid "High Scores"
+msgstr ""
+
+#: gamedetailsoverlay.cpp:55
+msgid "Achievements"
+msgstr ""
+
+#: gamedetailsoverlay.cpp:56
+msgid "Comments"
+msgstr ""
+
+#: gamesoverlay.cpp:38
+msgid "Installed"
+msgstr ""
+
+#: gamesoverlay.cpp:41
+msgid "Coming Soon!"
+msgstr ""
+
+#: gamesoverlay.cpp:42
+msgctxt "The games that can be downloaded"
+msgid "Available"
+msgstr ""
+
+#: gamesoverlay.cpp:44 loginform.cpp:45
+msgid "Login"
+msgstr ""
+
+#: glfboapplet.cpp:113 glfboapplet.cpp:121 glfboapplet.cpp:134
+#: glfboapplet.cpp:142
+msgid "This system does not support Gluon's OpenGL widget."
+msgstr ""
+
+#: glfboapplet.cpp:268
+msgid "Your machine does not support Gluon's OpenGL widget."
+msgstr ""
+
+#: loginform.cpp:41
+msgctxt "The name of the user"
+msgid "Username"
+msgstr ""
+
+#: loginform.cpp:42
+msgid "Password"
+msgstr ""
+
+#: loginform.cpp:49
+msgid "Not Logged In"
+msgstr ""
+
+#: loginform.cpp:98
+msgid "Logging in"
+msgstr ""
+
+#: loginform.cpp:105
+#, kde-format
+msgctxt "Logged in as <user name>"
+msgid "Logged in as %1"
+msgstr ""
+
+#: loginform.cpp:112
+msgid "Login Failed"
+msgstr ""
+
+#: views/gamesviewitem.cpp:88
+msgid "Click here to Start the game"
+msgstr ""
+
+#: views/newcommentform.cpp:40
+msgctxt "The subject of the new comment"
+msgid "Subject"
+msgstr ""
+
+#: views/newcommentform.cpp:43
+msgid "Message"
+msgstr ""
+
+#: views/newcommentform.cpp:46
+msgid "OK"
+msgstr ""
+
+#: views/newcommentform.cpp:50
+msgid "Cancel"
+msgstr ""

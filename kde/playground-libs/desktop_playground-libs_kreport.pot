@@ -1,0 +1,57 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-09 02:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/koreport_itemplugin.desktop:4
+msgctxt "Comment"
+msgid "KoReport Item Plugin"
+msgstr ""
+
+#: src/plugins/barcode/koreport_barcodeplugin.desktop:2
+msgctxt "Name"
+msgid "Barcode Report Plugin"
+msgstr ""
+
+#: src/plugins/barcode/koreport_barcodeplugin.desktop:31
+msgctxt "Comment"
+msgid "KoReport Barcode Plugin"
+msgstr ""
+
+#: src/plugins/chart/koreport_chartplugin.desktop:2
+msgctxt "Name"
+msgid "Chart Report Plugin"
+msgstr ""
+
+#: src/plugins/chart/koreport_chartplugin.desktop:31
+msgctxt "Comment"
+msgid "Calligra Reports Chart Plugin"
+msgstr ""
+
+#: src/plugins/maps/koreport_mapsplugin.desktop:2
+msgctxt "Name"
+msgid "Maps Report Plugin"
+msgstr ""
+
+#: src/plugins/maps/koreport_mapsplugin.desktop:31
+msgctxt "Comment"
+msgid "Calligra Reports Maps Plugin"
+msgstr ""
+
+#: src/plugins/web/koreport_webplugin.desktop:2
+msgctxt "Name"
+msgid "Web Report Plugin"
+msgstr ""
+
+#: src/plugins/web/koreport_webplugin.desktop:32
+msgctxt "Comment"
+msgid "Calligra Reports Web Plugin"
+msgstr ""

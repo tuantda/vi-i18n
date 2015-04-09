@@ -1,0 +1,39 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kcm_kdev_cppcheck.desktop:13
+msgctxt "Name"
+msgid "Cppcheck"
+msgstr ""
+
+#: kcm_kdev_cppcheck.desktop:31
+msgctxt "Comment"
+msgid "Configure Cppcheck"
+msgstr ""
+
+#: kdevcppcheck.desktop.cmake:5
+msgctxt "Comment"
+msgid ""
+"Cppcheck is a tool that helps you find syntax problems in programs. http://"
+"cppcheck.sf.net/"
+msgstr ""
+
+#: kdevcppcheck.desktop.cmake:22
+msgctxt "Name"
+msgid "Cppcheck Support"
+msgstr ""
+
+#: kdevcppcheck.desktop.cmake:39
+msgctxt "GenericName"
+msgid "Syntax check"
+msgstr ""

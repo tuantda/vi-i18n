@@ -1,0 +1,638 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-04-16 04:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: data/knipptaschui.rc:5
+msgid "Main Toolbar"
+msgstr ""
+
+#. i18n: ectx: Menu (import)
+#: data/knipptaschui.rc:27
+msgid "Import..."
+msgstr ""
+
+#. i18n: ectx: Menu (export)
+#: data/knipptaschui.rc:31
+msgid "Export..."
+msgstr ""
+
+#. i18n: ectx: Menu (posting)
+#: data/knipptaschui.rc:46
+msgid "Posting"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, aboutTab)
+#: gui/aboutdialog.ui:117
+msgid "&About"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, authorTab)
+#: gui/aboutdialog.ui:146
+msgid "A&uthor"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, licenseTab)
+#: gui/aboutdialog.ui:175
+msgid "License Agreement"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/accountwidget.ui:128
+msgid "Search:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, addCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:26
+msgid "Add new category"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, addCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:29
+msgid "Add"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, addSubCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:36
+msgid "Add new sub-category"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, addSubCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:39
+msgid "Add child"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, importCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:59
+msgid "Import"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, exportCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:66
+msgid "Export"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, removeCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:86
+msgid "Delete selected category"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeCategoryButton)
+#: gui/config/accountcategoryconfigpage.ui:89
+msgid "Delete"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/config/accountgeneralconfigpage.ui:23
+msgid "Name:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: gui/config/accountgeneralconfigpage.ui:36
+msgid "Institution:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: gui/config/accountgeneralconfigpage.ui:49
+msgid "BIC:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: gui/config/accountgeneralconfigpage.ui:62
+msgid "Holder name:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gui/config/accountgeneralconfigpage.ui:82
+msgid "Account number:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/config/accountgeneralconfigpage.ui:105
+msgid "IBAN:"
+msgstr ""
+
+#. i18n: ectx: property (statusTip), widget (KLineEdit, iban)
+#: gui/config/accountgeneralconfigpage.ui:124
+msgid ""
+"The International Bank Account Number (IBAN) is an international standard "
+"for identifying bank accounts across national borders."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: gui/config/accountgeneralconfigpage.ui:131
+msgid "Opening Date:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: gui/config/accountgeneralconfigpage.ui:168
+msgid "Opening Balance:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, accountLimitGroupBox)
+#: gui/config/accountgeneralconfigpage.ui:210
+msgid "Account Limits"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, useInLimit)
+#: gui/config/accountgeneralconfigpage.ui:216
+msgid "Maximum balance:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, useOutLimit)
+#: gui/config/accountgeneralconfigpage.ui:249
+msgid "Minimum balance:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, usePassword)
+#: gui/config/accountpasswordconfigpage.ui:24
+msgid "Password Protection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gui/config/accountpasswordconfigpage.ui:48
+#: gui/passworddialog.ui:74
+msgid "Password:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/config/accountpasswordconfigpage.ui:65
+msgid "Verify Password:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: gui/config/appearancecolorchooserwidget.ui:70
+msgid "red:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: gui/config/appearancecolorchooserwidget.ui:97
+msgid "green:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/config/appearancecolorchooserwidget.ui:121
+msgid "blue:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/config/appearancecolorchooserwidget.ui:164
+msgid "alpha:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: gui/config/preferencesaccounttableconfigpage.ui:24
+msgid "Sort postings by:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/config/preferencesaccounttableconfigpage.ui:34
+msgid "Default warranty period:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, defaultWarrantyPeriod)
+#: gui/config/preferencesaccounttableconfigpage.ui:41
+msgid " month(s)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, movableColumns)
+#: gui/config/preferencesaccounttableconfigpage.ui:57
+msgid "Movable columns"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, cascadingSectionResize)
+#: gui/config/preferencesaccounttableconfigpage.ui:64
+msgid "Cascading section resize"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, doubleClickResizeColumnToContent)
+#: gui/config/preferencesaccounttableconfigpage.ui:71
+msgid "Double click resize column to content"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, resetCurrentColumnOnRowChanged)
+#: gui/config/preferencesaccounttableconfigpage.ui:78
+msgid "Reset current column when row changed"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoCompletionEnabled)
+#: gui/config/preferencesaccounttableconfigpage.ui:85
+msgid "Auto completion enabled"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: gui/config/preferencesappearanceconfigpage.ui:21
+msgid "Foreground Colors"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, positiveAmountForegroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:27
+msgid "positive amount:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, negativeAmountForegroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:44
+msgid "negative amount:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, availableWarrantyForegroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:61
+msgid "available warranty:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, expiredWarrantyForegroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:78
+msgid "expired warranty:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: gui/config/preferencesappearanceconfigpage.ui:98
+msgid "Background Colors"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, defaultPostingBackgroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:104
+msgid "normal posting:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, currentPostingBackgroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:121
+msgid "current posting:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, futurePostingBackgroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:138
+msgid "future postings:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, incompletePostingBackgroundEnabled)
+#: gui/config/preferencesappearanceconfigpage.ui:155
+msgid "incomplete postings:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: gui/config/preferencesgeneralconfigpage.ui:21
+msgid "Behavior on Application Startup"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/config/preferencesgeneralconfigpage.ui:27
+msgid "When Knipptasch starts:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, splashScreen)
+#: gui/config/preferencesgeneralconfigpage.ui:37
+msgid "Show splash screen on startup"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, defaultAccountFileLabel)
+#: gui/config/preferencesgeneralconfigpage.ui:44
+msgid "My default account file:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: gui/config/preferencesgeneralconfigpage.ui:71
+msgid "Tabbed Browsing"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, hideTabBarIfEmpty)
+#: gui/config/preferencesgeneralconfigpage.ui:80
+msgid "Hide the tab bar when only one tab is open"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, showCloseButtonOnTabs)
+#: gui/config/preferencesgeneralconfigpage.ui:90
+msgid "Show close button on each tab"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, showCornerCloseButton)
+#: gui/config/preferencesgeneralconfigpage.ui:100
+msgid "Show corner close button"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, middleClickCloseTab)
+#: gui/config/preferencesgeneralconfigpage.ui:110
+msgid "Middle-click on a tab to close it"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, movableTabs)
+#: gui/config/preferencesgeneralconfigpage.ui:117
+msgid "Movable tabs"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QMainWindow, MainWindow)
+#: gui/main.cpp:56 gui/mainwindow.ui:15
+msgid "Knipptasch"
+msgstr ""
+
+#: gui/main.cpp:58
+msgid "KDE Personal Finance Manager"
+msgstr ""
+
+#: gui/main.cpp:60
+msgid "(c) 2010 Stefan Böhmann"
+msgstr ""
+
+#: gui/main.cpp:64
+msgid "Stefan Böhmann"
+msgstr ""
+
+#: gui/main.cpp:65
+msgid "Maintainer"
+msgstr ""
+
+#: gui/main.cpp:78
+msgid "File to open"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QMenu, menuSettings)
+#: gui/mainwindow.ui:69
+msgid "&Settings"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QMenu, menuFile)
+#: gui/mainwindow.ui:74
+msgid "&File"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QMenu, menuEdit)
+#: gui/mainwindow.ui:79
+msgid "&Edit"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QMenu, menuPosting)
+#: gui/mainwindow.ui:84
+msgid "&Posting"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QMenu, menuHelp)
+#: gui/mainwindow.ui:89
+msgid "&Help"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, title)
+#: gui/passworddialog.ui:51
+msgid "Enter password to open file"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: gui/passworddialog.ui:58
+msgid "Access to open the file is encrypted."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/passworddialog.ui:65
+msgid "Enter password to open file."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, incomeLabel)
+#: gui/quickreportwidget.ui:162
+msgid "total income:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, expenseLabel)
+#: gui/quickreportwidget.ui:185
+msgid "total expenses:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, diffLabel)
+#: gui/quickreportwidget.ui:208
+msgid "difference:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: gui/savemodifieddialog.ui:32
+msgid "Save Account Files"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: gui/savemodifieddialog.ui:52
+msgid ""
+"The following accounts have been modified. Do you want to save them before "
+"closing?"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, appNameLabel)
+#: gui/welcomewidget.ui:94
+msgctxt "Application Name"
+msgid "Knipptasch"
+msgstr ""
+
+#. i18n: ectx: property (statusTip), widget (QPushButton, openButton)
+#: gui/welcomewidget.ui:135
+msgid "Open file"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, openButton)
+#: gui/welcomewidget.ui:138
+msgid "&Open"
+msgstr ""
+
+#. i18n: ectx: property (statusTip), widget (QPushButton, newButton)
+#: gui/welcomewidget.ui:145
+msgid "New file"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, newButton)
+#: gui/welcomewidget.ui:148
+msgid "&New"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_17)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:22
+msgid "Maturity"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_18)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:32
+msgid "Posting Text"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_19)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:45
+msgid "Value Date"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:55
+msgid "Amount"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:84
+msgid "Payee"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:94
+msgid "Category"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:104
+msgid "Method of payment"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:114
+msgid "Voucher"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:127
+msgid "Statement"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: plugins/accounttabwidgets/posting/postingtabwidget.ui:143
+msgid "Warranty"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: plugins/csv/csvexportdialog.ui:24 plugins/csv/csvimportdialog.ui:85
+msgid "Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: plugins/csv/csvexportdialog.ui:35 plugins/csv/csvimportdialog.ui:150
+msgid "Date format:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: plugins/csv/csvexportdialog.ui:58 plugins/csv/csvimportdialog.ui:170
+msgid "Decimal symbol:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: plugins/csv/csvexportdialog.ui:78 plugins/csv/csvimportdialog.ui:187
+msgid "Thousands separator:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: plugins/csv/csvexportdialog.ui:105 plugins/csv/csvimportdialog.ui:208
+msgid "Encoding:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: plugins/csv/csvexportdialog.ui:122 plugins/csv/csvimportdialog.ui:222
+msgid "End of Line:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: plugins/csv/csvexportdialog.ui:146 plugins/csv/csvimportdialog.ui:96
+msgid "Delimiter:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: plugins/csv/csvexportdialog.ui:169 plugins/csv/csvimportdialog.ui:116
+msgid "Text quote:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, selectionGroupBox)
+#: plugins/csv/csvexportdialog.ui:217
+msgid "Selection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, all)
+#: plugins/csv/csvexportdialog.ui:223
+msgid "All"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, selected)
+#: plugins/csv/csvexportdialog.ui:233
+msgid "Selected"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, allInYear)
+#: plugins/csv/csvexportdialog.ui:242
+msgid "All in:"
+msgstr ""
+
+#. i18n: ectx: property (displayFormat), widget (QDateEdit, allInYearEdit)
+#: plugins/csv/csvexportdialog.ui:252
+msgid "yyyy"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, allBetween)
+#: plugins/csv/csvexportdialog.ui:276
+msgid "All between:"
+msgstr ""
+
+#. i18n: ectx: property (displayFormat), widget (QDateEdit, allBetweenDateStart)
+#. i18n: ectx: property (displayFormat), widget (QDateEdit, allBetweenDateEnd)
+#: plugins/csv/csvexportdialog.ui:286 plugins/csv/csvexportdialog.ui:306
+msgid "M/d/yyyy"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: plugins/csv/csvexportdialog.ui:296
+msgid "and"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: plugins/csv/csvexportdialog.ui:352
+msgid "CSV Export"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: plugins/csv/csvexportdialog.ui:367
+msgid "Preview"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: plugins/csv/csvexportdialog.ui:388
+msgid "Rows:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: plugins/csv/csvexportdialog.ui:420
+msgid "Columns:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: plugins/csv/csvexportdialog.ui:452
+msgid "Characters:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: plugins/csv/csvimportdialog.ui:45
+msgid "CSV Import"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: plugins/csv/csvimportdialog.ui:62
+msgid "File to import:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox_2)
+#: plugins/csv/csvimportdialog.ui:136
+msgid "Ignore duplicate delimiters"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox)
+#: plugins/csv/csvimportdialog.ui:236
+msgid "Skip first row of file"
+msgstr ""

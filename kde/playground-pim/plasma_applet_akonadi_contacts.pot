@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-10-15 04:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/contactwidgetitem.cpp:47
+msgid "Edit"
+msgstr ""
+
+#: src/contactwidgetitem.cpp:84
+msgid "Contact is without name"
+msgstr ""
+
+#: src/plasmacontacts.cpp:59
+msgid "Find contact"
+msgstr ""
+
+#: src/plasmacontacts.cpp:125
+msgid "General"
+msgstr ""
+
+#: src/plasmacontacts.cpp:155
+msgid "Find"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, Config)
+#: src/ui/config.ui:20
+msgid "Configuration"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/ui/config.ui:43
+msgid "Collections"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/ui/config.ui:105
+msgid "Find contact using data"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/ui/config.ui:135
+msgid "Show empty contacts"
+msgstr ""

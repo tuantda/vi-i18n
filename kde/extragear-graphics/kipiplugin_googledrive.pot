@@ -1,0 +1,237 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-08-20 01:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: gdalbum.cpp:44
+msgid "Google Drive New Album"
+msgstr ""
+
+#: gdalbum.cpp:57
+msgid "This is the title of the folder that will be created."
+msgstr ""
+
+#: gdalbum.cpp:60
+msgctxt "folder edit"
+msgid "Title:"
+msgstr ""
+
+#: gdtalker.cpp:124
+msgid "Google Drive Authorization"
+msgstr ""
+
+#: gdtalker.cpp:128
+msgid ""
+"Please follow the instructions in the browser. After logging in and "
+"authorizing the application, copy the code from the browser, paste it in the "
+"textbox below, and click OK."
+msgstr ""
+
+#: gdtalker.cpp:526
+msgid "Failed to list folders"
+msgstr ""
+
+#: gdtalker.cpp:587
+msgid "Failed to create folder"
+msgstr ""
+
+#: gdtalker.cpp:619
+msgid "Failed to upload photo"
+msgstr ""
+
+#: gdwidget.cpp:70
+msgid "This is the list of images to upload to your Google Drive account."
+msgstr ""
+
+#: gdwidget.cpp:76
+msgid "This is a clickable link to open Google Drive in a browser."
+msgstr ""
+
+#: gdwidget.cpp:82
+msgid "Account"
+msgstr ""
+
+#: gdwidget.cpp:83
+msgid "This is the Google Drive account that is currently logged in."
+msgstr ""
+
+#: gdwidget.cpp:86
+msgctxt "account settings"
+msgid "Name:"
+msgstr ""
+
+#: gdwidget.cpp:89
+msgid "Change Account"
+msgstr ""
+
+#: gdwidget.cpp:90
+msgid "Change Google Drive account for transfer"
+msgstr ""
+
+#: gdwidget.cpp:100
+msgid "Destination"
+msgstr ""
+
+#: gdwidget.cpp:101
+msgid ""
+"This is the Google Drive folder to which selected photos will be uploaded."
+msgstr ""
+
+#: gdwidget.cpp:104
+msgid "Album:"
+msgstr ""
+
+#: gdwidget.cpp:108
+msgid "New Album"
+msgstr ""
+
+#: gdwidget.cpp:109
+msgid "Create new Google Drive folder"
+msgstr ""
+
+#: gdwidget.cpp:110
+msgctxt "album list"
+msgid "Reload"
+msgstr ""
+
+#: gdwidget.cpp:111
+msgid "Reload album list"
+msgstr ""
+
+#: gdwidget.cpp:120
+msgid "Options"
+msgstr ""
+
+#: gdwidget.cpp:121
+msgid "These are the options that would be applied to photos before upload."
+msgstr ""
+
+#: gdwidget.cpp:125
+msgid "Resize photos before uploading"
+msgstr ""
+
+#: gdwidget.cpp:136
+msgid "Maximum Dimension:"
+msgstr ""
+
+#: gdwidget.cpp:145
+msgid "JPEG Quality:"
+msgstr ""
+
+#: gdwindow.cpp:89
+msgid "Export to Google Drive"
+msgstr ""
+
+#: gdwindow.cpp:90
+msgid "Start Upload"
+msgstr ""
+
+#: gdwindow.cpp:90
+msgid "Start upload to Google Drive"
+msgstr ""
+
+#: gdwindow.cpp:108
+msgid "Google Drive Export"
+msgstr ""
+
+#: gdwindow.cpp:110
+msgid "A Kipi-plugin to export images to Google Drive"
+msgstr ""
+
+#: gdwindow.cpp:112
+msgid "(c) 2013, Saurabh Patel"
+msgstr ""
+
+#: gdwindow.cpp:114
+msgid "Saurabh Patel"
+msgstr ""
+
+#: gdwindow.cpp:114
+msgid "Author and maintainer"
+msgstr ""
+
+#: gdwindow.cpp:279
+msgid ""
+"The textbox is empty, please enter the code from the browser in the textbox. "
+"To complete the authentication click \"Change Account\", or \"Start Upload\" "
+"to authenticate again."
+msgstr ""
+
+#: gdwindow.cpp:290
+msgid "No image selected. Please select which images should be uploaded."
+msgstr ""
+
+#: gdwindow.cpp:301
+msgid "Authentication failed. Click \"Continue\" to authenticate."
+msgstr ""
+
+#: gdwindow.cpp:330
+msgid "%v / %m"
+msgstr ""
+
+#: gdwindow.cpp:334
+msgid "Google Drive export"
+msgstr ""
+
+#: gdwindow.cpp:369
+#, kde-format
+msgid ""
+"Failed to upload photo to Google Drive.\n"
+"%1\n"
+"Do you want to continue?"
+msgstr ""
+
+#: gdwindow.cpp:421
+#, kde-format
+msgctxt "%1 is the error string, %2 is the error code"
+msgid "An authentication error occurred: %1 (%2)"
+msgstr ""
+
+#: gdwindow.cpp:438 gdwindow.cpp:444
+#, kde-format
+msgid ""
+"Google Drive call failed:\n"
+"%1"
+msgstr ""
+
+#: gdwindow.cpp:464
+msgid ""
+"After you have been logged out in the browser, click \"Continue\" to "
+"authenticate for another account"
+msgstr ""
+
+#. i18n: ectx: Menu (Export)
+#: kipiplugin_googledriveui.rc:7
+msgid "&Export"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kipiplugin_googledriveui.rc:13
+msgid "Main Toolbar"
+msgstr ""
+
+#: plugin_googledrive.cpp:96
+msgid "Export to &Google Drive..."
+msgstr ""

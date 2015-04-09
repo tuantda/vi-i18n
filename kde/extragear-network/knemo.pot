@@ -1,0 +1,843 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-04-29 01:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: backends/bsdbackend.cpp:209
+msgid " anycast"
+msgstr ""
+
+#: backends/bsdbackend.cpp:211 backends/netlinkbackend.cpp:149
+msgid " tentative"
+msgstr ""
+
+#: backends/bsdbackend.cpp:213
+msgid " duplicate"
+msgstr ""
+
+#: backends/bsdbackend.cpp:215
+msgid " detached"
+msgstr ""
+
+#: backends/bsdbackend.cpp:217 backends/netlinkbackend.cpp:147
+msgid " deprecated"
+msgstr ""
+
+#: backends/bsdbackend.cpp:219 backends/netlinkbackend.cpp:141
+msgid " nodad"
+msgstr ""
+
+#: backends/bsdbackend.cpp:221
+msgid " autoconf"
+msgstr ""
+
+#: backends/bsdbackend.cpp:223
+msgid " tempory"
+msgstr ""
+
+#: backends/bsdbackend.cpp:387
+#, kde-format
+msgid "%1 GHz"
+msgstr ""
+
+#: backends/bsdbackend.cpp:390
+#, kde-format
+msgid "%1 MHz"
+msgstr ""
+
+#: backends/bsdbackend.cpp:433
+msgid "Ad-Hoc Demo"
+msgstr ""
+
+#: backends/bsdbackend.cpp:436
+msgid "Ad-Hoc"
+msgstr ""
+
+#: backends/bsdbackend.cpp:439
+msgid "Host AP"
+msgstr ""
+
+#: backends/bsdbackend.cpp:442
+msgid "Monitor"
+msgstr ""
+
+#: backends/bsdbackend.cpp:445
+msgid "Mesh"
+msgstr ""
+
+#: backends/bsdbackend.cpp:448
+msgid "Managed"
+msgstr ""
+
+#: backends/bsdbackend.cpp:493
+#, kde-format
+msgid "%1 Mbps"
+msgstr ""
+
+#: backends/netlinkbackend.cpp:139
+msgid " secondary"
+msgstr ""
+
+#: backends/netlinkbackend.cpp:143
+msgid " optimistic"
+msgstr ""
+
+#: backends/netlinkbackend.cpp:145
+msgctxt "mobile ipv6 home address flag"
+msgid " homeaddress"
+msgstr ""
+
+#: backends/netlinkbackend.cpp:151
+msgid " dynamic"
+msgstr ""
+
+#: global.cpp:30
+msgid "/s"
+msgstr ""
+
+#: interface.cpp:252
+#, kde-format
+msgid "%1 is connected to %2"
+msgstr ""
+
+#: interface.cpp:254
+#, kde-format
+msgid "%1 is connected"
+msgstr ""
+
+#: interface.cpp:263
+#, kde-format
+msgid "%1 has disconnected"
+msgstr ""
+
+#: interface.cpp:271
+#, kde-format
+msgid "%1 is available"
+msgstr ""
+
+#: interface.cpp:277
+#, kde-format
+msgid "%1 is unavailable"
+msgstr ""
+
+#: interface.cpp:354
+#, kde-format
+msgid "1 day, "
+msgid_plural "%1 days, "
+msgstr[0] ""
+msgstr[1] ""
+
+#: interface.cpp:399
+#, kde-format
+msgid ""
+"<table><tr><td style='padding-right:0.2em;'>%1:</td><td>Exceeded traffic "
+"limit of %2\n"
+"(currently %3)</td></tr></table>"
+msgstr ""
+
+#: interfaceicon.cpp:58
+msgid "Show &Status Dialog"
+msgstr ""
+
+#: interfaceicon.cpp:60
+msgid "Show &Traffic Plotter"
+msgstr ""
+
+#: interfaceicon.cpp:62
+msgid "Show St&atistics"
+msgstr ""
+
+#: interfaceicon.cpp:64
+msgid "&Configure KNemo..."
+msgstr ""
+
+#: interfaceicon.cpp:358
+#, kde-format
+msgid "%1k"
+msgstr ""
+
+#: interfaceicon.cpp:360
+#, kde-format
+msgid "%1K"
+msgstr ""
+
+#: interfaceicon.cpp:368
+#, kde-format
+msgid "%1M"
+msgstr ""
+
+#: interfaceicon.cpp:375
+#, no-c-format, kde-format
+msgid "%1G"
+msgstr ""
+
+#: interfaceicon.cpp:532 interfacetray.cpp:65
+#, kde-format
+msgid "KNemo - %1"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:162
+#, kde-format
+msgctxt "interface name"
+msgid "%1 Traffic"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:166
+#, kde-format
+msgid "%1 B/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:166
+#, kde-format
+msgid "%1 KiB/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:166
+#, kde-format
+msgid "%1 MiB/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:166
+#, kde-format
+msgid "%1 GiB/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 bit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 kbit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 Mbit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:167
+#, kde-format
+msgid "%1 Gbit/s"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:179 interfaceplotterdialog.cpp:453
+msgctxt "Largest axis title"
+msgid "99999 XXXX"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:294
+msgid "&Properties"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:475
+msgctxt "network traffic"
+msgid "Sending"
+msgstr ""
+
+#: interfaceplotterdialog.cpp:476
+msgctxt "network traffic"
+msgid "Receiving"
+msgstr ""
+
+#: interfacestatisticsdialog.cpp:41
+#, kde-format
+msgid "%1 Statistics"
+msgstr ""
+
+#: interfacestatisticsdialog.cpp:144
+msgid "Billing Periods"
+msgstr ""
+
+#: interfacestatisticsdialog.cpp:198
+msgid "Do you want to reset all statistics?"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, hourly)
+#: interfacestatisticsdlg.ui:24
+msgid "24 Hours"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, daily)
+#: interfacestatisticsdlg.ui:44
+msgid "Days"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, weekly)
+#: interfacestatisticsdlg.ui:67
+msgid "Weeks"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, monthly)
+#: interfacestatisticsdlg.ui:90
+msgid "Months"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, yearly)
+#: interfacestatisticsdlg.ui:113
+msgid "Years"
+msgstr ""
+
+#: interfacestatusdialog.cpp:44
+#, kde-format
+msgctxt "interface name"
+msgid "%1 Interface Status"
+msgstr ""
+
+#: interfacestatusdialog.cpp:142 interfacetray.cpp:122
+msgid "Connected"
+msgstr ""
+
+#: interfacestatusdialog.cpp:144 interfacetray.cpp:124
+msgid "Disconnected"
+msgstr ""
+
+#: interfacestatusdialog.cpp:146 interfacetray.cpp:126
+msgid "Down"
+msgstr ""
+
+#: interfacestatusdialog.cpp:148 interfacetray.cpp:128
+msgid "Unavailable"
+msgstr ""
+
+#: interfacestatusdialog.cpp:214 interfacetray.cpp:229
+msgid "active"
+msgstr ""
+
+#: interfacestatusdialog.cpp:218 interfacetray.cpp:233
+msgid "off"
+msgstr ""
+
+#: interfacestatusdialog.cpp:269 interfacetray.cpp:249
+msgctxt "ipv6 address scope"
+msgid "global"
+msgstr ""
+
+#: interfacestatusdialog.cpp:272 interfacetray.cpp:248
+msgctxt "ipv6 address scope"
+msgid "site"
+msgstr ""
+
+#: interfacestatusdialog.cpp:275 interfacetray.cpp:247
+msgctxt "ipv6 address scope"
+msgid "link"
+msgstr ""
+
+#: interfacestatusdialog.cpp:278 interfacetray.cpp:246
+msgctxt "ipv6 address scope"
+msgid "host"
+msgstr ""
+
+#: interfacestatusdialog.cpp:281 interfacetray.cpp:245
+msgctxt "ipv6 address scope"
+msgid "none"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, broadcastLabel)
+#: interfacestatusdialog.cpp:305 interfacestatusdlg.ui:120
+msgid "Broadcast Address:"
+msgstr ""
+
+#: interfacestatusdialog.cpp:310
+msgid "PtP Address:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, connection)
+#: interfacestatusdlg.ui:16
+msgid "Connection"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxIP)
+#: interfacestatusdlg.ui:41
+msgid "IP"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: interfacestatusdlg.ui:90
+msgid "IP Address/prefix:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, addrLabel)
+#: interfacestatusdlg.ui:100
+msgid "Address Label:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, scopeLabel)
+#: interfacestatusdlg.ui:110
+msgid "Scope & Flags:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, gatewayLabel)
+#: interfacestatusdlg.ui:130
+msgid "Default Gateway:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel24)
+#: interfacestatusdlg.ui:195
+msgid "Interface:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel14)
+#: interfacestatusdlg.ui:205
+msgid "Alias:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: interfacestatusdlg.ui:215
+msgid "Status:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: interfacestatusdlg.ui:225
+msgid "Connection Time:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, macLabel)
+#: interfacestatusdlg.ui:235
+msgid "MAC Address:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, traffic)
+#: interfacestatusdlg.ui:256
+msgid "Traffic"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxCurrentConnection)
+#: interfacestatusdlg.ui:265
+msgid "Interface Traffic"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2_3)
+#: interfacestatusdlg.ui:271 interfacestatusdlg.ui:428
+#: statisticsmodel.cpp:32
+msgid "Received"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7)
+#. i18n: ectx: property (text), widget (QLabel, textLabel7_2_2)
+#: interfacestatusdlg.ui:284 interfacestatusdlg.ui:527
+#: statisticsmodel.cpp:32
+msgid "Sent"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9)
+#: interfacestatusdlg.ui:317
+msgid "Packets:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10)
+#: interfacestatusdlg.ui:327
+msgid "Bytes:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10_2)
+#: interfacestatusdlg.ui:340
+msgid "Speed:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBoxStatistics)
+#: interfacestatusdlg.ui:399
+msgid "Statistics"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9_2_2)
+#: interfacestatusdlg.ui:405
+msgid "Today:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10_2_2_2)
+#: interfacestatusdlg.ui:415
+msgid "This year:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2_2_2)
+#: interfacestatusdlg.ui:441 statisticsmodel.cpp:32
+msgid "Total"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel10_3_2)
+#: interfacestatusdlg.ui:454
+msgid "This month:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabelBill)
+#: interfacestatusdlg.ui:570
+msgid "This bill period:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, wireless)
+#: interfacestatusdlg.ui:627
+msgid "Wireless"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: interfacestatusdlg.ui:633
+msgid "Connected to:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2_2)
+#: interfacestatusdlg.ui:656
+msgid "Access point:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_4)
+#: interfacestatusdlg.ui:679
+msgid "Bit Rate:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabelFC)
+#: interfacestatusdlg.ui:689
+msgid "Frequency [Channel]:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: interfacestatusdlg.ui:699
+msgid "Mode:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabelNickNameL)
+#: interfacestatusdlg.ui:752
+msgid "Nickname:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_6)
+#: interfacestatusdlg.ui:778
+msgid "Link Quality:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: interfacestatusdlg.ui:788
+msgid "Encryption:"
+msgstr ""
+
+#: interfacetray.cpp:75
+msgid "Should KNemo start automatically when you login?"
+msgstr ""
+
+#: interfacetray.cpp:76
+msgid "Automatically Start KNemo?"
+msgstr ""
+
+#: interfacetray.cpp:76
+msgid "Start"
+msgstr ""
+
+#: interfacetray.cpp:77
+msgid "Do Not Start"
+msgstr ""
+
+#: interfacetray.cpp:116
+msgid "Interface"
+msgstr ""
+
+#: interfacetray.cpp:120
+msgid "Status"
+msgstr ""
+
+#: interfacetray.cpp:135
+msgid "Connection time"
+msgstr ""
+
+#: interfacetray.cpp:143
+msgid "PtP Address"
+msgstr ""
+
+#: interfacetray.cpp:144
+msgid "Scope & Flags"
+msgstr ""
+
+#: interfacetray.cpp:152
+msgid "IPv4 Address"
+msgstr ""
+
+#: interfacetray.cpp:156
+msgid "Broadcast Address"
+msgstr ""
+
+#: interfacetray.cpp:163
+msgid "IPv6 Address"
+msgstr ""
+
+#: interfacetray.cpp:177
+msgid "IPv4 Default Gateway"
+msgstr ""
+
+#: interfacetray.cpp:179
+msgid "IPv6 Default Gateway"
+msgstr ""
+
+#: interfacetray.cpp:187
+msgid "MAC Address"
+msgstr ""
+
+#: interfacetray.cpp:189
+msgid "Packets Received"
+msgstr ""
+
+#: interfacetray.cpp:191
+msgid "Packets Sent"
+msgstr ""
+
+#: interfacetray.cpp:193
+msgid "Bytes Received"
+msgstr ""
+
+#: interfacetray.cpp:195
+msgid "Bytes Sent"
+msgstr ""
+
+#: interfacetray.cpp:201
+msgid "Download Speed"
+msgstr ""
+
+#: interfacetray.cpp:203
+msgid "Upload Speed"
+msgstr ""
+
+#: interfacetray.cpp:209
+msgid "ESSID"
+msgstr ""
+
+#: interfacetray.cpp:211
+msgid "Mode"
+msgstr ""
+
+#: interfacetray.cpp:213
+msgid "Frequency"
+msgstr ""
+
+#: interfacetray.cpp:215
+msgid "Bit Rate"
+msgstr ""
+
+#: interfacetray.cpp:217
+msgid "Access Point"
+msgstr ""
+
+#: interfacetray.cpp:219
+msgid "Link Quality"
+msgstr ""
+
+#: interfacetray.cpp:222
+msgid "Nickname"
+msgstr ""
+
+#: interfacetray.cpp:226
+msgid "Encryption"
+msgstr ""
+
+#: knemodaemon.cpp:57
+msgid "Toggle Traffic Plotters"
+msgstr ""
+
+#: knemodaemon.cpp:172
+msgid ""
+"The Qt4 SQLite database plugin is not available.\n"
+"Please install it to store traffic statistics."
+msgstr ""
+
+#: knemodaemon.cpp:218
+msgid "The KDE Network Monitor"
+msgstr ""
+
+#: knemodaemon.cpp:222
+msgid "KNemo"
+msgstr ""
+
+#: knemodaemon.cpp:226
+msgid ""
+"Copyright (C) 2004, 2005, 2006 Percy Leonhardt\n"
+"Copyright (C) 2009, 2010 John Stamp\n"
+"\n"
+"Signal plotter taken from KSysGuard\n"
+"Copyright (C) 2006 - 2009 John Tapsell"
+msgstr ""
+
+#: knemodaemon.cpp:229
+msgid "Percy Leonhardt"
+msgstr ""
+
+#: knemodaemon.cpp:229
+msgid "Original Author"
+msgstr ""
+
+#: knemodaemon.cpp:231
+msgid "John Stamp"
+msgstr ""
+
+#: knemodaemon.cpp:231
+msgid "Current maintainer"
+msgstr ""
+
+#: knemodaemon.cpp:233
+msgid "Michael Olbrich"
+msgstr ""
+
+#: knemodaemon.cpp:233
+msgid "Threshold support"
+msgstr ""
+
+#: knemodaemon.cpp:235
+msgid "Chris Schlaeger"
+msgstr ""
+
+#: knemodaemon.cpp:235 knemodaemon.cpp:237
+msgid "Signal plotter"
+msgstr ""
+
+#: knemodaemon.cpp:237
+msgid "John Tapsell"
+msgstr ""
+
+#: plotterconfigdialog.cpp:35
+msgid " kbit/s"
+msgstr ""
+
+#: plotterconfigdialog.cpp:39
+msgid " KiB/s"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: plotterconfigdlg.ui:16
+msgid "Scales"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: plotterconfigdlg.ui:22
+msgid "Vertical Scale"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxAutoDetection)
+#: plotterconfigdlg.ui:28
+msgid "Specify graph range:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9_3)
+#: plotterconfigdlg.ui:38
+msgid "Minimum value:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel9_2_2)
+#: plotterconfigdlg.ui:70
+msgid "Maximum value:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: plotterconfigdlg.ui:105
+msgid "Horizontal Scale"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: plotterconfigdlg.ui:111
+msgid "Pixels per time period:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_5)
+#: plotterconfigdlg.ui:170
+msgid "Grid"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox8)
+#: plotterconfigdlg.ui:176
+msgid "Lines"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxVLines)
+#: plotterconfigdlg.ui:184
+msgid "Vertical lines"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: plotterconfigdlg.ui:207
+msgid "Distance:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxVLinesScroll)
+#: plotterconfigdlg.ui:247
+msgid "Vertical lines scroll"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxHLines)
+#: plotterconfigdlg.ui:254
+msgid "Horizontal lines"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox9)
+#: plotterconfigdlg.ui:264
+msgid "Text"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxLabels)
+#: plotterconfigdlg.ui:270
+msgid "Show axis labels"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: plotterconfigdlg.ui:279
+msgid "Font size:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: plotterconfigdlg.ui:330
+msgid "Sensors"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxIncoming)
+#: plotterconfigdlg.ui:338
+msgid "Show incoming traffic"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBoxOutgoing)
+#: plotterconfigdlg.ui:359
+msgid "Show outgoing traffic"
+msgstr ""
+
+#: statisticsmodel.cpp:32
+msgid "Date"
+msgstr ""
+
+#: statisticsview.cpp:182
+msgid "Peak:"
+msgstr ""
+
+#: statisticsview.cpp:183
+msgid "Off-Peak:"
+msgstr ""
+
+#: statisticsview.cpp:184
+msgid "Total:"
+msgstr ""
+
+#: storage/sqlstorage.cpp:205
+#, kde-format
+msgid ""
+"The statistics database for interface \"%1\" is incompatible with this "
+"version of KNemo.\n"
+"\n"
+"Please upgrade to a more recent KNemo release."
+msgstr ""

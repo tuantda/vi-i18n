@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: quanta.desktop:3 src/quanta.desktop:30
+msgctxt "Name"
+msgid "Quanta Plus"
+msgstr ""
+
+#: quanta.desktop:33
+msgctxt "GenericName"
+msgid "Web Development Environment"
+msgstr ""
+
+#: quanta.desktop:58
+msgctxt "Comment"
+msgid "Web Development Environment"
+msgstr ""
+
+#: src/kdevplatformquanta.desktop:3
+msgctxt "Name"
+msgid "KDevelop Project Interface"
+msgstr ""
+
+#: src/quanta.desktop:5
+msgctxt "GenericName"
+msgid "IDE for Web Development"
+msgstr ""
+
+#: UNPORTED/createproject/kdevcreatequantaproject.desktop:4
+msgctxt "Name"
+msgid "KDevCreateQuantaProject"
+msgstr ""
+
+#: UNPORTED/createproject/kdevcreatequantaproject.desktop:27
+msgctxt "GenericName"
+msgid "CreateQuantaProject Plugin"
+msgstr ""
+
+#: UNPORTED/createproject/kdevcreatequantaproject.desktop:50
+msgctxt "Comment"
+msgid "CreateQuantaProject Description"
+msgstr ""
+
+#: UNPORTED/data/config/quanta_preview_config.desktop:6
+msgctxt "Name"
+msgid "Configure KHTML Browser Part"
+msgstr ""
+
+#: UNPORTED/plugins/preview/kdevhtmlpreview.desktop:4
+msgctxt "Name"
+msgid "KDevHTMLPreview"
+msgstr ""
+
+#: UNPORTED/plugins/preview/kdevhtmlpreview.desktop:27
+msgctxt "GenericName"
+msgid "HTMLPreview Plugin"
+msgstr ""
+
+#: UNPORTED/plugins/preview/kdevhtmlpreview.desktop:50
+msgctxt "Comment"
+msgid "HTMLPreview Description"
+msgstr ""
+
+#: UNPORTED/plugins/structuretree/kdevstructuretree.desktop:4
+msgctxt "Name"
+msgid "KDevStructureTree"
+msgstr ""
+
+#: UNPORTED/plugins/structuretree/kdevstructuretree.desktop:27
+msgctxt "GenericName"
+msgid "Structure Tree Plugin"
+msgstr ""
+
+#: UNPORTED/plugins/structuretree/kdevstructuretree.desktop:50
+msgctxt "Comment"
+msgid "The Structure Tree is a view on the structure of the document."
+msgstr ""
+
+#: UNPORTED/plugins/tagdialogs/kdevtagdialogs.desktop:4
+msgctxt "Name"
+msgid "KDevTagDialogs"
+msgstr ""
+
+#: UNPORTED/plugins/tagdialogs/kdevtagdialogs.desktop:27
+msgctxt "GenericName"
+msgid "TagDialogs Plugin"
+msgstr ""
+
+#: UNPORTED/plugins/tagdialogs/kdevtagdialogs.desktop:50
+msgctxt "Comment"
+msgid "TagDialogs Description"
+msgstr ""
+
+#: UNPORTED/plugins/templatestree/kdevtemplatestree.desktop:4
+msgctxt "Name"
+msgid "KDevTemplatesTree"
+msgstr ""
+
+#: UNPORTED/plugins/templatestree/kdevtemplatestree.desktop:27
+msgctxt "GenericName"
+msgid "TemplatesTree Plugin"
+msgstr ""
+
+#: UNPORTED/plugins/templatestree/kdevtemplatestree.desktop:49
+msgctxt "Comment"
+msgid "TemplatesTree Description"
+msgstr ""
+
+#: UNPORTED/plugins/usertoolbars/kcm_kdev_usertoolbars.desktop:13
+msgctxt "Name"
+msgid "User Toolbars setting"
+msgstr ""
+
+#: UNPORTED/plugins/usertoolbars/kcm_kdev_usertoolbars.desktop:36
+msgctxt "Comment"
+msgid "Configure User Toolbars"
+msgstr ""
+
+#: UNPORTED/plugins/usertoolbars/kdevusertoolbars.desktop:4
+msgctxt "Name"
+msgid "KDevUserToolbars"
+msgstr ""
+
+#: UNPORTED/plugins/usertoolbars/kdevusertoolbars.desktop:27
+msgctxt "GenericName"
+msgid "UserToolbars Plugin"
+msgstr ""
+
+#: UNPORTED/plugins/usertoolbars/kdevusertoolbars.desktop:49
+msgctxt "Comment"
+msgid "UserToolbars Description"
+msgstr ""
+
+#: UNPORTED/project/quantaproject/kdevquantaproject.desktop:4
+msgctxt "Name"
+msgid "KDevQuantaProject"
+msgstr ""
+
+#: UNPORTED/project/quantaproject/kdevquantaproject.desktop:27
+msgctxt "GenericName"
+msgid "Quantaproject Plugin"
+msgstr ""
+
+#: UNPORTED/project/quantaproject/kdevquantaproject.desktop:50
+msgctxt "Comment"
+msgid "QuantaProject Description"
+msgstr ""
+
+#: UNPORTED/quantacore/kdevquantacore.desktop:4
+msgctxt "Comment"
+msgid "Quanta Core"
+msgstr ""
+
+#: UNPORTED/quantacore/kdevquantacore.desktop:27
+msgctxt "Name"
+msgid "KDevQuantaCore"
+msgstr ""
+
+#: UNPORTED/quantacore/kdevquantacore.desktop:50
+msgctxt "GenericName"
+msgid "Quanta Core"
+msgstr ""

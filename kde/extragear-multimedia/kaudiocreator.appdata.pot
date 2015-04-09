@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-11-07 01:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: kaudiocreator.appdata.xml:6
+msgid "KAudioCreator"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: kaudiocreator.appdata.xml:7
+msgid "CD Ripper"
+msgstr ""
+
+#. (itstool) path: description/p
+#: kaudiocreator.appdata.xml:9
+msgid "KAudioCreator is an audio CD ripper, which uses \"cdparanoia\" as a backend to extract the tracks and later it encodes them to mp3 or ogg files (or many other formats supported)"
+msgstr ""
+
+#. (itstool) path: description/p
+#: kaudiocreator.appdata.xml:13
+msgid "Features:"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaudiocreator.appdata.xml:15
+msgid "CDDB lookup to extract the album and track information"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaudiocreator.appdata.xml:16
+msgid "Different encoding formats supported (ogg, mp3, flac)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: kaudiocreator.appdata.xml:17
+msgid "Different filename formats using tags"
+msgstr ""

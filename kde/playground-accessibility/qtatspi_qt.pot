@@ -1,0 +1,274 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-23 04:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/constant_mappings.cpp:36
+msgid "invalid role"
+msgstr ""
+
+#: src/constant_mappings.cpp:37
+msgid "title bar"
+msgstr ""
+
+#: src/constant_mappings.cpp:38
+msgid "menu bar"
+msgstr ""
+
+#: src/constant_mappings.cpp:39
+msgid "scroll bar"
+msgstr ""
+
+#: src/constant_mappings.cpp:40
+msgid "grip"
+msgstr ""
+
+#: src/constant_mappings.cpp:41
+msgid "sound"
+msgstr ""
+
+#: src/constant_mappings.cpp:42
+msgid "cursor"
+msgstr ""
+
+#: src/constant_mappings.cpp:43
+msgid "caret"
+msgstr ""
+
+#: src/constant_mappings.cpp:44
+msgid "alert message"
+msgstr ""
+
+#: src/constant_mappings.cpp:45
+msgid "window"
+msgstr ""
+
+#: src/constant_mappings.cpp:46
+msgid "filler"
+msgstr ""
+
+#: src/constant_mappings.cpp:47
+msgid "popup menu"
+msgstr ""
+
+#: src/constant_mappings.cpp:48
+msgid "menu item"
+msgstr ""
+
+#: src/constant_mappings.cpp:49
+msgid "tool tip"
+msgstr ""
+
+#: src/constant_mappings.cpp:50
+msgid "application"
+msgstr ""
+
+#: src/constant_mappings.cpp:51
+msgid "document"
+msgstr ""
+
+#: src/constant_mappings.cpp:52
+msgid "pane"
+msgstr ""
+
+#: src/constant_mappings.cpp:53
+msgid "chart"
+msgstr ""
+
+#: src/constant_mappings.cpp:54
+msgid "dialog"
+msgstr ""
+
+#: src/constant_mappings.cpp:55
+msgid "border"
+msgstr ""
+
+#: src/constant_mappings.cpp:56
+msgid "grouping"
+msgstr ""
+
+#: src/constant_mappings.cpp:57
+msgid "separator"
+msgstr ""
+
+#: src/constant_mappings.cpp:58
+msgid "tool bar"
+msgstr ""
+
+#: src/constant_mappings.cpp:59
+msgid "status bar"
+msgstr ""
+
+#: src/constant_mappings.cpp:60
+msgid "table"
+msgstr ""
+
+#: src/constant_mappings.cpp:61
+msgid "column header"
+msgstr ""
+
+#: src/constant_mappings.cpp:62
+msgid "row header"
+msgstr ""
+
+#: src/constant_mappings.cpp:63
+msgid "column"
+msgstr ""
+
+#: src/constant_mappings.cpp:64
+msgid "row"
+msgstr ""
+
+#: src/constant_mappings.cpp:65
+msgid "cell"
+msgstr ""
+
+#: src/constant_mappings.cpp:66
+msgid "link"
+msgstr ""
+
+#: src/constant_mappings.cpp:67
+msgid "help balloon"
+msgstr ""
+
+#: src/constant_mappings.cpp:68
+msgid "assistant"
+msgstr ""
+
+#: src/constant_mappings.cpp:69
+msgid "list"
+msgstr ""
+
+#: src/constant_mappings.cpp:70
+msgid "list item"
+msgstr ""
+
+#: src/constant_mappings.cpp:71
+msgid "tree"
+msgstr ""
+
+#: src/constant_mappings.cpp:72
+msgid "tree item"
+msgstr ""
+
+#: src/constant_mappings.cpp:73
+msgid "page tab"
+msgstr ""
+
+#: src/constant_mappings.cpp:74
+msgid "property page"
+msgstr ""
+
+#: src/constant_mappings.cpp:75
+msgid "indicator"
+msgstr ""
+
+#: src/constant_mappings.cpp:76
+msgid "graphic"
+msgstr ""
+
+#: src/constant_mappings.cpp:77
+msgid "label"
+msgstr ""
+
+#: src/constant_mappings.cpp:78
+msgid "text"
+msgstr ""
+
+#: src/constant_mappings.cpp:79
+msgid "push button"
+msgstr ""
+
+#: src/constant_mappings.cpp:80
+msgid "check box"
+msgstr ""
+
+#: src/constant_mappings.cpp:81
+msgid "radio box"
+msgstr ""
+
+#: src/constant_mappings.cpp:82
+msgid "combo box"
+msgstr ""
+
+#: src/constant_mappings.cpp:83
+msgid "progress bar"
+msgstr ""
+
+#: src/constant_mappings.cpp:84
+msgid "dial"
+msgstr ""
+
+#: src/constant_mappings.cpp:85
+msgid "hotkey field"
+msgstr ""
+
+#: src/constant_mappings.cpp:86
+msgid "slider"
+msgstr ""
+
+#: src/constant_mappings.cpp:87
+msgid "spin box"
+msgstr ""
+
+#: src/constant_mappings.cpp:88
+msgid "canvas"
+msgstr ""
+
+#: src/constant_mappings.cpp:89
+msgid "animation"
+msgstr ""
+
+#: src/constant_mappings.cpp:90
+msgid "equation"
+msgstr ""
+
+#: src/constant_mappings.cpp:91
+msgid "button drop down"
+msgstr ""
+
+#: src/constant_mappings.cpp:92
+msgid "button menu"
+msgstr ""
+
+#: src/constant_mappings.cpp:93
+msgid "button drop grid"
+msgstr ""
+
+#: src/constant_mappings.cpp:94
+msgid "whitespace"
+msgstr ""
+
+#: src/constant_mappings.cpp:95
+msgid "page tab list"
+msgstr ""
+
+#: src/constant_mappings.cpp:96
+msgid "clock"
+msgstr ""
+
+#: src/constant_mappings.cpp:97
+msgid "splitter"
+msgstr ""
+
+#: src/constant_mappings.cpp:98
+msgid "layered pane"
+msgstr ""
+
+#: src/constant_mappings.cpp:99
+msgid "user role"
+msgstr ""

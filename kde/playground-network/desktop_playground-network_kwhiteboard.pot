@@ -1,0 +1,48 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: approver/kblackboard.desktop:4
+msgctxt "Name"
+msgid "KBlackboard"
+msgstr ""
+
+#: approver/kblackboard.desktop:22
+msgctxt "Comment"
+msgid "User %1 wants to start KBlackboard session with you"
+msgstr ""
+
+#: approver/kwhiteboard.desktop:4
+msgctxt "Name"
+msgid "KWhiteboard"
+msgstr ""
+
+#: approver/kwhiteboard.desktop:22
+msgctxt "Comment"
+msgid "User %1 wants to start KWhiteboard session with you"
+msgstr ""
+
+#: launcher/kboard-launcher.desktop:2
+msgctxt "Name"
+msgid "KBoard Launcher"
+msgstr ""
+
+#: launcher/kboard-launcher.desktop:22
+msgctxt "GenericName"
+msgid "Start KWhiteboard/KBlackboard"
+msgstr ""
+
+#: launcher/kboard-launcher.desktop:41
+msgctxt "Comment"
+msgid ""
+"Start KWhiteboard/KBlackboard demo applications with one of your IM contacts"
+msgstr ""

@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-08-06 02:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: kbddock.cpp:50
+msgctxt "@info:tooltip Displayed on the movable dock"
+msgid "Toggle keyboard visibility"
+msgstr ""
+
+#: kvkbdapp.cpp:110
+msgctxt "@action:inmenu"
+msgid "Choose Font..."
+msgstr ""
+
+#: kvkbdapp.cpp:114
+msgctxt "@action:inmenu"
+msgid "Auto Resize Font"
+msgstr ""
+
+#: kvkbdapp.cpp:124
+msgctxt "@action:inmenu"
+msgid "Blur Background"
+msgstr ""
+
+#: kvkbdapp.cpp:135
+msgctxt "@action:inmenu"
+msgid "Show Dock"
+msgstr ""
+
+#: kvkbdapp.cpp:141
+msgctxt "@action:inmenu"
+msgid "Lock on Screen"
+msgstr ""
+
+#: kvkbdapp.cpp:147
+msgctxt "@action:inmenu"
+msgid "Sticky Modifier Keys"
+msgstr ""
+
+#: main.cpp:29
+msgid "A virtual keyboard for KDE"
+msgstr ""
+
+#: main.cpp:75
+msgid "Kvkbd"
+msgstr ""
+
+#: main.cpp:76
+msgid "(C) 2007-2014 The Kvkbd Developers"
+msgstr ""
+
+#: main.cpp:77
+msgid "Todor Gyumyushev"
+msgstr ""
+
+#: main.cpp:77
+msgid "Original Author"
+msgstr ""
+
+#: main.cpp:78
+msgid "Guillaume Martres"
+msgstr ""
+
+#: main.cpp:78
+msgid "KDE4 port"
+msgstr ""
+
+#: main.cpp:84
+msgid ""
+"Stand alone version for use with KDM or XDM.\n"
+"See Kvkbd Handbook for information on how to use this option."
+msgstr ""

@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-01-12 03:34+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: connections/connections.cpp:148
+#, kde-format
+msgid "<b>Connect failed:</b><br />%1"
+msgstr ""
+
+#: connections/connections.cpp:150
+msgid "Successfully connected."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: connections/connections.ui:33
+msgid "Host Name:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: connections/connections.ui:53
+msgid "Database Name:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: connections/connections.ui:66
+msgid "User Name:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: connections/connections.ui:79
+msgid "Password:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: connections/connections.ui:96
+msgid "Driver:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, testResult)
+#: connections/connections.ui:111
+msgid "TestResult"
+msgstr ""
+
+#: connections/connectionsmodel.cpp:52
+msgid "new connection"
+msgstr ""
+
+#. i18n: ectx: Menu (run)
+#: kdevsqlui.rc:5
+msgctxt "@title:menu"
+msgid "Run"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: results.ui:17
+msgid "Connection:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, durationLabel)
+#. i18n: ectx: property (text), widget (QLabel, messageLabel)
+#: results.ui:41 results.ui:55
+msgid "TextLabel"
+msgstr ""
+
+#: resulttablewidget.cpp:176
+msgid ""
+"No Database Connection available. Open Project Configuration for to create "
+"one."
+msgstr ""
+
+#: resulttablewidget.cpp:178
+msgid "No Database Connection selected."
+msgstr ""
+
+#: resulttablewidget.cpp:195
+msgid "Executing Query..."
+msgstr ""
+
+#: resulttablewidget.cpp:212
+#, kde-format
+msgid "Query finished in %1 ms"
+msgstr ""
+
+#: sqllanguagesupport.cpp:42
+msgid "SQL Support"
+msgstr ""
+
+#: sqllanguagesupport.cpp:42
+msgid "Support for SQL Language"
+msgstr ""
+
+#: sqllanguagesupport.cpp:43
+msgid "Niko Sams"
+msgstr ""
+
+#: sqllanguagesupport.cpp:43
+msgid "Author"
+msgstr ""
+
+#: sqllanguagesupport.cpp:102
+msgid "Run SQL"
+msgstr ""
+
+#: sqllanguagesupport.cpp:120
+msgid "SQL Query"
+msgstr ""

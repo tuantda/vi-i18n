@@ -1,0 +1,9 @@
+The files contained in this folder are for translation of KDE webpages.
+
+The translations are *not* automatically integrated in the webpage framework so the first time
+you translate one of the files here and want it integrated in the webpage please contact
+the i18n mailing list.
+
+edu_www: edu.kde.org
+media: framework used in most of kde.org webpages
+okular_www: okular.kde.org

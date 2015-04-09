@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: audiocd_extract.desktop:6
+msgctxt "Name"
+msgid "KAudioCreator-Extract"
+msgstr ""
+
+#: audiocd_extract.desktop:59
+msgctxt "Name"
+msgid "Extract and Encode Audio Tracks"
+msgstr ""
+
+#: kaudiocreator.desktop:2
+msgctxt "Comment"
+msgid "Frontend for audio file creation"
+msgstr ""
+
+#: kaudiocreator.desktop:51
+msgctxt "Name"
+msgid "KAudioCreator"
+msgstr ""
+
+#: kaudiocreator.desktop:105
+msgctxt "GenericName"
+msgid "CD Ripper"
+msgstr ""
+
+#: kaudiocreator.notifyrc:3
+msgctxt "Comment"
+msgid "KAudioCreator"
+msgstr ""
+
+#: kaudiocreator.notifyrc:56
+msgctxt "Name"
+msgid "All Jobs Finished"
+msgstr ""
+
+#: kaudiocreator.notifyrc:107
+msgctxt "Comment"
+msgid "All of the jobs in the queue have been finished"
+msgstr ""
+
+#: kaudiocreator.notifyrc:157
+msgctxt "Name"
+msgid "Track Ripped"
+msgstr ""
+
+#: kaudiocreator.notifyrc:207
+msgctxt "Comment"
+msgid "Track finished ripping"
+msgstr ""
+
+#: kaudiocreator.notifyrc:258
+msgctxt "Name"
+msgid "CD Ripped"
+msgstr ""
+
+#: kaudiocreator.notifyrc:308
+msgctxt "Comment"
+msgid "CD finished ripping"
+msgstr ""
+
+#: kaudiocreator.notifyrc:360
+msgctxt "Name"
+msgid "Track Encoded"
+msgstr ""
+
+#: kaudiocreator.notifyrc:409
+msgctxt "Comment"
+msgid "Track finished encoding"
+msgstr ""
+
+#: kaudiocreator.notifyrc:460
+msgctxt "Name"
+msgid "CD Encoded"
+msgstr ""
+
+#: kaudiocreator.notifyrc:509
+msgctxt "Comment"
+msgid "CD finished encoding"
+msgstr ""

@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-01-10 02:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: main.cpp:33
+msgid "Nepomuk Shell"
+msgstr ""
+
+#: main.cpp:35
+msgid ""
+"The Nepomuk TV Namer tries to extract TV Show name, season, and episode from "
+"the file name of the given file (or all files in a given directory).\n"
+"If found fetches details from thetvdb.com and stores the results in "
+"Nepomuk.\n"
+"If no TV Show information could be extracted from the filename -1 is "
+"returned. If communication with Nepomuk failed -2 is returned."
+msgstr ""
+
+#: main.cpp:39
+msgid "(c) 2011-2012, Sebastian Trüg"
+msgstr ""
+
+#: main.cpp:42
+msgid "Sebastian Trüg"
+msgstr ""
+
+#: main.cpp:42
+msgid "Maintainer"
+msgstr ""
+
+#: main.cpp:48
+msgid "Try to be quiet by not showing any error message boxes to the user."
+msgstr ""
+
+#: main.cpp:49
+msgid "The URL(s) to the video file(s) to annotate."
+msgstr ""
+
+#: tvnamer.cpp:115
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Failed to extract TV Show details from filename <filename>%1</filename>."
+msgstr ""
+
+#: tvnamer.cpp:130
+msgctxt "@info"
+msgid "Could not find any file names which contained TV Show information."
+msgstr ""
+
+#: tvnamer.cpp:146
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Could not find any file names which contained TV Shows in <filename>%1</"
+"filename>."
+msgstr ""
+
+#: tvnamer.cpp:227
+msgid "Multiple Matches"
+msgstr ""
+
+#: tvnamer.cpp:228
+msgid "Multiple matching series found. Please select one"
+msgstr ""
+
+#: tvnamer.cpp:294
+#, kde-format
+msgctxt "@info"
+msgid "Failed to store information in Nepomuk (<message>%1</message>)"
+msgstr ""
+
+#: tvnamer.cpp:470
+msgctxt "@info"
+msgid "Successfully stored information in Nepomuk."
+msgstr ""

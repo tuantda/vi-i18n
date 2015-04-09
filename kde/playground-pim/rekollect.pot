@@ -1,0 +1,381 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-19 06:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, EditLinkForm)
+#: edit_link.ui:14
+msgid "Note List"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: edit_link.ui:20
+msgid "Select a Note:"
+msgstr ""
+
+#: io/native/notereader.cpp:53 io/native/notereader.cpp:86
+#: metadata/metadata.cpp:66
+msgctxt "@info Incorrect file type error"
+msgid "The file is not a Rekollect Note version 1 file"
+msgstr ""
+
+#: io/native/notereader.cpp:95
+#, kde-format
+msgctxt "@info Error string"
+msgid ""
+"%1\n"
+"Line %2, column %3"
+msgstr ""
+
+#: linkeditdialog.cpp:33
+msgctxt "@title:window"
+msgid "Edit Link"
+msgstr ""
+
+#: linkeditdialog.cpp:58
+msgctxt "@action:button"
+msgid "Link to Selected Note"
+msgstr ""
+
+#: linkeditdialog.cpp:59
+#, kde-format
+msgctxt "@action:button"
+msgid "Create New Note: \"%1\""
+msgstr ""
+
+#: main.cpp:30
+msgid "A rich text note taking and management tool."
+msgstr ""
+
+#: main.cpp:37
+msgid "Rekollect"
+msgstr ""
+
+#: main.cpp:38
+msgid "(C) 2009 - 2011 Jason Jackson"
+msgstr ""
+
+#: main.cpp:40
+msgid "Jason Jackson"
+msgstr ""
+
+#: main.cpp:44
+msgid "Open note browser window"
+msgstr ""
+
+#: main.cpp:45
+msgid "Open a window with a newly created note"
+msgstr ""
+
+#: main.cpp:46
+msgid "Display the requested note"
+msgstr ""
+
+#: notebrowserwindow.cpp:159
+msgctxt "@action:inmenu"
+msgid "Create Note"
+msgstr ""
+
+#: notebrowserwindow.cpp:169
+msgctxt "@action"
+msgid "Display Note Browser"
+msgstr ""
+
+#: notebrowserwindow.cpp:202
+#, kde-format
+msgctxt "@info Prompt to handle a missing note"
+msgid ""
+"<filename>%1</filename> does not exist. Do you want to remove or edit the "
+"link?"
+msgstr ""
+
+#: notebrowserwindow.cpp:204
+msgctxt "@title:window"
+msgid "Question"
+msgstr ""
+
+#: notebrowserwindow.cpp:205
+msgctxt "@action:button"
+msgid "Remove Link"
+msgstr ""
+
+#: notebrowserwindow.cpp:206
+msgctxt "@action:button"
+msgid "Edit Link"
+msgstr ""
+
+#: notebrowserwindow.cpp:255
+msgctxt "@title:group"
+msgid "Display"
+msgstr ""
+
+#: notecollection.cpp:115
+msgctxt "@title:column Title of note"
+msgid "Document Name"
+msgstr ""
+
+#: notecollection.cpp:116
+msgctxt "@title:column Last modified time of note"
+msgid "Modification Time"
+msgstr ""
+
+#: notecollection.cpp:117
+msgctxt "@title:column File name of note, not normally visible"
+msgid "File Name"
+msgstr ""
+
+#: noteeditor.cpp:410
+msgctxt "@action:inmenu"
+msgid "Remove Link"
+msgstr ""
+
+#: notewindow.cpp:86
+msgctxt "@info"
+msgid "Are you sure you want to delete this note?"
+msgstr ""
+
+#: notewindow.cpp:87
+msgctxt "@title:window"
+msgid "Delete Note"
+msgstr ""
+
+#: notewindow.cpp:96
+msgctxt "@info Error message"
+msgid "An error occurred deleting this note. The note is not deleted."
+msgstr ""
+
+#: notewindow.cpp:97
+msgctxt "@title:window"
+msgid "Error"
+msgstr ""
+
+#: notewindow.cpp:112 notewindow.cpp:123 notewindow.cpp:432 notewindow.cpp:441
+#: notewindow.cpp:464 notewindow.cpp:473
+msgctxt "@info Error message"
+msgid "An error occurred saving the file."
+msgstr ""
+
+#: notewindow.cpp:113 notewindow.cpp:124 notewindow.cpp:433 notewindow.cpp:442
+#: notewindow.cpp:465 notewindow.cpp:474
+msgctxt "@title:window"
+msgid "Save Error"
+msgstr ""
+
+#: notewindow.cpp:148
+msgctxt "@action:intoolbar"
+msgid "Link to URL"
+msgstr ""
+
+#: notewindow.cpp:152
+msgctxt "@action:intoolbar"
+msgid "Remove Link"
+msgstr ""
+
+#: notewindow.cpp:156
+msgctxt "@option:check Text formatting option"
+msgid "Bold"
+msgstr ""
+
+#: notewindow.cpp:165
+msgctxt "@option:check Text formatting option"
+msgid "Italic"
+msgstr ""
+
+#: notewindow.cpp:174
+msgctxt "@option:check Text formatting option"
+msgid "Strike Out"
+msgstr ""
+
+#: notewindow.cpp:182
+msgctxt "@option:check Text formatting option"
+msgid "Highlight"
+msgstr ""
+
+#: notewindow.cpp:188
+msgctxt "@action:inmenu Reset all text formatting to normal values"
+msgid "Reset Format"
+msgstr ""
+
+#: notewindow.cpp:191
+msgctxt "@option:radio Font size"
+msgid "S&mall"
+msgstr ""
+
+#: notewindow.cpp:197
+msgctxt "@option:radio Font size"
+msgid "&Normal"
+msgstr ""
+
+#: notewindow.cpp:203
+msgctxt "@option:radio Font size"
+msgid "&Large"
+msgstr ""
+
+#: notewindow.cpp:209
+msgctxt "@option:radio Font size"
+msgid "&Huge"
+msgstr ""
+
+#: notewindow.cpp:234
+msgctxt "@action:intoolbar Font size"
+msgid "Increase Font Size"
+msgstr ""
+
+#: notewindow.cpp:240
+msgctxt "@action:intoolbar Font size"
+msgid "Decrease Font Size"
+msgstr ""
+
+#: notewindow.cpp:246
+msgctxt "@action:intoolbar"
+msgid "Increase Indent"
+msgstr ""
+
+#: notewindow.cpp:251
+msgctxt "@action:intoolbar"
+msgid "Decrease Indent"
+msgstr ""
+
+#: notewindow.cpp:256
+msgctxt "@action:intoolbar Delete this note"
+msgid "&Delete"
+msgstr ""
+
+#: notewindow.cpp:259
+msgctxt "@action:inmenu Export note as HTML"
+msgid "as HTML..."
+msgstr ""
+
+#: notewindow.cpp:262
+msgctxt "@action:inmenu Export note as Textile"
+msgid "as Textile..."
+msgstr ""
+
+#: notewindow.cpp:265
+msgctxt "@action:inmenu Copy note as Textile to clipboard"
+msgid "as Textile..."
+msgstr ""
+
+#: notewindow.cpp:272
+msgctxt "@action:intoolbar Search text in this note"
+msgid "&Search"
+msgstr ""
+
+#: notewindow.cpp:280
+msgctxt "@action:intoolbar Create or edit a link"
+msgid "&Link to Note"
+msgstr ""
+
+#: notewindow.cpp:288
+msgctxt "@title:menu Text formatting actions"
+msgid "&Format"
+msgstr ""
+
+#: notewindow.cpp:305
+msgctxt "@title:group"
+msgid "Font Size"
+msgstr ""
+
+#: notewindow.cpp:319
+msgctxt "@action:intoolbar Additional ways to operation on the document"
+msgid "Actions"
+msgstr ""
+
+#: notewindow.cpp:327
+msgctxt "@title:group File export options"
+msgid "Export as ..."
+msgstr ""
+
+#: notewindow.cpp:330
+msgctxt "@title:group Copy as options"
+msgid "Copy as ..."
+msgstr ""
+
+#: notewindow.cpp:370
+#, kde-format
+msgctxt "@title:window"
+msgid "%1 - Rekollect"
+msgstr ""
+
+#: notewindow.cpp:376
+msgctxt "@title:window"
+msgid "Link to URL"
+msgstr ""
+
+#: notewindow.cpp:377
+msgctxt "@label:textbox"
+msgid "Please enter the URL to Link to:"
+msgstr ""
+
+#: notewindow.cpp:421 notewindow.cpp:453
+msgctxt "@title"
+msgid "Select a destination directory"
+msgstr ""
+
+#: notewindow.cpp:497
+#, kde-format
+msgctxt "@info"
+msgid ""
+"An error occurred exporting the selected files.\n"
+"%1"
+msgstr ""
+
+#: notewindow.cpp:498
+msgctxt "@title"
+msgid "Error exporting file."
+msgstr ""
+
+#: notewindow.cpp:507
+msgctxt "@title:window"
+msgid "Print Note"
+msgstr ""
+
+#. i18n: ectx: label, entry (SmallFont), group (Display)
+#. i18n: ectx: label, entry (NormalFont), group (Display)
+#. i18n: ectx: label, entry (LargeFont), group (Display)
+#. i18n: ectx: label, entry (HugeFont), group (Display)
+#: rekollect.kcfg:11 rekollect.kcfg:24 rekollect.kcfg:28 rekollect.kcfg:32
+msgid "The font used to display normal sized text."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings_display.ui:20
+msgid "Small Font"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings_display.ui:37
+msgid "Normal Font"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: settings_display.ui:54
+msgid "Large Font"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settings_display.ui:71
+msgid "Huge Font"
+msgstr ""

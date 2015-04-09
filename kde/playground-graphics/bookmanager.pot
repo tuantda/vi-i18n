@@ -1,0 +1,443 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-12-22 01:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#. i18n: ectx: label, entry (collection), group (bookmanager)
+#: bookmanagerconfig.kcfg:9
+msgid "Show or hide the Collection Manager"
+msgstr ""
+
+#. i18n: ectx: Menu (file)
+#: bookmanagerui.rc:5
+msgid "&File"
+msgstr ""
+
+#. i18n: ectx: Menu (Collection)
+#: bookmanagerui.rc:17
+msgid "&Collection"
+msgstr ""
+
+#. i18n: ectx: Menu (Sessions)
+#: bookmanagerui.rc:23
+msgid "&Sessions"
+msgstr ""
+
+#. i18n: ectx: ToolBar (toolbar)
+#: bookmanagerui.rc:30
+msgid "Main Toolbar"
+msgstr ""
+
+#: main.cpp:30 shell.cpp:411 shell.cpp:447 shell.cpp:451 shell.cpp:498
+#: shell.cpp:508
+msgid "Book Manager"
+msgstr ""
+
+#: main.cpp:31
+msgid "An Ebook library manager."
+msgstr ""
+
+#: main.cpp:33
+msgid "Copyright (c) 2010 Brian Korbein"
+msgstr ""
+
+#: main.cpp:37
+msgid "Brian Korbein"
+msgstr ""
+
+#: main.cpp:37
+msgid "Creator & Developer"
+msgstr ""
+
+#: main.cpp:38
+msgid "Riccardo Bellini"
+msgstr ""
+
+#: main.cpp:38
+msgid "Developer"
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:99
+msgctxt "This book's title"
+msgid "Title: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:103
+msgctxt "The books Edition or Release number"
+msgid "Release Number: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:108 managerpart/bookdelegate.cpp:127
+msgid "Release Number: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:109
+msgctxt "This book's Release Date"
+msgid "Release Date: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:112
+msgctxt "The Series of a book"
+msgid "Series: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:116 managerpart/bookdelegate.cpp:129
+msgid "Series: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:117
+msgctxt "The Volume number of a book"
+msgid "Volume: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:122
+msgctxt "The type or style of a book, examples: Science Fiction, History"
+msgid "Genre: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:126
+msgid "Title: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:128
+msgid "Release Date: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:130
+msgid "Volume: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:131
+msgid "Genre: "
+msgstr ""
+
+#: managerpart/bookdelegate.cpp:181
+#, kde-format
+msgid "(1 book)"
+msgid_plural "(%1 books)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: managerpart/bookdetailswidget.cpp:73
+#, kde-format
+msgid "<i>Summary:</i> %1"
+msgstr ""
+
+#: managerpart/bookdetailswidget.cpp:138
+msgid "<i>No preview available</i>"
+msgstr ""
+
+#: managerpart/bookmanagerpart.cpp:89
+msgid "&Import a New Book"
+msgstr ""
+
+#: managerpart/bookmanagerpart.cpp:97
+msgid "&Remove a Book"
+msgstr ""
+
+#: managerpart/bookmanagerpart.cpp:104
+msgid "Start a New &Search"
+msgstr ""
+
+#: managerpart/bookmanagerpart.cpp:112
+msgid "&Open This Book"
+msgstr ""
+
+#: managerpart/bookmanagerpart.cpp:118
+msgid "&Edit This Book's Entry"
+msgstr ""
+
+#: managerpart/collectiondb.cpp:52
+msgid "Unable to open or create a collection"
+msgstr ""
+
+#: managerpart/collectiondb.cpp:68
+msgid ""
+"Your collection will now be migrated to the latest version, with support for "
+"book series and volume numbers. There will not be any data loss, however, "
+"you might be willing to edit some information after the process completes."
+msgstr ""
+
+#: managerpart/collectiondb.cpp:72
+msgid "New version available"
+msgstr ""
+
+#: managerpart/collectiontreemodel.cpp:72
+msgctxt "A placeholder entry for books with no known author"
+msgid "Unknown Author"
+msgstr ""
+
+#: managerpart/collectiontreemodel.cpp:81
+msgid "No Documents Found"
+msgstr ""
+
+#: managerpart/importdialog.cpp:33
+msgid "Import a New Book"
+msgstr ""
+
+#: managerpart/importdialog.cpp:35
+msgid "Import"
+msgstr ""
+
+#: managerpart/importdialog.cpp:59
+msgid "&Save"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, titleLabel)
+#: managerpart/importwidget.ui:19
+msgctxt "A books title"
+msgid "Title"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, authorLabel)
+#: managerpart/importwidget.ui:40
+msgctxt "A person who writes books."
+msgid "Author"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, relNumLabel)
+#: managerpart/importwidget.ui:59
+msgctxt "A books edition or release number."
+msgid "Release Number"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, relDateLabel)
+#: managerpart/importwidget.ui:76
+msgid "Release Date"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, seriesLabel)
+#: managerpart/importwidget.ui:95
+msgid "Series"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, volumeLabel)
+#: managerpart/importwidget.ui:108
+msgid "Volume"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, genreLabel)
+#: managerpart/importwidget.ui:122
+msgctxt "A books type or style, examples- Science fiction or history"
+msgid "Genre"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, locationLabel)
+#: managerpart/importwidget.ui:135
+msgctxt "The on disk path to a book."
+msgid "Location"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, descLabel)
+#: managerpart/importwidget.ui:152
+msgctxt "A brief summary or description of the book"
+msgid "Description"
+msgstr ""
+
+#. i18n: ectx: Menu (Collection)
+#: managerpart/managerpart.rc:4 shell.cpp:376 shell.cpp:388
+msgid "Collection"
+msgstr ""
+
+#: managerpart/modifydialog.cpp:38
+msgctxt "go to the Previous entry"
+msgid "Previous"
+msgstr ""
+
+#: managerpart/modifydialog.cpp:40
+msgctxt "go to the next entry"
+msgid "Next"
+msgstr ""
+
+#: managerpart/modifydialog.cpp:45
+msgid "Edit Books"
+msgstr ""
+
+#: managerpart/searchpage.cpp:78
+msgid "Search"
+msgstr ""
+
+#: managerpart/searchpage.cpp:79
+msgid "Reset"
+msgstr ""
+
+#: managerpart/searchpage.cpp:83
+msgid "Title"
+msgstr ""
+
+#: managerpart/searchpage.cpp:84
+msgid "Author"
+msgstr ""
+
+#: managerpart/searchpage.cpp:85
+msgid "Genre"
+msgstr ""
+
+#: managerpart/searchpage.cpp:173
+msgctxt "A person who writes books"
+msgid "Author"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, searchTypeBox)
+#: managerpart/searchpage.ui:32
+msgctxt ""
+"Selects what type of search to perform. Examples: search by genre, search by "
+"author, search by title."
+msgid "Search the Collection by..."
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, searchTypeBox)
+#: managerpart/searchpage.ui:39
+msgctxt "The name of a book"
+msgid "Title"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, searchTypeBox)
+#: managerpart/searchpage.ui:44
+msgctxt "The writer of a book"
+msgid "Author"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, searchTypeBox)
+#: managerpart/searchpage.ui:49
+msgctxt "The book's category"
+msgid "Genre"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, searchButton)
+#: managerpart/searchpage.ui:63
+msgctxt "Search the book collection"
+msgid "Search"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, resetButton)
+#: managerpart/searchpage.ui:70
+msgctxt "Reset the search"
+msgid "Reset"
+msgstr ""
+
+#: shell.cpp:185
+msgid "Open file(s) in new tab(s)"
+msgstr ""
+
+#: shell.cpp:199
+msgid "Collection Manager"
+msgstr ""
+
+#: shell.cpp:205
+msgid "Save current session"
+msgstr ""
+
+#: shell.cpp:211
+msgid "Open session"
+msgstr ""
+
+#: shell.cpp:217
+msgid "Remove session"
+msgstr ""
+
+#: shell.cpp:245
+#, kde-format
+msgid "Book Manager was unable to load the file: %1"
+msgstr ""
+
+#: shell.cpp:361
+msgid "Unable to load the collection."
+msgstr ""
+
+#: shell.cpp:411
+msgid "No open documents to save in a new session"
+msgstr ""
+
+#: shell.cpp:415
+msgid "Enter session name"
+msgstr ""
+
+#: shell.cpp:415
+msgid "Enter the session name:"
+msgstr ""
+
+#: shell.cpp:417
+msgid "Invalid session name specified"
+msgstr ""
+
+#: shell.cpp:427
+#, kde-format
+msgid "A session file named %1 already exists"
+msgstr ""
+
+#: shell.cpp:427
+msgid "File already exists"
+msgstr ""
+
+#: shell.cpp:431 shell.cpp:463
+#, kde-format
+msgid "Unable to open file %1"
+msgstr ""
+
+#: shell.cpp:431 shell.cpp:463 shell.cpp:515 shell.cpp:521
+msgid "Error"
+msgstr ""
+
+#: shell.cpp:447 shell.cpp:498
+msgid "There are no saved sessions to open"
+msgstr ""
+
+#: shell.cpp:450
+msgid ""
+"Opening a saved session will close all your documents currently opened.\n"
+"Are you sure you wish to continue?"
+msgstr ""
+
+#: shell.cpp:452
+msgid "Do not ask again"
+msgstr ""
+
+#: shell.cpp:455 shell.cpp:502
+msgid "Select session"
+msgstr ""
+
+#: shell.cpp:455
+msgid "Select the session you wish to open"
+msgstr ""
+
+#: shell.cpp:502
+msgid "Select the session you wish to remove"
+msgstr ""
+
+#: shell.cpp:508
+#, kde-format
+msgid "Are you sure you want to remove session %1?"
+msgstr ""
+
+#: shell.cpp:515
+msgid "File does not exist!"
+msgstr ""
+
+#: shell.cpp:521
+#, kde-format
+msgid "Error while removing session file %1"
+msgstr ""

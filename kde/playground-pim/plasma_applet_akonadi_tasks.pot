@@ -1,0 +1,154 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-19 06:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/plasmatasks.cpp:66
+msgid "Add task"
+msgstr ""
+
+#: src/plasmatasks.cpp:132
+msgid "General"
+msgstr ""
+
+#: src/plasmatasks.cpp:148
+msgid "Appearance"
+msgstr ""
+
+#: src/plasmatasks.cpp:324
+msgid "New task"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/ui/appearanceconfig.ui:32
+msgid "Completed tasks color"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/ui/appearanceconfig.ui:48
+msgid "Tasks background"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/ui/appearanceconfig.ui:58
+msgid "Tasks of the week color"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, orderBy)
+#: src/ui/appearanceconfig.ui:86
+msgid "Date, Name, Completed"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, orderBy)
+#: src/ui/appearanceconfig.ui:91
+msgid "Name, Date, Completed"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, orderBy)
+#: src/ui/appearanceconfig.ui:96
+msgid "Completed, Date, Name"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, orderBy)
+#: src/ui/appearanceconfig.ui:101
+msgid "Completed, Name, Date"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/appearanceconfig.ui:120
+msgid "Expired tasks color"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/appearanceconfig.ui:130
+msgid "Today's tasks color"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/ui/appearanceconfig.ui:140
+msgid "Other tasks color"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/ui/appearanceconfig.ui:150
+msgid "Order by"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/ui/appearanceconfig.ui:185
+msgid "Checkboxes orientation"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, orientation)
+#: src/ui/appearanceconfig.ui:199
+msgid "Left"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, orientation)
+#: src/ui/appearanceconfig.ui:204
+msgid "Right"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, config)
+#: src/ui/config.ui:20
+msgid "Configuration"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/ui/config.ui:50
+msgid "Collections"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/config.ui:136
+msgid "Hide completed tasks"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/config.ui:169
+msgid "Automatically delete completed tasks"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, allDay)
+#: src/ui/taskedit.ui:72
+msgid "Takes the whole day"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/taskedit.ui:119
+msgid "Name"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/taskedit.ui:126
+msgid "Due date"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/ui/taskedit.ui:133
+msgid "Description"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/ui/taskedit.ui:143
+msgid "Start date"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/ui/taskedit.ui:160
+msgid "Calendar"
+msgstr ""

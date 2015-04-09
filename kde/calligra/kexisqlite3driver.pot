@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-01-20 01:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sqliteadmin.cpp:42
+#, kde-format
+msgid "Could not compact database \"%1\"."
+msgstr ""
+
+#: sqliteconnection.cpp:312
+#, kde-format
+msgid "Could not remove file \"%1\"."
+msgstr ""
+
+#: sqliteconnection.cpp:314
+msgid ""
+"Check the file's permissions and whether it is already opened and locked by "
+"another application."
+msgstr ""
+
+#: sqlitevacuum.cpp:130
+msgctxt "@title:window"
+msgid "Compacting Database"
+msgstr ""
+
+#: sqlitevacuum.cpp:131
+#, kde-format
+msgctxt "@info"
+msgid "Compacting database <resource>%1</resource>..."
+msgstr ""
+
+#: sqlitevacuum.cpp:210
+#, kde-format
+msgctxt "@info"
+msgid "The database has been compacted. Current size decreased by %1% to %2."
+msgstr ""

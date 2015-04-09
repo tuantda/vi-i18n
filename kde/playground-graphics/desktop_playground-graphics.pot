@@ -1,0 +1,202 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: darkroom/src/darkroom.desktop:2
+msgctxt "Name"
+msgid "Darkroom"
+msgstr ""
+
+#: darkroom/src/darkroom.desktop:38
+msgctxt "GenericName"
+msgid "Raw Images Converter"
+msgstr ""
+
+#: example_akonadi_imageviewer/src/example_akonadi_imageviewer.desktop:2
+msgctxt "Name"
+msgid "example_akonadi_imageviewer"
+msgstr ""
+
+#: example_akonadi_imageviewer/src/example_akonadi_imageviewer.desktop:29
+#: ksana/src/ksana.desktop:32
+msgctxt "GenericName"
+msgid "A KDE4 Application"
+msgstr ""
+
+#: ksana/src/ksana.desktop:2
+msgctxt "Name"
+msgid "Ksana"
+msgstr ""
+
+#: localimageakonadiresource/images_local.desktop:2
+msgctxt "Name"
+msgid "Local Images"
+msgstr ""
+
+#: localimageakonadiresource/images_local.desktop:27
+msgctxt "Comment"
+msgid "Loads images from a chosen folder"
+msgstr ""
+
+#: localimageakonadiresource/serializer.desktop:2
+msgctxt "Name"
+msgid "Local Image Serializer"
+msgstr ""
+
+#: localimageakonadiresource/serializer.desktop:25
+msgctxt "Comment"
+msgid "An Akonadi serializer plugin for local image objects"
+msgstr ""
+
+#: okular/emf/libokularGenerator_emf.desktop:3
+msgctxt "Name"
+msgid "Okular EMF Generator"
+msgstr ""
+
+#: okular/emf/libokularGenerator_emf.desktop:29
+msgctxt "Comment"
+msgid "EMF backend for Okular"
+msgstr ""
+
+#: okular/emf/okularApplication_emf.desktop:4 okular/emf/okularEmf.desktop:3
+#: okular/mupdf/okularApplication_mupdf.desktop:4
+#: okular/mupdf/okularMupdf.desktop:3
+msgctxt "Name"
+msgid "Okular"
+msgstr ""
+
+#: okular/emf/okularApplication_emf.desktop:37
+#: okular/mupdf/okularApplication_mupdf.desktop:37
+msgctxt "GenericName"
+msgid "Document Viewer"
+msgstr ""
+
+#: okular/mupdf/libokularGenerator_mupdf.desktop:3
+msgctxt "Name"
+msgid "MuPDF"
+msgstr ""
+
+#: okular/mupdf/libokularGenerator_mupdf.desktop:32
+msgctxt "Comment"
+msgid "PDF backend for Okular using MuPDF"
+msgstr ""
+
+#: skansuite/interface/skansuiteplugin.desktop:4
+msgctxt "Name"
+msgid "Skansuite Plugin"
+msgstr ""
+
+#: skansuite/kopier/kopier_config_general.desktop:15
+#: skansuite/skanlite/skanlite_config_general.desktop:15
+msgctxt "Name"
+msgid "General"
+msgstr ""
+
+#: skansuite/kopier/kopier_config_general.desktop:47
+msgctxt "Comment"
+msgid "General configuration of Kopier"
+msgstr ""
+
+#: skansuite/kopier/kopier.desktop:2
+msgctxt "Name"
+msgid "kopier"
+msgstr ""
+
+#: skansuite/kopier/kopier.desktop:32
+msgctxt "Comment"
+msgid "Copy scans to pdf/printer"
+msgstr ""
+
+#: skansuite/kopier/kopier.desktop:57
+msgctxt "GenericName"
+msgid "Copier"
+msgstr ""
+
+#: skansuite/kopier/kopier.setdlg:2
+msgctxt "Name"
+msgid "Kopier"
+msgstr ""
+
+#: skansuite/kopier/kopier.setdlg:27
+msgctxt "Comment"
+msgid "Copy Documents"
+msgstr ""
+
+#: skansuite/kopier/kopier_skansuiteplugin.desktop:16
+msgctxt "Comment"
+msgid "Document Copier Plugin"
+msgstr ""
+
+#: skansuite/kopier/kopier_skansuiteplugin.desktop:39
+msgctxt "Name"
+msgid "Copy Documents"
+msgstr ""
+
+#: skansuite/skanlite/skanlite_config_general.desktop:47
+msgctxt "Comment"
+msgid "General configuration of Skanlite"
+msgstr ""
+
+#: skansuite/skanlite/skanlite.desktop:7 skansuite/skanlite/skanlite.setdlg:2
+msgctxt "Name"
+msgid "Skanlite"
+msgstr ""
+
+#: skansuite/skanlite/skanlite.desktop:35 skansuite/src/skansuite.desktop:31
+msgctxt "GenericName"
+msgid "Image Scanning Application"
+msgstr ""
+
+#: skansuite/skanlite/skanlite.desktop:64 skansuite/src/skansuite.desktop:60
+msgctxt "Comment"
+msgid "Scan and save images"
+msgstr ""
+
+#: skansuite/skanlite/skanlite.setdlg:30
+msgctxt "Comment"
+msgid "Scan Images"
+msgstr ""
+
+#: skansuite/skanlite/skanlite_skansuiteplugin.desktop:16
+msgctxt "Comment"
+msgid "Document Image Plugin"
+msgstr ""
+
+#: skansuite/skanlite/skanlite_skansuiteplugin.desktop:40
+msgctxt "Name"
+msgid "Scan Images"
+msgstr ""
+
+#: skansuite/src/skansuiteconfig.desktop:15 skansuite/src/skansuite.desktop:7
+msgctxt "Name"
+msgid "Skansuite"
+msgstr ""
+
+#: skansuite/src/skansuiteconfig.desktop:39
+msgctxt "Comment"
+msgid "KDE Skansuite"
+msgstr ""
+
+#: skansuite/src/skansuiteconfig.desktop:63
+msgctxt "X-KDE-Keywords"
+msgid "skansuite"
+msgstr ""
+
+#: solidkreator/solidkreator.desktop:2
+msgctxt "GenericName"
+msgid "3D parametric CAD"
+msgstr ""
+
+#: solidkreator/solidkreator.desktop:29
+msgctxt "Name"
+msgid "SolidKreator"
+msgstr ""

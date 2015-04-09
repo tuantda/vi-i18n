@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-12-29 01:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: package/contents/ui/bookmarkspage.qml:53
+msgid "Back"
+msgstr ""
+
+#: package/contents/ui/bookmarkspage.qml:62
+msgid "Edit"
+msgstr ""
+
+#: package/contents/ui/browserpage.qml:57
+msgid "Rescan"
+msgstr ""
+
+#: package/contents/ui/browserpage.qml:66
+msgid "Abort"
+msgstr ""
+
+#: package/contents/ui/browserpage.qml:75
+msgid "Up"
+msgstr ""
+
+#: package/contents/ui/browserpage.qml:98
+msgid "Mount Dialog"
+msgstr ""
+
+#: package/contents/ui/main.qml:64
+msgid "Network Neighborhood"
+msgstr ""
+
+#: package/contents/ui/main.qml:71
+msgid "Mounted Shares"
+msgstr ""
+
+#: package/contents/ui/main.qml:78
+msgid "Bookmarks"
+msgstr ""
+
+#: package/contents/ui/main.qml:85
+msgid "Profiles"
+msgstr ""
+
+#: package/contents/ui/profileitemdelegate.qml:65
+msgid "(active)"
+msgstr ""
+
+#: package/contents/ui/sharesviewitemdelegate.qml:68
+msgid "<font size=\"-1\">on %1</font>"
+msgstr ""
+
+#: package/contents/ui/sharesviewpage.qml:53
+msgid "Unmount All"
+msgstr ""

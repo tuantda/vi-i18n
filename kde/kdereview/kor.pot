@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-01-31 06:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: main.cpp:31
+msgid "Kor Testudo Shell"
+msgstr ""
+
+#: main.cpp:33
+msgid "Luboš Luňák"
+msgstr ""
+
+#: minicli/minicli.cpp:45
+msgid "Show run command dialog"
+msgstr ""
+
+#: minicli/minicli.cpp:98
+msgid "Could not run the specified command"
+msgstr ""
+
+#: minicli/miniclidialog.cpp:38
+msgid "Run Command"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, infolabel)
+#: minicli/miniclidialog.ui:17
+msgid ""
+"Enter the name of the application you want to run or the URL you want to view"
+msgstr ""
+
+#: minicli/miniclihandler.cpp:91
+#, kde-format
+msgid ""
+"<center><b>%1</b></center>\n"
+"You do not have permission to execute this command."
+msgstr ""
+
+#: minicli/miniclihandler.cpp:115
+#, kde-format
+msgid ""
+"<center><b>%1</b></center>\n"
+"The specified command does not exist."
+msgstr ""
+
+#: minicli/miniclihandler.cpp:196
+msgid "Failed to contact the session manager"
+msgstr ""
+
+#: panels/clock/clock.cpp:158
+msgid "Calendar"
+msgstr ""

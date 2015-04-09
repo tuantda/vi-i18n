@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-19 05:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.cpp:29
+msgid "KPrinter"
+msgstr ""
+
+#: main.cpp:29
+msgid "A printer tool for KDE"
+msgstr ""
+
+#: main.cpp:32
+msgid "Make an internal copy of the files to print"
+msgstr ""
+
+#: main.cpp:34
+msgid "Printer/destination to print on"
+msgstr ""
+
+#: main.cpp:36
+msgid "Title/Name for the print job"
+msgstr ""
+
+#: main.cpp:38
+msgid "Number of copies"
+msgstr ""
+
+#: main.cpp:39
+msgid "Printer option"
+msgstr ""
+
+#: main.cpp:40
+msgid "Job output mode (gui, console, none)"
+msgstr ""
+
+#: main.cpp:41
+msgid "Print system to use (lpd, cups)"
+msgstr ""
+
+#: main.cpp:42
+msgid "Allow printing from STDIN"
+msgstr ""
+
+#: main.cpp:43
+msgid "Do not show the print dialog (print directly)"
+msgstr ""
+
+#: main.cpp:44
+msgid "Files to load"
+msgstr ""
+
+#: printwrapper.cpp:63
+msgid "Print Information"
+msgstr ""
+
+#: printwrapper.cpp:64
+msgid "Print Warning"
+msgstr ""
+
+#: printwrapper.cpp:65
+msgid "Print Error"
+msgstr ""
+
+#: printwrapper.cpp:71
+msgid "Print info"
+msgstr ""
+
+#: printwrapper.cpp:71
+msgid "Print warning"
+msgstr ""
+
+#: printwrapper.cpp:71
+msgid "Print error"
+msgstr ""
+
+#: printwrapper.cpp:187
+msgid ""
+"A file has been specified on the command line. Printing from STDIN will be "
+"disabled."
+msgstr ""
+
+#: printwrapper.cpp:193
+msgid ""
+"When using '--nodialog', you must at least specify one file to print or use "
+"the '--stdin' flag."
+msgstr ""
+
+#: printwrapper.cpp:242
+msgid "The specified printer or the default printer could not be found."
+msgstr ""
+
+#: printwrapper.cpp:244
+msgid "Operation aborted."
+msgstr ""
+
+#: printwrapper.cpp:274
+msgid "Unable to construct the print dialog."
+msgstr ""
+
+#: printwrapper.cpp:315
+#, kde-format
+msgid "Multiple files (%1)"
+msgstr ""
+
+#: printwrapper.cpp:322
+msgid "Nothing to print."
+msgstr ""
+
+#: printwrapper.cpp:347
+msgid "Unable to open temporary file."
+msgstr ""
+
+#: printwrapper.cpp:362
+msgid "Stdin is empty, no job sent."
+msgstr ""
+
+#: printwrapper.cpp:374
+#, kde-format
+msgid "Unable to copy file %1."
+msgstr ""
+
+#: printwrapper.cpp:391
+msgid "Error while printing files"
+msgstr ""

@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-08-11 01:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/applet/tabletapplet.cpp:140
+msgid "Error - Tablet service not available."
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:141
+msgid ""
+"Please start the KDE wacom tablet service.\n"
+"The service is required for tablet detection and profile support."
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:148
+msgid "Graphic Tablet - Device not detected."
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:149
+msgid ""
+"This widget is inactive because your tablet device is not connected or "
+"currently not supported."
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:415
+msgid "Select Tablet:"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:441
+msgid "Select Profile:"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:460
+msgctxt "Groupbox Settings for the applet to change some values on the fly"
+msgid "Settings"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:474
+msgctxt "Toggle between touch on/off"
+msgid "Touch:"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:479
+msgctxt "Touch tool enabled"
+msgid "On"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:487
+msgctxt "Touch tool disabled"
+msgid "Off"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:504
+msgctxt "Rotation of the tablet pad"
+msgid "Rotation:"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:549
+msgctxt "Toggle between absolute/relative penmode"
+msgid "Mode:"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:554
+msgctxt "absolute pen movement (pen mode)"
+msgid "Absolute"
+msgstr ""
+
+#: src/applet/tabletapplet.cpp:562
+msgctxt "relative pen movement (mouse mode)"
+msgid "Relative"
+msgstr ""

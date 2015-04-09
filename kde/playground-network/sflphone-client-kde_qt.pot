@@ -1,0 +1,456 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-08 01:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstractbookmarkmodel.cpp:99
+msgid "Most popular"
+msgstr ""
+
+#: abstractbookmarkmodel.cpp:191 contactmodel.cpp:126 contactproxymodel.cpp:352
+msgid "Contacts"
+msgstr ""
+
+#: abstractbookmarkmodel.cpp:297 abstractbookmarkmodel.cpp:300
+#: abstractbookmarkmodel.cpp:303 presencestatusmodel.cpp:301
+#: presencestatusmodel.cpp:303 presencestatusmodel.cpp:347
+#: presencestatusmodel.cpp:354
+msgid "N/A"
+msgstr ""
+
+#: account.cpp:266
+msgid "Registered"
+msgstr ""
+
+#: account.cpp:267
+msgid "Not Registered"
+msgstr ""
+
+#: account.cpp:268
+msgid "Trying..."
+msgstr ""
+
+#: account.cpp:269 call.cpp:578
+msgid "Error"
+msgstr ""
+
+#: account.cpp:270
+msgid "Authentication Failed"
+msgstr ""
+
+#: account.cpp:271
+msgid "Network unreachable"
+msgstr ""
+
+#: account.cpp:272
+msgid "Host unreachable"
+msgstr ""
+
+#: account.cpp:273
+msgid "Stun configuration error"
+msgstr ""
+
+#: account.cpp:274
+msgid "Stun server invalid"
+msgstr ""
+
+#: account.cpp:275
+msgid "Service unavailable"
+msgstr ""
+
+#: account.cpp:276
+msgid "Unacceptable"
+msgstr ""
+
+#: account.cpp:277
+msgid "Invalid"
+msgstr ""
+
+#: account.cpp:278
+msgid "Request Timeout"
+msgstr ""
+
+#: call.cpp:548
+msgid "Ringing (in)"
+msgstr ""
+
+#: call.cpp:551
+msgid "Ringing (out)"
+msgstr ""
+
+#: call.cpp:554
+msgid "Talking"
+msgstr ""
+
+#: call.cpp:557
+msgid "Dialing"
+msgstr ""
+
+#: call.cpp:560
+msgid "Hold"
+msgstr ""
+
+#: call.cpp:563
+msgid "Failed"
+msgstr ""
+
+#: call.cpp:566
+msgid "Busy"
+msgstr ""
+
+#: call.cpp:569
+msgid "Transfer"
+msgstr ""
+
+#: call.cpp:572
+msgid "Transfer hold"
+msgstr ""
+
+#: call.cpp:575
+msgid "Over"
+msgstr ""
+
+#: call.cpp:581 call.cpp:656 call.cpp:1621
+msgid "Conference"
+msgstr ""
+
+#: call.cpp:584
+msgid "Conference (hold)"
+msgstr ""
+
+#: call.cpp:586
+msgid "ERROR"
+msgstr ""
+
+#: call.cpp:588
+msgid "Initialization"
+msgstr ""
+
+#: call.cpp:666 legacyhistorybackend.cpp:60 phonenumber.cpp:356
+msgid "Unknown"
+msgstr ""
+
+#: call.cpp:1253
+msgid "Failure"
+msgstr ""
+
+#: call.cpp:1288
+msgid "No account registered!"
+msgstr ""
+
+#: call.cpp:1630
+msgid "Account: "
+msgstr ""
+
+#: callmodel.cpp:391
+msgid "Invalid account"
+msgstr ""
+
+#: callmodel.cpp:698
+msgid "Calls"
+msgstr ""
+
+#: categorizedaccountmodel.cpp:92
+msgid "Peer to peer"
+msgstr ""
+
+#: categorizedaccountmodel.cpp:94
+msgid "Server"
+msgstr ""
+
+#: categorizedaccountmodel.cpp:172
+msgid "Accounts"
+msgstr ""
+
+#: extensions/presenceitembackendmodelextension.cpp:78
+msgid "Track presence"
+msgstr ""
+
+#: historymodel.cpp:444
+msgid "History"
+msgstr ""
+
+#: historytimecategorymodel.cpp:27
+msgid "Today"
+msgstr ""
+
+#: historytimecategorymodel.cpp:28
+msgid "Yesterday"
+msgstr ""
+
+#: historytimecategorymodel.cpp:34
+msgid "Last week"
+msgstr ""
+
+#: historytimecategorymodel.cpp:35
+msgid "Two weeks ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:36
+msgid "Three weeks ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:37
+msgid "Last month"
+msgstr ""
+
+#: historytimecategorymodel.cpp:38
+msgid "Two months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:39
+msgid "Three months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:40
+msgid "Four months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:41
+msgid "Five months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:42
+msgid "Six months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:43
+msgid "Seven months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:44
+msgid "Eight months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:45
+msgid "Nine months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:46
+msgid "Ten months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:47
+msgid "Eleven months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:48
+msgid "Twelve months ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:49
+msgid "Last year"
+msgstr ""
+
+#: historytimecategorymodel.cpp:50
+msgid "Very long time ago"
+msgstr ""
+
+#: historytimecategorymodel.cpp:51
+msgid "Never"
+msgstr ""
+
+#: instantmessagingmodel.cpp:130
+msgid "Me"
+msgstr ""
+
+#: itembackendmodel.cpp:228 numbercompletionmodel.cpp:171
+#: presencestatusmodel.cpp:188
+msgid "Name"
+msgstr ""
+
+#: numbercategorymodel.cpp:58
+msgid "Uncategorized"
+msgstr ""
+
+#: numbercompletionmodel.cpp:171 phonedirectorymodel.cpp:289
+msgid "URI"
+msgstr ""
+
+#: numbercompletionmodel.cpp:171 phonedirectorymodel.cpp:289
+msgid "Account"
+msgstr ""
+
+#: numbercompletionmodel.cpp:171
+msgid "Weight"
+msgstr ""
+
+#: phonedirectorymodel.cpp:225
+msgid "This account does not support presence tracking"
+msgstr ""
+
+#: phonedirectorymodel.cpp:228
+msgid "No associated account"
+msgstr ""
+
+#: phonedirectorymodel.cpp:289
+msgid "Type"
+msgstr ""
+
+#: phonedirectorymodel.cpp:289
+msgid "Contact"
+msgstr ""
+
+#: phonedirectorymodel.cpp:289
+msgid "State"
+msgstr ""
+
+#: phonedirectorymodel.cpp:289
+msgid "Call count"
+msgstr ""
+
+#: phonedirectorymodel.cpp:289
+msgid "Week count"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290 presencestatusmodel.cpp:188
+msgid "Present"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Trimester count"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Have Called"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Last used"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Name_count"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Total (in seconds)"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Popularity_index"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Bookmarked"
+msgstr ""
+
+#: phonedirectorymodel.cpp:290
+msgid "Tracked"
+msgstr ""
+
+#: phonedirectorymodel.cpp:291
+msgid "Presence message"
+msgstr ""
+
+#: phonedirectorymodel.cpp:291
+msgid "Uid"
+msgstr ""
+
+#: presencestatusmodel.cpp:188
+msgid "Message"
+msgstr ""
+
+#: presencestatusmodel.cpp:188
+msgid "Color"
+msgstr ""
+
+#: presencestatusmodel.cpp:188
+msgid "Default"
+msgstr ""
+
+#: presencestatusmodel.cpp:301 presencestatusmodel.cpp:354
+msgid "Custom"
+msgstr ""
+
+#: securityvalidationmodel.cpp:25
+msgid ""
+"Your communication negotiation is secured, but not the media stream, please "
+"enable ZRTP or SDES"
+msgstr ""
+
+#: securityvalidationmodel.cpp:26
+msgid ""
+"TLS is disabled, the negotiation wont be encrypted. Your communication will "
+"be vulnerable to snooping"
+msgstr ""
+
+#: securityvalidationmodel.cpp:28
+msgid "Your certificate is expired, please contact your system administrator."
+msgstr ""
+
+#: securityvalidationmodel.cpp:29
+msgid "Your certificate is self signed. This break the chain of trust."
+msgstr ""
+
+#: securityvalidationmodel.cpp:30
+msgid "CA_CERTIFICATE_MISSING         "
+msgstr ""
+
+#: securityvalidationmodel.cpp:31
+msgid "END_CERTIFICATE_MISSING        "
+msgstr ""
+
+#: securityvalidationmodel.cpp:32
+msgid ""
+"None of your certificate provide a private key, this is required. Please "
+"select a private key or use a certificate with one built-in"
+msgstr ""
+
+#: securityvalidationmodel.cpp:34
+msgid "CERTIFICATE_MISMATCH           "
+msgstr ""
+
+#: securityvalidationmodel.cpp:35
+msgid "CERTIFICATE_STORAGE_PERMISSION "
+msgstr ""
+
+#: securityvalidationmodel.cpp:36
+msgid "CERTIFICATE_STORAGE_FOLDER     "
+msgstr ""
+
+#: securityvalidationmodel.cpp:37
+msgid "CERTIFICATE_STORAGE_LOCATION   "
+msgstr ""
+
+#: securityvalidationmodel.cpp:38
+msgid "OUTGOING_SERVER_MISMATCH       "
+msgstr ""
+
+#: securityvalidationmodel.cpp:39
+msgid "VERIFY_INCOMING_DISABLED       "
+msgstr ""
+
+#: securityvalidationmodel.cpp:40
+msgid "VERIFY_ANSWER_DISABLED         "
+msgstr ""
+
+#: securityvalidationmodel.cpp:41
+msgid "REQUIRE_CERTIFICATE_DISABLED   "
+msgstr ""
+
+#: video/sourcesmodel.cpp:77
+msgid "NONE"
+msgstr ""
+
+#: video/sourcesmodel.cpp:83
+msgid "SCREEN"
+msgstr ""
+
+#: video/sourcesmodel.cpp:89
+msgid "FILE"
+msgstr ""

@@ -1,0 +1,9 @@
+This folder contains .pot files for projects that are not hosted in KDE infraestructure but still designate KDE l10n to be its upstream place for translations to happen.
+
+Currently it holds translations for:
+ * Enzime
+	A project-independent tool for creating regular project reports and assisting interesting statistical analysis.
+	http://enzyme-project.org/
+ * Commit-Digest
+	Public display / frontend interface for Enzyme (http://enzyme-project.org/)
+	http://commit-digest.org/

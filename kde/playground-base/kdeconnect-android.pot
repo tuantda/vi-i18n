@@ -1,0 +1,522 @@
+# Translations template for PROJECT.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-04-05 02:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev\n"
+
+msgctxt "pref_plugin_telephony"
+msgid "Telephony notifier"
+msgstr ""
+
+msgctxt "pref_plugin_telephony_desc"
+msgid "Send notifications for SMS and calls"
+msgstr ""
+
+msgctxt "pref_plugin_battery"
+msgid "Battery report"
+msgstr ""
+
+msgctxt "pref_plugin_battery_desc"
+msgid "Periodically report battery status"
+msgstr ""
+
+msgctxt "pref_plugin_sftp"
+msgid "Filesystem expose"
+msgstr ""
+
+msgctxt "pref_plugin_sftp_desc"
+msgid "Allows to browse the phone's filesystem remotely"
+msgstr ""
+
+msgctxt "pref_plugin_clipboard"
+msgid "Clipboard sync"
+msgstr ""
+
+msgctxt "pref_plugin_clipboard_desc"
+msgid "Share the clipboard content"
+msgstr ""
+
+msgctxt "pref_plugin_mousepad"
+msgid "Remote input"
+msgstr ""
+
+msgctxt "pref_plugin_mousepad_desc"
+msgid "Use your phone as a mouse and keyboard"
+msgstr ""
+
+msgctxt "pref_plugin_mpris"
+msgid "Multimedia remote controls"
+msgstr ""
+
+msgctxt "pref_plugin_mpris_desc"
+msgid "Control audio/video from your phone"
+msgstr ""
+
+msgctxt "pref_plugin_ping"
+msgid "Ping"
+msgstr ""
+
+msgctxt "pref_plugin_ping_desc"
+msgid "Send and receive pings"
+msgstr ""
+
+msgctxt "pref_plugin_notifications"
+msgid "Notification sync"
+msgstr ""
+
+msgctxt "pref_plugin_notifications_desc"
+msgid "Access your notifications from other devices"
+msgstr ""
+
+msgctxt "pref_plugin_sharereceiver"
+msgid "Share receiver"
+msgstr ""
+
+msgctxt "pref_plugin_sharereceiver_desc"
+msgid "Save incoming files to the phone storage"
+msgstr ""
+
+msgctxt "plugin_not_available"
+msgid "This feature is not available in your Android version"
+msgstr ""
+
+msgctxt "device_list_empty"
+msgid "No devices"
+msgstr ""
+
+msgctxt "ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "open_settings"
+msgid "Open settings"
+msgstr ""
+
+msgctxt "no_permissions"
+msgid "You need to grant permission to access notifications"
+msgstr ""
+
+msgctxt "send_ping"
+msgid "Send ping"
+msgstr ""
+
+msgctxt "open_mpris_controls"
+msgid "Open remote control"
+msgstr ""
+
+msgctxt "open_mousepad"
+msgid "Open touchpad control"
+msgstr ""
+
+msgctxt "mousepad_info"
+msgid ""
+"Move a finger on the screen to move the mouse cursor. Tap for a click, "
+"and use two/three fingers for right and middle buttons. Use a long press "
+"to drag'n drop."
+msgstr ""
+
+msgctxt "mousepad_double_tap_settings_title"
+msgid "Set two finger tap action"
+msgstr ""
+
+msgctxt "mousepad_triple_tap_settings_title"
+msgid "Set three finger tap action"
+msgstr ""
+
+msgctxt "mousepad_tap_entries:0"
+msgid "Right click"
+msgstr ""
+
+msgctxt "mousepad_tap_entries:1"
+msgid "Middle click"
+msgstr ""
+
+msgctxt "mousepad_tap_entries:2"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "mousepad_double_default"
+msgid "right"
+msgstr ""
+
+msgctxt "mousepad_triple_default"
+msgid "middle"
+msgstr ""
+
+msgctxt "category_connected_devices"
+msgid "Connected devices"
+msgstr ""
+
+msgctxt "category_not_paired_devices"
+msgid "Available devices"
+msgstr ""
+
+msgctxt "category_remembered_devices"
+msgid "Remembered devices"
+msgstr ""
+
+msgctxt "plugins_failed_to_load"
+msgid "Plugins failed to load (tap for more info):"
+msgstr ""
+
+msgctxt "device_menu_plugins"
+msgid "Plugin settings"
+msgstr ""
+
+msgctxt "device_menu_unpair"
+msgid "Unpair"
+msgstr ""
+
+msgctxt "device_not_reachable"
+msgid "Paired device not reachable"
+msgstr ""
+
+msgctxt "unknown_device"
+msgid "Unknown device"
+msgstr ""
+
+msgctxt "error_not_reachable"
+msgid "Device not reachable"
+msgstr ""
+
+msgctxt "error_already_requested"
+msgid "Pairing already requested"
+msgstr ""
+
+msgctxt "error_already_paired"
+msgid "Device already paired"
+msgstr ""
+
+msgctxt "error_could_not_send_package"
+msgid "Could not send package"
+msgstr ""
+
+msgctxt "error_timed_out"
+msgid "Timed out"
+msgstr ""
+
+msgctxt "error_canceled_by_user"
+msgid "Canceled by user"
+msgstr ""
+
+msgctxt "error_canceled_by_other_peer"
+msgid "Canceled by other peer"
+msgstr ""
+
+msgctxt "error_invalid_key"
+msgid "Invalid key received"
+msgstr ""
+
+msgctxt "pair_requested"
+msgid "Pair requested"
+msgstr ""
+
+#, c-format
+msgctxt "pairing_request_from"
+msgid "Pairing request from %1s"
+msgstr ""
+
+#, c-format
+msgctxt "received_url_title"
+msgid "Received link from %1s"
+msgstr ""
+
+#, c-format
+msgctxt "received_url_text"
+msgid "Tap to open '%1s'"
+msgstr ""
+
+#, c-format
+msgctxt "incoming_file_title"
+msgid "Incoming file from %1s"
+msgstr ""
+
+#, c-format
+msgctxt "incoming_file_text"
+msgid "%1s"
+msgstr ""
+
+#, c-format
+msgctxt "outgoing_file_title"
+msgid "Sending file to %1s"
+msgstr ""
+
+#, c-format
+msgctxt "outgoing_file_text"
+msgid "%1s"
+msgstr ""
+
+#, c-format
+msgctxt "received_file_title"
+msgid "Received file from %1s"
+msgstr ""
+
+#, c-format
+msgctxt "received_file_fail_title"
+msgid "Failed receiving file from %1s"
+msgstr ""
+
+#, c-format
+msgctxt "received_file_text"
+msgid "Tap to open '%1s'"
+msgstr ""
+
+#, c-format
+msgctxt "sent_file_title"
+msgid "Sent file to %1s"
+msgstr ""
+
+#, c-format
+msgctxt "sent_file_text"
+msgid "%1s"
+msgstr ""
+
+#, c-format
+msgctxt "sent_file_failed_title"
+msgid "Failed to send file %1s"
+msgstr ""
+
+#, c-format
+msgctxt "sent_file_failed_text"
+msgid "%1s"
+msgstr ""
+
+msgctxt "tap_to_answer"
+msgid "Tap to answer"
+msgstr ""
+
+msgctxt "reconnect"
+msgid "Reconnect"
+msgstr ""
+
+msgctxt "right_click"
+msgid "Send Right Click"
+msgstr ""
+
+msgctxt "middle_click"
+msgid "Send Middle Click"
+msgstr ""
+
+msgctxt "show_keyboard"
+msgid "Show Keyboard"
+msgstr ""
+
+msgctxt "device_not_paired"
+msgid "Device not paired"
+msgstr ""
+
+msgctxt "request_pairing"
+msgid "Request pairing"
+msgstr ""
+
+msgctxt "pairing_accept"
+msgid "Accept"
+msgstr ""
+
+msgctxt "pairing_reject"
+msgid "Reject"
+msgstr ""
+
+msgctxt "device"
+msgid "Device"
+msgstr ""
+
+msgctxt "pair_device"
+msgid "Pair device"
+msgstr ""
+
+msgctxt "remote_control"
+msgid "Remote control"
+msgstr ""
+
+msgctxt "settings"
+msgid "KDE Connect Settings"
+msgstr ""
+
+msgctxt "mpris_play"
+msgid "Play"
+msgstr ""
+
+msgctxt "mpris_previous"
+msgid "Previous"
+msgstr ""
+
+msgctxt "mpris_rew"
+msgid "Rewind"
+msgstr ""
+
+msgctxt "mpris_ff"
+msgid "Fast-forward"
+msgstr ""
+
+msgctxt "mpris_next"
+msgid "Next"
+msgstr ""
+
+msgctxt "mpris_volume"
+msgid "Volume"
+msgstr ""
+
+msgctxt "mpris_settings"
+msgid "Multimedia Settings"
+msgstr ""
+
+msgctxt "mpris_time_settings_title"
+msgid "Forward/rewind buttons"
+msgstr ""
+
+msgctxt "mpris_time_settings_summary"
+msgid "Adjust the time to fast forward/rewind when pressed."
+msgstr ""
+
+msgctxt "mpris_time_entries:0"
+msgid "10 seconds"
+msgstr ""
+
+msgctxt "mpris_time_entries:1"
+msgid "20 seconds"
+msgstr ""
+
+msgctxt "mpris_time_entries:2"
+msgid "30 seconds"
+msgstr ""
+
+msgctxt "mpris_time_entries:3"
+msgid "1 minute"
+msgstr ""
+
+msgctxt "mpris_time_entries:4"
+msgid "2 minutes"
+msgstr ""
+
+msgctxt "share_to"
+msgid "Share To..."
+msgstr ""
+
+msgctxt "protocol_version_older"
+msgid "This device uses an old protocol version"
+msgstr ""
+
+msgctxt "protocol_version_newer"
+msgid "This device uses a newer protocol version"
+msgstr ""
+
+msgctxt "general_settings"
+msgid "General Settings"
+msgstr ""
+
+msgctxt "plugin_settings"
+msgid "Settings"
+msgstr ""
+
+#, c-format
+msgctxt "plugin_settings_with_name"
+msgid "%s settings"
+msgstr ""
+
+msgctxt "device_name"
+msgid "Device name"
+msgstr ""
+
+#, c-format
+msgctxt "device_name_preference_summary"
+msgid "%s"
+msgstr ""
+
+msgctxt "invalid_device_name"
+msgid "Invalid device name"
+msgstr ""
+
+msgctxt "shareplugin_text_saved"
+msgid "Received text, saved to clipboard"
+msgstr ""
+
+msgctxt "custom_devices_settings"
+msgid "Custom device list"
+msgstr ""
+
+msgctxt "custom_device_list"
+msgid "Add devices by IP"
+msgstr ""
+
+msgctxt "share_notification_preference"
+msgid "Noisy notifications"
+msgstr ""
+
+msgctxt "share_notification_preference_summary"
+msgid "Vibrate and play a sound when receiving a file"
+msgstr ""
+
+msgctxt "title_activity_notification_filter"
+msgid "Notification filter"
+msgstr ""
+
+msgctxt "filter_apps_info"
+msgid "Notifications will be synchronized for the selected apps."
+msgstr ""
+
+msgctxt "sftp_internal_storage"
+msgid "Internal storage"
+msgstr ""
+
+msgctxt "sftp_all_files"
+msgid "All files"
+msgstr ""
+
+#, c-format
+msgctxt "sftp_sdcard_num"
+msgid "SD card %d"
+msgstr ""
+
+msgctxt "sftp_sdcard"
+msgid "SD card"
+msgstr ""
+
+msgctxt "sftp_readonly"
+msgid "(read only)"
+msgstr ""
+
+msgctxt "sftp_camera"
+msgid "Camera pictures"
+msgstr ""
+
+msgctxt "add_host"
+msgid "Add host/IP"
+msgstr ""
+
+msgctxt "add_host_hint"
+msgid "Hostname or IP"
+msgstr ""
+
+msgctxt "no_players_connected"
+msgid "No players found"
+msgstr ""
+
+msgctxt "custom_dev_list_help"
+msgid ""
+"Use this option only if your device is not automatically detected. Enter "
+"IP address or hostname below and touch the button to add it to the list. "
+"Touch an existing item to remove it from the list."
+msgstr ""
+
+#, c-format
+msgctxt "mpris_player_on_device"
+msgid "%1$s on %2$s"
+msgstr ""

@@ -1,0 +1,44 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: protocols/mms.protocol:3
+msgctxt "Description"
+msgid "Microsoft Media Server Protocol"
+msgstr ""
+
+#: src/kmplayer.desktop:6
+msgctxt "Comment"
+msgid "KDE interface for MPlayer"
+msgstr ""
+
+#: src/kmplayer.desktop:59
+msgctxt "Name"
+msgid "KMPlayer"
+msgstr ""
+
+#: src/kmplayer.desktop:118
+msgctxt "GenericName"
+msgid "Media Player"
+msgstr ""
+
+#: src/kmplayer_part.desktop:3
+msgctxt "Name"
+msgid "Embedded MPlayer for KDE"
+msgstr ""
+
+#: src/kmplayer_part.desktop:55
+msgctxt "Comment"
+msgid ""
+"Video player plugin (QuickTime, XMovie, Windows Media and RealPlayer "
+"compatible)"
+msgstr ""

@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-09-09 04:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: InternalCollections.cpp:45
+msgid "Sasquatch"
+msgstr ""
+
+#: InternalCollections.cpp:49
+msgid "Mas Sasquatch"
+msgstr ""
+
+#: InternalCollections.cpp:53
+msgid "Sasquatch III"
+msgstr ""
+
+#: InternalCollections.cpp:57
+msgid "Microban (easy)"
+msgstr ""
+
+#: InternalCollections.cpp:61
+msgid "Sasquatch IV"
+msgstr ""
+
+#: InternalCollections.cpp:65
+msgid "Sasquatch V"
+msgstr ""
+
+#: InternalCollections.cpp:69
+msgid "Mas Microban (easy)"
+msgstr ""
+
+#: InternalCollections.cpp:73
+msgid "Sasquatch VI"
+msgstr ""
+
+#: InternalCollections.cpp:77
+msgid "LOMA"
+msgstr ""
+
+#: InternalCollections.cpp:81
+msgid "Sasquatch VII"
+msgstr ""
+
+#: main.cpp:30
+msgid "The japanese warehouse keeper game"
+msgstr ""
+
+#: main.cpp:39
+msgid "KSokoban"
+msgstr ""
+
+#: main.cpp:41
+msgid "(c) 1998-2001  Anders Widell"
+msgstr ""
+
+#: main.cpp:43
+msgid "Anders Widell"
+msgstr ""
+
+#: main.cpp:46
+msgid "David W. Skinner"
+msgstr ""
+
+#: main.cpp:47
+msgid "For contributing the Sokoban levels included in this game"
+msgstr ""
+
+#: main.cpp:53
+msgid "Level collection file to load"
+msgstr ""
+
+#: MainWindow.cpp:47
+msgid "&Level Collection"
+msgstr ""
+
+#: MainWindow.cpp:115
+msgid "&Next Level"
+msgstr ""
+
+#: MainWindow.cpp:121
+msgid "&Previous Level"
+msgstr ""
+
+#: MainWindow.cpp:127
+msgid "Re&start Level"
+msgstr ""
+
+#: MainWindow.cpp:142
+msgid "&Slow"
+msgstr ""
+
+#: MainWindow.cpp:145
+msgid "&Medium"
+msgstr ""
+
+#: MainWindow.cpp:148
+msgid "&Fast"
+msgstr ""
+
+#: MainWindow.cpp:151
+msgid "&Off"
+msgstr ""
+
+#: MainWindow.cpp:175 MainWindow.cpp:203
+msgid "(unused)"
+msgstr ""
+
+#: MainWindow.cpp:244
+msgid "(invalid)"
+msgstr ""
+
+#: MainWindow.cpp:299
+msgid "Load Levels From File"
+msgstr ""
+
+#: MainWindow.cpp:338
+msgid "No levels found in file"
+msgstr ""
+
+#: PlayField.cpp:59
+msgid "Level:"
+msgstr ""
+
+#: PlayField.cpp:59
+msgid "Steps:"
+msgstr ""
+
+#: PlayField.cpp:60
+msgid "Pushes:"
+msgstr ""
+
+#: PlayField.cpp:473
+msgid "Level completed"
+msgstr ""
+
+#: PlayField.cpp:824
+msgid ""
+"This is the last level in\n"
+"the current collection."
+msgstr ""
+
+#: PlayField.cpp:830
+msgid ""
+"You have not completed\n"
+"this level yet."
+msgstr ""
+
+#: PlayField.cpp:844
+msgid ""
+"This is the first level in\n"
+"the current collection."
+msgstr ""
+
+#: PlayField.cpp:997
+msgid ""
+"Sorry, bookmarks for external levels\n"
+"is not implemented yet."
+msgstr ""
+
+#: PlayField.cpp:1021
+msgid "This level is broken"
+msgstr ""

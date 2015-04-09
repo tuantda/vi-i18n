@@ -1,0 +1,2781 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-12-14 01:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: adblock/adblockmanager.cpp:353
+msgctxt "@title:window"
+msgid "Ad Block Settings"
+msgstr ""
+
+#: adblock/adblocksettingwidget.cpp:52
+msgid ""
+"<qt>Filter expression (e.g. <tt>http://www.example.com/ad/*</tt>, <a href="
+"\"filterhelp\">more information</a>):"
+msgstr ""
+
+#: adblock/adblocksettingwidget.cpp:67
+msgid " day"
+msgid_plural " days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adblock/adblocksettingwidget.cpp:82
+msgid ""
+"<qt><p>Enter an expression to filter. Filters can be defined as either:"
+"<ul><li>a shell-style wildcard, e.g. <tt>http://www.example.com/ads*</tt>, "
+"the wildcards <tt>*?[]</tt> may be used</li><li>a full regular expression by "
+"surrounding the string with '<tt>/</tt>', e.g. <tt>/\\/(ad|banner)\\./</tt></"
+"li></ul><p>Any filter string can be preceded by '<tt>@@</tt>' to whitelist "
+"(allow) any matching URL, which takes priority over any blacklist (blocking) "
+"filter."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, BlockedLabel)
+#: adblock/blocked_elements.ui:17
+msgid ""
+"<html><head/><body><p><span style=\" font-weight:600;\">Blocked elements</"
+"span></p></body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, HidedLabel)
+#: adblock/blocked_elements.ui:101
+msgid "<b>Hidden elements</b>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, syncLabel)
+#. i18n: ectx: property (text), widget (QLabel, hostLabel)
+#. i18n: ectx: property (text), widget (QLabel, certInfoLabel)
+#. i18n: ectx: property (text), widget (QLabel, subjectCN)
+#. i18n: ectx: property (text), widget (QLabel, subjectO)
+#. i18n: ectx: property (text), widget (QLabel, subjectOU)
+#. i18n: ectx: property (text), widget (QLabel, subjectSN)
+#. i18n: ectx: property (text), widget (QLabel, issuerCN)
+#. i18n: ectx: property (text), widget (QLabel, issuerOU)
+#. i18n: ectx: property (text), widget (QLabel, issuerO)
+#. i18n: ectx: property (text), widget (QLabel, issuedOn)
+#. i18n: ectx: property (text), widget (QLabel, expiresOn)
+#. i18n: ectx: property (text), widget (QLabel, md5)
+#. i18n: ectx: property (text), widget (QLabel, sha1)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: adblock/blocked_elements.ui:108 sync/sync_check.ui:30 sync/sync_check.ui:44
+#: webtab/sslinfo.ui:77 webtab/sslinfo.ui:131 webtab/sslinfo.ui:145
+#: webtab/sslinfo.ui:159 webtab/sslinfo.ui:173 webtab/sslinfo.ui:223
+#: webtab/sslinfo.ui:244 webtab/sslinfo.ui:251 webtab/sslinfo.ui:301
+#: webtab/sslinfo.ui:315 webtab/sslinfo.ui:365 webtab/sslinfo.ui:379
+msgid "TextLabel"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkEnableAdblock)
+#: adblock/settings_adblock.ui:17
+msgid "&Enable Ad Block"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkHideAds)
+#: adblock/settings_adblock.ui:24
+msgid "&Hide filtered elements"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: adblock/settings_adblock.ui:38
+msgid "Automatic Filters"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: adblock/settings_adblock.ui:49
+msgid "Update enabled automatic filters every:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: adblock/settings_adblock.ui:88
+msgid "Manual Filters"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: adblock/settings_adblock.ui:96
+msgid "Search:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, insertButton)
+#: adblock/settings_adblock.ui:130
+msgid "Add filter expression"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QToolButton, insertButton)
+#. i18n: ectx: property (text), widget (QToolButton, removeButton)
+#: adblock/settings_adblock.ui:133 adblock/settings_adblock.ui:143
+msgid "..."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, removeButton)
+#: adblock/settings_adblock.ui:140
+msgid "Remove filter expression"
+msgstr ""
+
+#: application.cpp:156 application.cpp:162
+msgid "Error"
+msgstr ""
+
+#: application.cpp:156
+msgid "Cannot launch webapp mode without an URL to load"
+msgstr ""
+
+#: application.cpp:162
+msgid "Cannot load more than one URL in webapp mode"
+msgstr ""
+
+#: application.cpp:557
+#, kde-format
+msgid ""
+"Malformed URL:\n"
+"%1"
+msgstr ""
+
+#: application.cpp:725
+msgid "Do you want to close the window or the whole application?"
+msgstr ""
+
+#: application.cpp:726
+msgid "Application/Window closing..."
+msgstr ""
+
+#: application.cpp:727
+msgid "C&lose Current Window"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ClearDataWidget)
+#: application.cpp:756 cleardata.ui:17
+msgctxt "@title:window"
+msgid "Clear Private Data"
+msgstr ""
+
+#: application.cpp:760
+msgid "Clear"
+msgstr ""
+
+#: application.cpp:844
+msgctxt "@title:window"
+msgid "Create Application Shortcut"
+msgstr ""
+
+#: application.cpp:846
+msgid "Create"
+msgstr ""
+
+#: bookmarks/bookmarkmanager.cpp:326
+msgid "&Bookmarks"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:74 panels/historypanel.cpp:71
+msgid "Open"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:75
+msgid "Open bookmark in current tab"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:77 panels/historypanel.cpp:75
+msgid "Open in New Tab"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:78
+msgid "Open bookmark in new tab"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:80 panels/historypanel.cpp:79
+msgid "Open in New Window"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:81
+msgid "Open bookmark in new window"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:83 panels/historypanel.cpp:104
+msgid "Open Folder in Tabs"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:84
+msgid "Open all the bookmarks in folder in tabs"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:86 urlbar/urlbar.cpp:825
+msgid "Add Bookmark"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:87
+msgid "Bookmark current page"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:89
+msgid "New Folder"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:90
+msgid "Create a new bookmark folder"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:92
+msgid "New Separator"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:93
+msgid "Create a new bookmark separator"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:95
+msgid "Copy Link"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:96
+msgid "Copy the bookmark's link address"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:98
+msgid "Edit"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:99
+msgid "Edit the bookmark"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:102
+msgid "Fancy Bookmark"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:103
+msgid "Link Nepomuk resources"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, deleteButton)
+#: bookmarks/bookmarkowner.cpp:106 session.ui:33 urlbar/urlbar.cpp:497
+#: useragent/useragentsettings.ui:39
+msgid "Delete"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:107
+msgid "Delete the bookmark"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:109
+msgid "Set as toolbar folder"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:112
+msgid "Unset this folder as the toolbar folder"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:171 panels/historypanel.cpp:136
+#, kde-format
+msgctxt "%1=Number of tabs. Value is always >=8"
+msgid ""
+"You are about to open %1 tabs.\n"
+"Are you sure?"
+msgid_plural ""
+"You are about to open %1 tabs.\n"
+"Are you sure?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bookmarks/bookmarkowner.cpp:248
+msgid "New folder"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:350
+msgid "Bookmark Folder Deletion"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:351
+#, kde-format
+msgid ""
+"Are you sure you wish to remove the bookmark folder\n"
+"\"%1\"?"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:355
+msgid "Separator Deletion"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:356
+msgid "Are you sure you wish to remove this separator?"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:360
+msgid "Bookmark Deletion"
+msgstr ""
+
+#: bookmarks/bookmarkowner.cpp:361
+#, kde-format
+msgid ""
+"Are you sure you wish to remove the bookmark\n"
+"\"%1\"?"
+msgstr ""
+
+#: bookmarks/bookmarkstreemodel.cpp:86
+#, kde-format
+msgctxt "%1=Number of items in bookmark folder"
+msgid " (1 item)"
+msgid_plural " (%1 items)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncBookmarks)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: bookmarks/bookmarkstreemodel.cpp:262 rekonqpage/newtabpage.cpp:313
+#: rekonqpage/newtabpage.cpp:347 settings/settings_tabs.ui:125
+#: sync/sync_check.ui:60 sync/sync_data.ui:32
+msgid "Bookmarks"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: cleardata.ui:29
+msgid "<h3>Clear the following items:</h3>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearHistory)
+#: cleardata.ui:52
+msgid "Visited pages history"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearDownloads)
+#: cleardata.ui:62
+msgid "Downloads history"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearCookies)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: cleardata.ui:72 settings/settings_privacy.ui:91
+msgid "Cookies"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearCachedPages)
+#: cleardata.ui:82
+msgid "Cached web pages"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, clearWebIcons)
+#: cleardata.ui:92
+msgid "Website icons"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, homePageThumbs)
+#: cleardata.ui:102
+msgid "Home page thumbs"
+msgstr ""
+
+#: history/historymodels.cpp:93
+msgid "Title"
+msgstr ""
+
+#: history/historymodels.cpp:94
+msgid "Address"
+msgstr ""
+
+#: history/historymodels.cpp:158
+#, kde-format
+msgid "First Visit: %1"
+msgstr ""
+
+#: history/historymodels.cpp:159
+#, kde-format
+msgid "Last Visit: %1"
+msgstr ""
+
+#: history/historymodels.cpp:160
+#, kde-format
+msgid "Number of Visits: %1"
+msgstr ""
+
+#: history/historymodels.cpp:455
+msgid "Earlier Today"
+msgstr ""
+
+#: history/historymodels.cpp:460
+#, kde-format
+msgid "1 item"
+msgid_plural "%1 items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: main.cpp:48
+msgid "A lightweight Web Browser for KDE based on WebKit"
+msgstr ""
+
+#: main.cpp:55 webtab/webtab.cpp:493
+msgid "rekonq"
+msgstr ""
+
+#: main.cpp:59
+msgid "(C) 2008-2013 Andrea Diamantini"
+msgstr ""
+
+#: main.cpp:66
+msgid "Andrea Diamantini"
+msgstr ""
+
+#: main.cpp:67
+msgid "Project Lead, Developer, Maintainer"
+msgstr ""
+
+#: main.cpp:71
+msgid "Johannes Tröscher"
+msgstr ""
+
+#: main.cpp:72
+msgid "QGraphicsEffect expert. Tabbar highlight animation"
+msgstr ""
+
+#: main.cpp:76
+msgid "Furkan Uzumcu"
+msgstr ""
+
+#: main.cpp:77
+msgid "A lot of improvements, especially on usability"
+msgstr ""
+
+#: main.cpp:81
+msgid "Yoann Laissus"
+msgstr ""
+
+#: main.cpp:82
+msgid "Developer, History & Bookmarks Improvements"
+msgstr ""
+
+#: main.cpp:86
+msgid "Cédric Bellegarde"
+msgstr ""
+
+#: main.cpp:87
+msgid "Patched code quite everywhere :)"
+msgstr ""
+
+#: main.cpp:91
+msgid "Jon Ander Peñalba"
+msgstr ""
+
+#: main.cpp:92
+msgid "Bookmarks code peer reviewer. A fantastic help"
+msgstr ""
+
+#: main.cpp:96
+msgid "Pierre Rossi"
+msgstr ""
+
+#: main.cpp:97
+msgid "Urlbar, tests, new tab page, bars... and more"
+msgstr ""
+
+#: main.cpp:101
+msgid "Lionel Chauvin"
+msgstr ""
+
+#: main.cpp:102
+msgid "Development, Ideas, Mockups, rekonq Icon"
+msgstr ""
+
+#: main.cpp:106
+msgid "Siteshwar Vashisht"
+msgstr ""
+
+#: main.cpp:107
+msgid "Code, Ideas, sync... and IRC chats!"
+msgstr ""
+
+#: main.cpp:111
+msgid "Tirtha Chatterjee"
+msgstr ""
+
+#: main.cpp:112
+msgid "A lot of nice work, here and there in the code :)"
+msgstr ""
+
+#: main.cpp:116
+msgid "Lindsay Mathieson"
+msgstr ""
+
+#: main.cpp:117
+msgid "Implemented inline spellcheck, provided hints, discovered bugs"
+msgstr ""
+
+#: main.cpp:123
+msgid "Dawit Alemayehu"
+msgstr ""
+
+#: main.cpp:124
+msgid "KDEWebKit (main) developer. And KIO. And KUriFilter. And more.."
+msgstr ""
+
+#: main.cpp:128
+msgid "Jekyll Wu"
+msgstr ""
+
+#: main.cpp:129
+msgid "Bug triaging. Impressive job about..."
+msgstr ""
+
+#: main.cpp:133
+msgid "Dimitrios Christidis"
+msgstr ""
+
+#: main.cpp:134
+msgid "Provides patches, fixes and good testing"
+msgstr ""
+
+#: main.cpp:138
+msgid "Panagiotis Papadopoulos"
+msgstr ""
+
+#: main.cpp:139
+msgid "Quite everything but code"
+msgstr ""
+
+#: main.cpp:143
+msgid "Phaneendra Hedge"
+msgstr ""
+
+#: main.cpp:144
+msgid "Nepomuk fancy bookmarking"
+msgstr ""
+
+#: main.cpp:148
+msgid "Jonathan Raphael Joachim Kolberg"
+msgstr ""
+
+#: main.cpp:149
+msgid "Handbook, Maintains a Kubuntu PPA with rekonq git packages"
+msgstr ""
+
+#: main.cpp:153
+msgid "Benjamin Poulain"
+msgstr ""
+
+#: main.cpp:154
+msgid ""
+"The \"QtWebKit guy\". Adblock (new) implementation. Code quality improvements"
+msgstr ""
+
+#: main.cpp:158
+msgid "Rohan Garg"
+msgstr ""
+
+#: main.cpp:159
+msgid "Handbook, Maintains a Kubuntu PPA with rekonq git packages."
+msgstr ""
+
+#: main.cpp:163
+msgid "Anton Kreuzkamp"
+msgstr ""
+
+#: main.cpp:164
+msgid "Session Management, patches"
+msgstr ""
+
+#: main.cpp:168
+msgid "David E. Narváez"
+msgstr ""
+
+#: main.cpp:169
+msgid "Implemented User Session Management and cleaned up SessionManager code"
+msgstr ""
+
+#: main.cpp:173
+msgid "Marc Deop"
+msgstr ""
+
+#: main.cpp:174
+msgid "Access Keys Navigation"
+msgstr ""
+
+#: main.cpp:178
+msgid "Yuri Chornoivan"
+msgstr ""
+
+#: main.cpp:179 main.cpp:184
+msgid "Checking rekonq strings, helping with docs"
+msgstr ""
+
+#: main.cpp:183
+msgid "Burkhard Lück"
+msgstr ""
+
+#: main.cpp:188
+msgid "Andrius da Costa Ribas"
+msgstr ""
+
+#: main.cpp:189
+msgid "Helped letting rekonq compile on Windows/MSVC and Mac OS X"
+msgstr ""
+
+#: main.cpp:193
+msgid "Pino Toscano"
+msgstr ""
+
+#: main.cpp:194
+msgid "fixuifiles ;)"
+msgstr ""
+
+#: main.cpp:206
+msgid "Open in incognito mode"
+msgstr ""
+
+#: main.cpp:207
+msgid "Open URL as web app (in a simple window)"
+msgstr ""
+
+#: main.cpp:208
+msgid "Location to open"
+msgstr ""
+
+#: nepomuk/utils/resourcemodel.cpp:149
+msgctxt ""
+"@title KCategorizedSortFilterProxyModel grouping all Nepomuk resources whose "
+"type is rdfs:Resource"
+msgid "Miscellaneous"
+msgstr ""
+
+#: nepomuk/utils/resourcemodel.cpp:175
+msgctxt "@title:column The Nepomuk resource label and icon"
+msgid "Resource"
+msgstr ""
+
+#: nepomuk/utils/resourcemodel.cpp:177
+msgctxt "@title:column The Nepomuk resource's RDF type"
+msgid "Resource Type"
+msgstr ""
+
+#: panels/historypanel.cpp:83
+msgid "Copy Link Address"
+msgstr ""
+
+#: panels/historypanel.cpp:87
+msgid "Remove Entry"
+msgstr ""
+
+#: panels/historypanel.cpp:91
+msgid "Remove all occurrences"
+msgstr ""
+
+#: panels/historypanel.cpp:108
+msgid "Remove Folder"
+msgstr ""
+
+#: panels/urlpanel.cpp:74
+msgid "&Search:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: rekonqpage/newtabpage.cpp:298 rekonqpage/newtabpage.cpp:341
+#: settings/settings_tabs.ui:120
+msgid "Favorites"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncHistory)
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rekonqpage/newtabpage.cpp:307 rekonqpage/newtabpage.cpp:353
+#: settings/settings_privacy.ui:199 settings/settings_tabs.ui:130
+#: sync/sync_check.ui:77 sync/sync_data.ui:42
+msgid "History"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: rekonqpage/newtabpage.cpp:319 rekonqpage/newtabpage.cpp:359
+#: settings/settings_tabs.ui:135
+msgid "Downloads"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabStartPage)
+#: rekonqpage/newtabpage.cpp:325 rekonqpage/newtabpage.cpp:365
+#: settings/settings_tabs.ui:140
+msgid "Closed Tabs"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:388
+msgid "Add Favorite"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:401
+msgid ""
+"You can add a favorite by clicking the \"Add Favorite\" button in the top-"
+"right corner of this page"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:422
+msgid "Search History"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:427
+msgid "Clear History"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:448
+msgid "Your browsing history is empty"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:453
+#, kde-format
+msgid "No matches for string %1 in history"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:515
+msgid "Show full History"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:529
+msgid "Edit Bookmarks"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:540
+msgid "You have no bookmarks"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:552
+msgid "Unsorted"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:574
+msgid "There are no recently closed tabs"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:603
+msgid "Search Downloads"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:607
+msgid "Clear Downloads"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:621
+msgid "There are no recently downloaded files to show"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:666
+msgid ""
+"This download is managed by KGet. Check it to grab information about its "
+"state"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:670
+msgid "Suspended"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:674
+msgid "Downloading now..."
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:678
+#, kde-format
+msgctxt "%1 = Error description"
+msgid "Error: %1"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:688
+msgid "Open directory"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:695
+msgid "Open file"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:699
+msgid "Removed"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:707
+msgid "Remove from list"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:718
+#, kde-format
+msgid "No matches for string %1 in downloads"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:770
+msgid "Set a Preview..."
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:861
+msgid "Remove favorite"
+msgstr ""
+
+#: rekonqpage/newtabpage.cpp:866
+msgid "Reload thumbnail"
+msgstr ""
+
+#: rekonqpage/thumbupdater.cpp:57
+msgid "Loading Preview..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, saveButton)
+#: session.ui:26
+msgid "Save"
+msgstr ""
+
+#: sessionmanager.cpp:488
+msgctxt "@title:window"
+msgid "Manage Session"
+msgstr ""
+
+#: sessionmanager.cpp:492
+msgid "Load"
+msgstr ""
+
+#: sessionwidget.cpp:93
+msgid "untitled"
+msgstr ""
+
+#: settings/appearancewidget.cpp:113
+msgid ""
+"Select the default encoding to be used; normally, you will be fine with 'Use "
+"language encoding' and should not have to change this."
+msgstr ""
+
+#: settings/generalwidget.cpp:107
+msgid "Install KGet to enable rekonq to use it as download manager"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PassExceptions)
+#: settings/password_exceptions.ui:14
+msgid "Password Exceptions"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeOneButton)
+#: settings/password_exceptions.ui:38
+msgid "Remove one"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeAllButton)
+#: settings/password_exceptions.ui:45
+msgid "Remove all"
+msgstr ""
+
+#: settings/privacywidget.cpp:86
+msgid "If enabled, JavaScript programs are allowed to open new windows."
+msgstr ""
+
+#: settings/privacywidget.cpp:87
+msgid ""
+"If enabled, JavaScript programs are allowed to read from and to write to the "
+"clipboard."
+msgstr ""
+
+#: settings/privacywidget.cpp:91
+msgid "Javascript is not enabled, cannot change these settings"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: settings/settings_advanced.ui:17
+msgid "Proxy"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_advanced.ui:35
+msgid "Rekonq is using system proxy settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, proxyButton)
+#: settings/settings_advanced.ui:51
+msgid "Change proxy settings"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: settings/settings_advanced.ui:66
+msgid "Custom Style Sheet"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: settings/settings_advanced.ui:84
+msgid "Path to custom CSS file:"
+msgstr ""
+
+#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_userCSS)
+#: settings/settings_advanced.ui:106
+msgid "*.css"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_advanced.ui:116
+msgid "Misc"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_hScrollWheelHistory)
+#: settings/settings_advanced.ui:122
+msgid "Use horizontal scroll wheel to go through web history"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_useFavicon)
+#: settings/settings_advanced.ui:129
+msgid "Use favicon of the current website as window icon"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_smoothScrolling)
+#: settings/settings_advanced.ui:136
+msgid "Scroll pages with an eye candy effect"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_smoothScrolling)
+#: settings/settings_advanced.ui:139
+msgid "Enable smooth scrolling"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_enableViShortcuts)
+#: settings/settings_advanced.ui:149
+msgid "Enable Vi-like navigation shortcuts"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_accessKeysEnabled)
+#: settings/settings_advanced.ui:156
+msgid "Enable keyboard navigation using the Ctrl key"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_automaticSpellChecking)
+#: settings/settings_advanced.ui:163
+msgid "Enable automatic spell checking"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: settings/settings_advanced.ui:178
+msgid "Middle click should:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_middleClickAction)
+#: settings/settings_advanced.ui:201
+msgid "Auto-scroll"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_middleClickAction)
+#: settings/settings_advanced.ui:206
+msgid "Load Clipboard URL"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_middleClickAction)
+#: settings/settings_advanced.ui:211
+msgid "Do Nothing"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, appearance)
+#: settings/settings_appearance.ui:14 settings/settingsdialog.cpp:95
+msgid "Appearance"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_appearance.ui:20
+msgid "Fonts"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_appearance.ui:38
+msgid "Standard font:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_appearance.ui:76
+msgid "Fixed font:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: settings/settings_appearance.ui:114
+msgid "Serif font:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: settings/settings_appearance.ui:152
+msgid "Sans Serif font:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: settings/settings_appearance.ui:190
+msgid "Cursive font:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: settings/settings_appearance.ui:228
+msgid "Fantasy font:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: settings/settings_appearance.ui:257
+msgid "Font size"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: settings/settings_appearance.ui:275
+msgid "Default font size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settings/settings_appearance.ui:297
+msgid "Minimal font size:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: settings/settings_appearance.ui:330
+msgid "Zoom"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: settings/settings_appearance.ui:348
+msgid "Default page zoom:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_appearance.ui:377
+msgid "Character Encoding"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: settings/settings_appearance.ui:395
+msgid "Default character encoding:"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, general)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_general.ui:14 settings/settings_webkit.ui:17
+#: settings/settingsdialog.cpp:83
+msgid "General"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_general.ui:20
+msgid "First settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_general.ui:41
+msgid "When starting rekonq:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_general.ui:63
+msgid "Home page URL:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, setHomeToCurrentPageButton)
+#: settings/settings_general.ui:94
+msgid "Set to Current Page"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:129
+msgid "Open the Home Page"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:134
+msgid "Open the New Tab Page"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:139
+msgid "Restore the Last Opened Tabs"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_startupBehaviour)
+#: settings/settings_general.ui:144
+msgid "Show session dialog"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_general.ui:155
+msgid "Downloads Management"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, askDownloadNo)
+#: settings/settings_general.ui:175
+msgid "Save files to:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, askDownloadYes)
+#: settings/settings_general.ui:200
+msgid "Always ask me where to save files"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_kgetDownload)
+#: settings/settings_general.ui:223
+msgid "Use KGet for downloading files"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_kgetList)
+#: settings/settings_general.ui:230
+msgid ""
+"If enabled, rekonq will display an additional context menu entry, which, "
+"when selected, lists all available links of the current website in KGet."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_kgetList)
+#: settings/settings_general.ui:233
+msgid "List links with KGet"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_privacy.ui:17
+msgid "JavaScript"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javascriptCanOpenWindows)
+#: settings/settings_privacy.ui:23
+msgid "Let JavaScript open new windows"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javascriptCanAccessClipboard)
+#: settings/settings_privacy.ui:30
+msgid "Let JavaScript access clipboard"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/settings_privacy.ui:40
+msgid "Tracking"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, doNotTrackCheckBox)
+#: settings/settings_privacy.ui:46
+msgid "Tell websites you do not want to be tracked"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncPasswords)
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
+#: settings/settings_privacy.ui:56 sync/sync_check.ui:101
+#: sync/sync_data.ui:52
+msgid "Passwords"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_passwordSavingEnabled)
+#: settings/settings_privacy.ui:68
+msgid "Remember passwords for sites"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, managePassExceptionsButton)
+#: settings/settings_privacy.ui:81
+msgid "Manage Exceptions"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_privacy.ui:97
+msgid "Rekonq is sharing cookies settings with all other KDE applications"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, cookiesButton)
+#: settings/settings_privacy.ui:115
+msgid "Manage Cookies"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_6)
+#: settings/settings_privacy.ui:145
+msgid "Cache"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settings/settings_privacy.ui:151
+msgid "Rekonq is sharing cache settings with all other KDE applications"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, cacheButton)
+#: settings/settings_privacy.ui:169
+msgid "Manage Cache"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_privacy.ui:211
+msgid "Remove history items:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:234
+msgid "Never"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:239
+msgid "Every 3 months"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:244
+msgid "Every month"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:249
+msgid "Every day"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:254
+msgid "At application exit"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, kcfg_expireHistory)
+#: settings/settings_privacy.ui:259
+msgid "Do not even store them"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, tabs)
+#: settings/settings_tabs.ui:14 settings/settingsdialog.cpp:89
+msgid "Tabs"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: settings/settings_tabs.ui:20
+msgid "New Tab Behavior"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: settings/settings_tabs.ui:38
+msgid "New tab opens:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabsBehaviour)
+#: settings/settings_tabs.ui:64
+msgid "New Tab Page"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabsBehaviour)
+#: settings/settings_tabs.ui:69
+msgid "Blank Page"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_newTabsBehaviour)
+#: settings/settings_tabs.ui:74
+msgctxt "@item:inlistbox"
+msgid "Home Page"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: settings/settings_tabs.ui:94
+msgid "New Tab Page starts with:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_tabs.ui:151
+msgid "Tabbed Browsing"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: settings/settings_tabs.ui:171
+msgid "When hovering a tab show:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:197
+msgid "Tab Preview"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:202
+msgid "Tab's Title in a Tooltip"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:207
+msgid "Tab's URL in a Tooltip"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_hoveringTabOption)
+#: settings/settings_tabs.ui:212
+msgctxt "@item:inlistbox"
+msgid "Nothing"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openExternalLinksInNewWindow)
+#: settings/settings_tabs.ui:235
+msgid "Open as new window when URL is called externally"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_lastTabClosesWindow)
+#: settings/settings_tabs.ui:242
+msgid "Closing last tab closes window"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_closeTabSelectPrevious)
+#: settings/settings_tabs.ui:249
+msgid "Activate previously used tab when closing the current one"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openNewTabsNextToCurrent)
+#: settings/settings_tabs.ui:259
+msgid "Open new tabs next to current tab"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_openNewTabsInForeground)
+#: settings/settings_tabs.ui:266
+msgid "Open new tabs in the foreground"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javascriptEnabled)
+#: settings/settings_webkit.ui:29
+msgid "Enable JavaScript"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_javaEnabled)
+#: settings/settings_webkit.ui:36
+msgid "Load Java applets"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_webGL)
+#: settings/settings_webkit.ui:43
+msgid "WebGL"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_spatialNavigation)
+#: settings/settings_webkit.ui:50
+msgid "Spatial Navigation"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_frameFlattening)
+#: settings/settings_webkit.ui:57
+msgid "Frame Flattening"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_dnsPrefetch)
+#: settings/settings_webkit.ui:64
+msgid "Prefetch DNS entries"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_printElementBackgrounds)
+#: settings/settings_webkit.ui:71
+msgid "Print element backgrounds"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_zoomTextOnly)
+#: settings/settings_webkit.ui:78
+msgid "Zoom Text only"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: settings/settings_webkit.ui:97
+msgid "Plugins"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/settings_webkit.ui:118
+msgid "When loading web pages:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_pluginsEnabled)
+#: settings/settings_webkit.ui:141
+msgid "Autoload Plugins"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_pluginsEnabled)
+#: settings/settings_webkit.ui:146
+msgid "Manually Load Plugins"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_pluginsEnabled)
+#: settings/settings_webkit.ui:151
+msgid "Never Load Plugins"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
+#: settings/settings_webkit.ui:162
+msgid "HTML 5"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_offlineStorageDatabaseEnabled)
+#: settings/settings_webkit.ui:168
+msgid "Offline storage database"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_offlineWebApplicationCacheEnabled)
+#: settings/settings_webkit.ui:175
+msgid "Offline web application cache"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_localStorageEnabled)
+#: settings/settings_webkit.ui:182
+msgid "Local Storage"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/settings_webkit.ui:197
+msgid "Offline web application quota:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (KIntNumInput, kcfg_offlineWebApplicationCacheQuota)
+#: settings/settings_webkit.ui:216
+msgid " Kb"
+msgstr ""
+
+#: settings/settingsdialog.cpp:101
+msgid "WebKit"
+msgstr ""
+
+#: settings/settingsdialog.cpp:109
+msgid "Privacy"
+msgstr ""
+
+#: settings/settingsdialog.cpp:115
+msgid "Advanced"
+msgstr ""
+
+#: settings/settingsdialog.cpp:121
+msgid "Search Engines"
+msgstr ""
+
+#: settings/settingsdialog.cpp:144
+msgctxt "Window title of the settings dialog"
+msgid "Configure – rekonq"
+msgstr ""
+
+#: settings/webkitwidget.cpp:61
+msgid "Enables WebGL technology"
+msgstr ""
+
+#: settings/webkitwidget.cpp:62
+msgid "Lets you navigating between focusable elements using arrow keys."
+msgstr ""
+
+#: settings/webkitwidget.cpp:63
+msgid "Flatten all the frames to become one scrollable page."
+msgstr ""
+
+#: settings/webkitwidget.cpp:64
+msgid ""
+"Specifies whether WebKit will try to prefetch DNS entries to speed up "
+"browsing."
+msgstr ""
+
+#: settings/webkitwidget.cpp:65
+msgid ""
+"If enabled, background colors and images are also drawn when the page is "
+"printed."
+msgstr ""
+
+#: settings/webkitwidget.cpp:66
+msgid "Enables the execution of JavaScript programs."
+msgstr ""
+
+#: settings/webkitwidget.cpp:67
+msgid "Enables support for Java applets."
+msgstr ""
+
+#: settings/webkitwidget.cpp:68
+msgid "Enables support for the HTML 5 offline storage feature."
+msgstr ""
+
+#: settings/webkitwidget.cpp:69
+msgid "Enables support for the HTML 5 web application cache feature."
+msgstr ""
+
+#: settings/webkitwidget.cpp:70
+msgid "Enables support for the HTML 5 local storage feature."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:148 sync/sshsynchandler.cpp:149
+msgid "Remote bookmarks file does not exists. Exporting local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:161 sync/sshsynchandler.cpp:162
+msgid "Remote bookmarks file exists. Syncing local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:204 sync/sshsynchandler.cpp:205
+msgid "Remote history file does not exists. Exporting local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:217 sync/sshsynchandler.cpp:218
+msgid "Remote history file exists. Syncing local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:260 sync/sshsynchandler.cpp:261
+msgid "Remote passwords file does not exists. Exporting local copy..."
+msgstr ""
+
+#: sync/ftpsynchandler.cpp:273 sync/sshsynchandler.cpp:274
+msgid "Remote passwords file exists. Syncing local copy..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:86 sync/googlesynchandler.cpp:91
+#: sync/operasynchandler.cpp:89 sync/operasynchandler.cpp:94
+msgid "Not supported"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:114 sync/operasynchandler.cpp:117
+msgid "Syncing history not supported"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:122 sync/operasynchandler.cpp:125
+msgid "Syncing passwords not supported"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:144 sync/operasynchandler.cpp:147
+msgid "No username or password"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:164 sync/operasynchandler.cpp:202
+#, kde-format
+msgid "Error loading: %1"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:187 sync/operasynchandler.cpp:232
+msgid "Signing in..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:199 sync/operasynchandler.cpp:286
+msgid "Fetching bookmarks from server..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:204 sync/operasynchandler.cpp:271
+msgid "Login failed"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:233
+msgid "Adding bookmarks on server..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:263 sync/operasynchandler.cpp:348
+#: sync/operasynchandler.cpp:913 urlbar/resourcelinkdialog.cpp:112
+msgid "Done"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:284
+msgid "Reading bookmarks..."
+msgstr ""
+
+#: sync/googlesynchandler.cpp:302
+msgid "Adding bookmark"
+msgstr ""
+
+#: sync/googlesynchandler.cpp:320 sync/googlesynchandler.cpp:336
+#: sync/googlesynchandler.cpp:429
+msgid "Signing out..."
+msgstr ""
+
+#: sync/operasynchandler.cpp:172
+msgid "OAuth: Error fetching request token"
+msgstr ""
+
+#: sync/operasynchandler.cpp:245
+msgid "OAuth: Sending verification code"
+msgstr ""
+
+#: sync/operasynchandler.cpp:252
+msgid "OAuth: Error fetching access token"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: sync/sync_check.ui:17
+msgid "Data"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: sync/sync_check.ui:23
+msgid "Sync Handler"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#. i18n: ectx: property (text), widget (QTreeWidget, sitePolicyTreeWidget)
+#: sync/sync_check.ui:37 useragent/useragentsettings.ui:24
+msgid "Host"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: sync/sync_check.ui:54
+msgid "Check"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, syncGroupBox)
+#: sync/sync_data.ui:23 webwindow/webwindow.cpp:370
+msgid "Sync"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, ftpGroupBox)
+#: sync/sync_ftp_settings.ui:17
+msgid "Remote FTP Host Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: sync/sync_ftp_settings.ui:23 sync/sync_ssh_settings.ui:26
+msgid "Server:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: sync/sync_ftp_settings.ui:33 sync/sync_google_settings.ui:26
+#: sync/sync_opera_settings.ui:26 sync/sync_ssh_settings.ui:36
+msgid "Username:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: sync/sync_ftp_settings.ui:43 sync/sync_google_settings.ui:36
+#: sync/sync_opera_settings.ui:36 sync/sync_ssh_settings.ui:46
+msgid "Password:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: sync/sync_ftp_settings.ui:56 sync/sync_ssh_settings.ui:63
+msgid "Path:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: sync/sync_ftp_settings.ui:66 sync/sync_ssh_settings.ui:73
+msgid "Port:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, googleGroupBox)
+#: sync/sync_google_settings.ui:17
+msgid "Google Account Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, infoLabel)
+#: sync/sync_google_settings.ui:52 sync/sync_opera_settings.ui:52
+msgid "Only bookmarks will be synchronized."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_syncEnabled)
+#: sync/sync_host_type.ui:17
+msgid "Activate sync"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, hostGroupBox)
+#: sync/sync_host_type.ui:24
+msgid "Sync Host Type"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, ftpRadioButton)
+#: sync/sync_host_type.ui:30 sync/synccheckwidget.cpp:58
+msgid "FTP"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, sshRadioButton)
+#: sync/sync_host_type.ui:37 sync/synccheckwidget.cpp:73
+msgid "SSH"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, googleRadioButton)
+#: sync/sync_host_type.ui:44
+msgid "Google Sync"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, operaRadioButton)
+#: sync/sync_host_type.ui:51
+msgid "Opera Sync"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, nullRadioButton)
+#: sync/sync_host_type.ui:58
+msgid "/dev/null"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, operaGroupBox)
+#: sync/sync_opera_settings.ui:17
+msgid "Opera Account Settings"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, sshGroupBox)
+#: sync/sync_ssh_settings.ui:17
+msgid "SSH Host Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, syncWithSSHKeys)
+#: sync/sync_ssh_settings.ui:56
+msgid "Use system ssh keys to login"
+msgstr ""
+
+#: sync/syncassistant.cpp:45
+msgid "Sync Assistant"
+msgstr ""
+
+#: sync/synccheckwidget.cpp:63
+msgid "Google"
+msgstr ""
+
+#: sync/synccheckwidget.cpp:68 useragent/useragentmanager.cpp:117
+msgid "Opera"
+msgstr ""
+
+#: sync/synccheckwidget.cpp:78
+msgid "No sync"
+msgstr ""
+
+#: sync/synccheckwidget.cpp:79
+msgctxt "no host"
+msgid "None"
+msgstr ""
+
+#: sync/syncoperasettingswidget.cpp:62
+msgid "Rekonq has been compiled without support for Opera Sync"
+msgstr ""
+
+#: tabwindow/rekonqwindow.cpp:170 tabwindow/tabwidget.cpp:199
+msgid "Bookmarks Panel"
+msgstr ""
+
+#: tabwindow/rekonqwindow.cpp:194 tabwindow/tabwidget.cpp:206
+msgid "History Panel"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:203
+msgid "Clone"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:208 webwindow/webwindow.cpp:284
+#: webwindow/webwindow.cpp:455
+msgid "Reload"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:213
+msgid "Reload All"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:219
+msgid "Detach"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:227
+msgid "Unpin Tab"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:234
+msgid "Pin Tab"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:241
+msgid "&Close"
+msgstr ""
+
+#: tabwindow/tabbar.cpp:248
+msgid "Close &Other Tabs"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:92 tabwindow/tabwidget.cpp:109
+#: tabwindow/tabwidget.cpp:302 tabwindow/tabwidget.cpp:355
+#: tabwindow/tabwidget.cpp:364 tabwindow/tabwidget.cpp:370
+#: tabwindow/tabwidget.cpp:400
+msgid "new tab"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:149
+msgid "New &Tab"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:154
+msgid "Open Last Closed Tab"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:159
+msgid "&Close Tab"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:164
+msgid "Show Next Tab"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:169
+msgid "Show Previous Tab"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:179
+msgid "Bookmark all tabs"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:217
+#, kde-format
+msgid "Switch to Tab %1"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:229
+#, kde-format
+msgid "Switch to Favorite Page %1"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:563
+msgid "Loading..."
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:782
+#, kde-format
+msgid "Bookmarked tabs: %1"
+msgstr ""
+
+#: tabwindow/tabwidget.cpp:820 tabwindow/tabwidget.cpp:822
+msgid "restored tab"
+msgstr ""
+
+#: urlbar/adblockwidget.cpp:61
+msgid " AdBlock"
+msgstr ""
+
+#: urlbar/adblockwidget.cpp:78
+msgid "Enable AdBlock for this site"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:85
+msgid " Bookmark"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:92
+msgid "<a href='Remove'>Remove</a>"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:102
+msgid "Folder:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: urlbar/bookmarkwidget.cpp:110 webappcreation.ui:19
+msgid "Name:"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:128
+msgid "Rate:"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:135
+msgid "Rate this page"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:140
+msgid "Describe:"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:151
+msgid "Tags:"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:153
+msgid "add tags (comma separated)"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:169
+msgid "Link Resources"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:179
+msgid "Nepomuk is actually disabled."
+msgstr ""
+
+#. i18n: ectx: ToolBar (bookmarkToolBar)
+#: urlbar/bookmarkwidget.cpp:242 webwindow/rekonqui.rc:178
+msgid "Bookmark Toolbar"
+msgstr ""
+
+#: urlbar/bookmarkwidget.cpp:259
+msgid "Root folder"
+msgstr ""
+
+#: urlbar/listitem.cpp:272
+#, kde-format
+msgctxt "%1=search engine, e.g. Google, Wikipedia %2=text to search for"
+msgid "Search %1 for <b>%2</b>"
+msgstr ""
+
+#: urlbar/listitem.cpp:329
+msgid "Engines:"
+msgstr ""
+
+#: urlbar/newresourcedialog.cpp:63
+msgid "Link to new Resource"
+msgstr ""
+
+#: urlbar/newresourcedialog.cpp:64 urlbar/resourcelinkdialog.cpp:113
+msgid "Link"
+msgstr ""
+
+#: urlbar/newresourcedialog.cpp:70
+msgid "* Resource Name:"
+msgstr ""
+
+#: urlbar/newresourcedialog.cpp:75
+msgid "Description (Optional)"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:107
+msgid "Resource Linker"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:114
+msgid "Unlink"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:127
+msgid "Search resources"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:131
+msgid "Double click to link resource"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Any resource"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Persons"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Projects"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Tasks"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Places"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:137
+msgid "Notes"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:146
+msgid "Matching resources:"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:147
+msgid "Linked Resources:"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:151
+msgid "Create New Resource"
+msgstr ""
+
+#: urlbar/resourcelinkdialog.cpp:228
+msgid "&Unlink"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:59
+msgid "Subscribe to RSS Feeds"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:67
+msgid "Aggregator:"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:79
+msgid "Feed:"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:94
+msgid "Add Feed"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:140 urlbar/rsswidget.cpp:152
+msgid "Imported Feeds"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:144
+msgid "Could not add feed to Akregator. Please add it manually:"
+msgstr ""
+
+#: urlbar/rsswidget.cpp:156
+msgid ""
+"There was an error. Please verify Akregator is installed on your system."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:78
+msgid "Identity"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:88
+msgid "Warning: this site is not carrying a certificate."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:96
+#, kde-format
+msgid ""
+"The certificate for this site is valid and has been verified by:\n"
+"%1."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:110
+#, kde-format
+msgid ""
+"The certificate for this site is not valid, for the following reasons:\n"
+"%1."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:119
+msgid "Certificate Information"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:127
+msgid "Encryption"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:141
+#, kde-format
+msgid "Your connection to %1 is not encrypted.\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:150
+#, kde-format
+msgid "Your connection to \"%1\" is encrypted.\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:182
+msgid "Unknown"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:188
+#, kde-format
+msgid "It uses protocol: %1.\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:195
+#, kde-format
+msgid ""
+"It is encrypted using %1 at %2 bits, with %3 for message authentication and "
+"%4 with Auth %5 as key exchange mechanism.\n"
+"\n"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:212
+msgid "Site Information"
+msgstr ""
+
+#: urlbar/sslwidget.cpp:229
+msgid "It is your first time visiting this site."
+msgstr ""
+
+#: urlbar/sslwidget.cpp:233
+#, kde-format
+msgid ""
+"You just visited this site.\n"
+"Your first visit was on %1.\n"
+msgstr ""
+
+#: urlbar/urlbar.cpp:142 urlbar/urlbar.cpp:305
+msgid "Type here to search your bookmarks, history and the web..."
+msgstr ""
+
+#: urlbar/urlbar.cpp:485
+msgid "Paste && Go"
+msgstr ""
+
+#: urlbar/urlbar.cpp:490
+msgid "Paste && Search"
+msgstr ""
+
+#: urlbar/urlbar.cpp:542
+msgid "List all links with KGet"
+msgstr ""
+
+#: urlbar/urlbar.cpp:546
+msgid "List all available RSS feeds"
+msgstr ""
+
+#: urlbar/urlbar.cpp:567
+msgid "Add search engine"
+msgstr ""
+
+#: urlbar/urlbar.cpp:576
+msgid "AdBlock is enabled on this site"
+msgstr ""
+
+#: urlbar/urlbar.cpp:581
+msgid "AdBlock is not enabled on this site"
+msgstr ""
+
+#: urlbar/urlbar.cpp:810
+msgid "This site does not contain SSL information."
+msgstr ""
+
+#: urlbar/urlbar.cpp:811
+msgctxt "Secure Sockets Layer"
+msgid "SSL"
+msgstr ""
+
+#: urlbar/urlbar.cpp:830
+msgid "Edit Bookmark"
+msgstr ""
+
+#: urlbar/urlbar.cpp:838
+msgid "Remove from Favorites"
+msgstr ""
+
+#: urlbar/urlbar.cpp:843
+msgid "Add to Favorites"
+msgstr ""
+
+#: urlbar/urlsuggester.cpp:300
+msgctxt "Browse a website"
+msgid "Browse"
+msgstr ""
+
+#: useragent/useragentinfo.cpp:135
+#, kde-format
+msgctxt "describe UA platform, eg: firefox 3.1 \"on Windows XP\""
+msgid " on %1 %2"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:64 webwindow/webwindow.cpp:347
+msgid "Browser Identification"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:72
+msgctxt "@title:window"
+msgid "User Agent Settings"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:99
+msgctxt "Default rekonq user agent"
+msgid "Default"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:108
+msgid "Firefox"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:111
+msgid "Internet Explorer"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:114
+msgid "Netscape"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:120
+msgid "Safari"
+msgstr ""
+
+#: useragent/useragentmanager.cpp:123
+msgid "Other"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QTreeWidget, sitePolicyTreeWidget)
+#: useragent/useragentsettings.ui:29
+msgid "Identification"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, deleteAllButton)
+#: useragent/useragentsettings.ui:46
+msgid "Delete All"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: webappcreation.ui:29
+msgid "Description:"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, descriptionLineEdit)
+#: webappcreation.ui:39
+msgid "(optional)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: webappcreation.ui:61
+msgid "Create Application shortcuts in:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_createDesktopAppShortcut)
+#: webappcreation.ui:68
+msgid "Desktop"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_createMenuAppShortcut)
+#: webappcreation.ui:75
+msgid "Application Menu"
+msgstr ""
+
+#: webtab/clicktoflash.cpp:54
+msgid "Load Plugin"
+msgstr ""
+
+#: webtab/crashmessagebar.cpp:57
+msgid "Yes"
+msgstr ""
+
+#: webtab/crashmessagebar.cpp:61
+msgid "No"
+msgstr ""
+
+#: webtab/networkaccessmanager.cpp:60
+msgid "Blocked by ad filter"
+msgstr ""
+
+#: webtab/previewselectorbar.cpp:61
+msgid "Please open up the webpage you want to add as favorite"
+msgstr ""
+
+#: webtab/previewselectorbar.cpp:63
+msgid "Set to This Page"
+msgstr ""
+
+#: webtab/previewselectorbar.cpp:80
+msgid "You cannot add this webpage as favorite"
+msgstr ""
+
+#: webtab/previewselectorbar.cpp:88
+msgid "Page is loading..."
+msgstr ""
+
+#: webtab/protocolhandler.cpp:222
+#, kde-format
+msgctxt "@info"
+msgid "rekonq does not know how to handle this protocol: %1"
+msgstr ""
+
+#: webtab/protocolhandler.cpp:342
+#, kde-format
+msgctxt "%1=an URL"
+msgid "<h2>Index of %1</h2>"
+msgstr ""
+
+#: webtab/protocolhandler.cpp:350
+msgid "Up to higher level directory"
+msgstr ""
+
+#: webtab/protocolhandler.cpp:355
+msgid "Name"
+msgstr ""
+
+#: webtab/protocolhandler.cpp:356
+msgid "Size"
+msgstr ""
+
+#: webtab/protocolhandler.cpp:357
+msgid "Last Modified"
+msgstr ""
+
+#: webtab/searchenginebar.cpp:61
+msgid ""
+"You do not have a default search engine set. Without it, rekonq will not "
+"show proper URL suggestions."
+msgstr ""
+
+#: webtab/searchenginebar.cpp:63
+msgid "Set it"
+msgstr ""
+
+#: webtab/searchenginebar.cpp:67 webtab/webview.cpp:255
+msgid "Ignore"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: webtab/sslinfo.ui:23
+msgid "<h2>Certificate Information</h2>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: webtab/sslinfo.ui:45
+msgid "Certificate Chain:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_20)
+#: webtab/sslinfo.ui:103
+msgid "<h4>Issued To:</h4>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: webtab/sslinfo.ui:124 webtab/sslinfo.ui:216
+msgid "Common Name (CN):"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: webtab/sslinfo.ui:138 webtab/sslinfo.ui:230
+msgid "Organization (O):"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: ectx: property (text), widget (QLabel, label_16)
+#: webtab/sslinfo.ui:152 webtab/sslinfo.ui:237
+msgid "Organizational Unit (OU):"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: webtab/sslinfo.ui:166
+msgid "Serial Number:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_21)
+#: webtab/sslinfo.ui:195
+msgid "<h4>Issued By:</h4>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_22)
+#: webtab/sslinfo.ui:273
+msgid "<h4>Validity Period:</h4>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_14)
+#: webtab/sslinfo.ui:294
+msgid "Issued on:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_18)
+#: webtab/sslinfo.ui:308
+msgid "Expires on:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_23)
+#: webtab/sslinfo.ui:337
+msgid "<h4>Digests:</h4>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_36)
+#: webtab/sslinfo.ui:358
+msgid "MD5:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_38)
+#: webtab/sslinfo.ui:372
+msgid "SHA-1:"
+msgstr ""
+
+#: webtab/sslinfodialog.cpp:53
+msgid "Rekonq SSL Information"
+msgstr ""
+
+#: webtab/sslinfodialog.cpp:60
+msgid "Export"
+msgstr ""
+
+#: webtab/sslinfodialog.cpp:122
+msgid "The certificate is valid"
+msgstr ""
+
+#: webtab/sslinfodialog.cpp:127
+msgid "The certificate for this site is not valid for the following reasons:"
+msgstr ""
+
+#: webtab/walletbar.cpp:53
+msgid "Remember"
+msgstr ""
+
+#: webtab/walletbar.cpp:57
+msgid "Never for This Site"
+msgstr ""
+
+#: webtab/walletbar.cpp:61
+msgid "Not Now"
+msgstr ""
+
+#: webtab/walletbar.cpp:99
+#, kde-format
+msgid "Do you want rekonq to remember the password on %1?"
+msgstr ""
+
+#: webtab/webpage.cpp:281
+msgid "Are you sure you want to send your data again?"
+msgstr ""
+
+#: webtab/webpage.cpp:282
+msgid "Resend form data"
+msgstr ""
+
+#: webtab/webpage.cpp:456
+msgid "No service can handle this file."
+msgstr ""
+
+#: webtab/webpage.cpp:477
+msgid "rekonq cannot properly handle this, sorry"
+msgstr ""
+
+#: webtab/webpage.cpp:702
+msgid "There was a problem while loading the page"
+msgstr ""
+
+#: webtab/webpage.cpp:709
+msgid "Network is not available"
+msgstr ""
+
+#: webtab/webpage.cpp:719
+#, kde-format
+msgid ""
+"Maybe you are having problems with your network settings.<br />Try checking "
+"your <a href=\"%1\">network connections</a>, your <a href=\"%2\">proxy "
+"settings</a> and your <a href=\"%3\">firewall</a>.<br /><br />Then <a href="
+"\"%4\">try again</a>.<br />"
+msgstr ""
+
+#: webtab/webpage.cpp:739
+msgid "Oops... Proxy problems!"
+msgstr ""
+
+#: webtab/webpage.cpp:751
+#, kde-format
+msgid ""
+"It seems you are having problems with your <a href=\"%1\">proxy settings</"
+"a>. Try checking them, <br /><br />then <a href=\"%2\">try again</a>.<br />"
+msgstr ""
+
+#: webtab/webpage.cpp:769
+#, kde-format
+msgid "Oops! Cannot load <em>%1</em>"
+msgstr ""
+
+#: webtab/webpage.cpp:785
+#, kde-format
+msgid ""
+"Ask your default search engine about: <a href=\"%1\">search with %2</a>.<br /"
+">"
+msgstr ""
+
+#: webtab/webpage.cpp:792
+msgid ""
+"You do not have a default search engine set. We will not suggest you one."
+msgstr ""
+
+#: webtab/webpage.cpp:797
+#, kde-format
+msgid ""
+"Consult a cached snapshot of the site: try checking the <a href="
+"\"%1\">Wayback Machine</a> or the <a href=\"%2\">Google Cache</a>."
+msgstr ""
+
+#: webtab/webpage.cpp:803
+#, kde-format
+msgid "<a href='%1'>Try Again</a>"
+msgstr ""
+
+#: webtab/webtab.cpp:354
+msgid ""
+"It seems rekonq was not closed properly. Do you want to restore the last "
+"saved session?"
+msgstr ""
+
+#: webtab/webtab.cpp:429
+#, kde-format
+msgid "Maximum zoom reached: %1%"
+msgstr ""
+
+#: webtab/webtab.cpp:448
+#, kde-format
+msgid "Minimum zoom reached: %1%"
+msgstr ""
+
+#: webtab/webtab.cpp:484
+#, kde-format
+msgid "Default zoom: %1%"
+msgstr ""
+
+#: webtab/webtab.cpp:486
+#, kde-format
+msgid "Zooming: %1%"
+msgstr ""
+
+#: webtab/webview.cpp:239
+#, kde-format
+msgid "No suggestions for %1"
+msgstr ""
+
+#: webtab/webview.cpp:256
+msgid "Add to Dictionary"
+msgstr ""
+
+#: webtab/webview.cpp:342
+msgid "Share page URL"
+msgstr ""
+
+#: webtab/webview.cpp:361
+msgid "Current Frame"
+msgstr ""
+
+#: webtab/webview.cpp:364
+msgid "Print Frame"
+msgstr ""
+
+#: webtab/webview.cpp:380
+msgid "List All Links"
+msgstr ""
+
+#: webtab/webview.cpp:397
+msgid "Share link"
+msgstr ""
+
+#: webtab/webview.cpp:399
+msgid "Open in New &Tab"
+msgstr ""
+
+#: webtab/webview.cpp:404
+msgid "Open in New &Window"
+msgstr ""
+
+#: webtab/webview.cpp:411
+msgid "Open in Private &Window"
+msgstr ""
+
+#: webtab/webview.cpp:419
+msgid "Open &Here"
+msgstr ""
+
+#: webtab/webview.cpp:430
+msgid "Save Link..."
+msgstr ""
+
+#: webtab/webview.cpp:432
+msgid "Save Link"
+msgstr ""
+
+#: webtab/webview.cpp:442
+msgid "Share image link"
+msgstr ""
+
+#: webtab/webview.cpp:446
+msgid "&View Image"
+msgstr ""
+
+#: webtab/webview.cpp:452
+msgid "Save image as..."
+msgstr ""
+
+#: webtab/webview.cpp:457
+msgid "&Copy Image Location"
+msgstr ""
+
+#: webtab/webview.cpp:464
+msgid "Block image"
+msgstr ""
+
+#: webtab/webview.cpp:476
+msgid "Share selected text"
+msgstr ""
+
+#: webtab/webview.cpp:486
+msgid "Copy Text"
+msgstr ""
+
+#: webtab/webview.cpp:488
+msgid "Copy"
+msgstr ""
+
+#: webtab/webview.cpp:512
+#, kde-format
+msgid "Open '%1' in New Tab"
+msgstr ""
+
+#: webtab/webview.cpp:519
+#, kde-format
+msgid "Open '%1' in New Window"
+msgstr ""
+
+#: webtab/webview.cpp:531
+#, kde-format
+msgctxt "Search selected text with the default search engine"
+msgid "Search with %1"
+msgstr ""
+
+#: webtab/webview.cpp:540
+msgctxt "@title:menu"
+msgid "Search"
+msgstr ""
+
+#: webtab/webview.cpp:544
+#, kde-format
+msgctxt "@item:inmenu Search, %1 = search engine"
+msgid "With %1"
+msgstr ""
+
+#: webtab/webview.cpp:553
+msgid "On Current Page"
+msgstr ""
+
+#: webtab/webview.cpp:570
+msgid "&Bookmark link"
+msgstr ""
+
+#: webtab/webview.cpp:600
+msgid "Exit FullScreen Mode"
+msgstr ""
+
+#: webwindow/findbar.cpp:57
+msgid "&Match case"
+msgstr ""
+
+#: webwindow/findbar.cpp:58
+msgid "&Highlight all"
+msgstr ""
+
+#: webwindow/findbar.cpp:74
+msgid "Find:"
+msgstr ""
+
+#: webwindow/findbar.cpp:87
+msgid "&Next"
+msgstr ""
+
+#: webwindow/findbar.cpp:88
+msgid "&Previous"
+msgstr ""
+
+#. i18n: ectx: Menu (openMenu)
+#: webwindow/rekonqui.rc:8
+msgid "&Open"
+msgstr ""
+
+#. i18n: ectx: Menu (zoomMenu)
+#: webwindow/rekonqui.rc:21
+msgid "&Zoom"
+msgstr ""
+
+#. i18n: ectx: Menu (toolsMenu)
+#. i18n: ectx: Menu (tools)
+#: webwindow/rekonqui.rc:30 webwindow/rekonqui.rc:136 webwindow/webwindow.cpp:386
+msgid "&Tools"
+msgstr ""
+
+#. i18n: ectx: Menu (panelsMenu)
+#: webwindow/rekonqui.rc:51
+msgid "&Panels"
+msgstr ""
+
+#. i18n: ectx: Menu (help)
+#: webwindow/rekonqui.rc:61
+msgid "&Help"
+msgstr ""
+
+#. i18n: ectx: Menu (file)
+#: webwindow/rekonqui.rc:84
+msgid "&File"
+msgstr ""
+
+#. i18n: ectx: Menu (edit)
+#: webwindow/rekonqui.rc:99
+msgid "&Edit"
+msgstr ""
+
+#. i18n: ectx: Menu (view)
+#: webwindow/rekonqui.rc:112
+msgid "&View"
+msgstr ""
+
+#. i18n: ectx: Menu (go)
+#: webwindow/rekonqui.rc:124
+msgid "&Go"
+msgstr ""
+
+#. i18n: ectx: Menu (settings)
+#: webwindow/rekonqui.rc:151
+msgid "&Settings"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: webwindow/rekonqui.rc:168
+msgid "Main Toolbar"
+msgstr ""
+
+#: webwindow/webwindow.cpp:198
+msgid "Location Bar"
+msgstr ""
+
+#: webwindow/webwindow.cpp:202
+msgid "Clear Urlbar"
+msgstr ""
+
+#: webwindow/webwindow.cpp:213
+msgid "&New Window"
+msgstr ""
+
+#: webwindow/webwindow.cpp:241
+msgid "Configure Main ToolBar"
+msgstr ""
+
+#: webwindow/webwindow.cpp:246
+msgid "Bookmarks Toolbar"
+msgstr ""
+
+#: webwindow/webwindow.cpp:257
+msgid "Downloads page"
+msgstr ""
+
+#: webwindow/webwindow.cpp:263
+msgid "History page"
+msgstr ""
+
+#: webwindow/webwindow.cpp:269
+msgid "Bookmarks page"
+msgstr ""
+
+#: webwindow/webwindow.cpp:289
+msgid "&Stop"
+msgstr ""
+
+#: webwindow/webwindow.cpp:295
+msgid "Open Location"
+msgstr ""
+
+#: webwindow/webwindow.cpp:303
+msgid "&Manage Sessions"
+msgstr ""
+
+#: webwindow/webwindow.cpp:308
+msgid "View Page S&ource"
+msgstr ""
+
+#: webwindow/webwindow.cpp:314
+msgid "New Private Window"
+msgstr ""
+
+#: webwindow/webwindow.cpp:319
+msgid "Clear Private Data..."
+msgstr ""
+
+#: webwindow/webwindow.cpp:354
+msgid "Set Editable"
+msgstr ""
+
+#: webwindow/webwindow.cpp:360
+msgid "Ad Block"
+msgstr ""
+
+#: webwindow/webwindow.cpp:365
+msgid "Create application shortcut"
+msgstr ""
+
+#: webwindow/webwindow.cpp:375
+msgid "&Inspect"
+msgstr ""
+
+#: webwindow/webwindow.cpp:435
+msgid "Stop loading the current page"
+msgstr ""
+
+#: webwindow/webwindow.cpp:436
+msgid "Stop"
+msgstr ""
+
+#: webwindow/webwindow.cpp:454
+msgid "Reload the current page"
+msgstr ""
+
+#: webwindow/webwindow.cpp:466 webwindow/webwindow.cpp:467
+msgid "Go"
+msgstr ""
+
+#: webwindow/webwindow.cpp:750
+msgid ""
+"*.html *.htm *.svg *.png *.gif *.svgz|Web Resources (*.html *.htm *.svg *."
+"png *.gif *.svgz)\n"
+"*.*|All files (*.*)"
+msgstr ""
+
+#: webwindow/webwindow.cpp:753
+msgid "Open Web Resource"
+msgstr ""
+
+#: webwindow/webwindow.cpp:1021
+msgid "web window"
+msgstr ""
+
+#: webwindow/webwindow.cpp:1025
+msgid "tab window"
+msgstr ""

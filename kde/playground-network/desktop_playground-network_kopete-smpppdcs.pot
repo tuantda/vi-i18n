@@ -1,0 +1,34 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-09-27 02:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugins/smpppdcs/kopete_smpppdcs_config.desktop:14
+msgctxt "Name"
+msgid "SUSE SMPPPD Connection Status"
+msgstr ""
+
+#: plugins/smpppdcs/kopete_smpppdcs_config.desktop:30
+msgctxt "Comment"
+msgid "SMPPPDCS Plugin"
+msgstr ""
+
+#: plugins/smpppdcs/kopete_smpppdcs.desktop:17
+msgctxt "Name"
+msgid "SUSE smpppd-enabled Connection Status (SMPPPD)"
+msgstr ""
+
+#: plugins/smpppdcs/kopete_smpppdcs.desktop:33
+msgctxt "Comment"
+msgid ""
+"Connects/disconnects Kopete automatically depending on availability of "
+"Internet connection"
+msgstr ""

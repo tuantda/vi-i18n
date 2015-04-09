@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Drivers/mysql/predicate_mysql.desktop:2
+msgctxt "Name"
+msgid "mysql"
+msgstr ""
+
+#: Drivers/mysql/predicate_mysql.desktop:30
+msgctxt "Comment"
+msgid "Predicate driver for handling MySQL databases"
+msgstr ""
+
+#: Drivers/postgresql/predicate_postgresql.desktop:2
+msgctxt "Name"
+msgid "postgresql"
+msgstr ""
+
+#: Drivers/postgresql/predicate_postgresql.desktop:28
+msgctxt "Comment"
+msgid "Predicate driver for handling PostgreSQL databases"
+msgstr ""
+
+#: Drivers/sqlite/predicate_sqlite.desktop:2
+msgctxt "Name"
+msgid "sqlite"
+msgstr ""
+
+#: Drivers/sqlite/predicate_sqlite.desktop:28
+msgctxt "Comment"
+msgid "Predicate driver for handling SQLite databases"
+msgstr ""
+
+#: Drivers/sybase/predicate_sybase.desktop:2
+msgctxt "Name"
+msgid "sybase"
+msgstr ""
+
+#: Drivers/sybase/predicate_sybase.desktop:29
+msgctxt "Comment"
+msgid "Predicate driver for handling Sybase databases"
+msgstr ""
+
+#: Drivers/xbase/predicate_xbase.desktop:2
+msgctxt "Name"
+msgid "xbase"
+msgstr ""
+
+#: Drivers/xbase/predicate_xbase.desktop:28
+msgctxt "Comment"
+msgid "Predicate driver for handling xBase databases"
+msgstr ""
+
+#: Predicate/kexidb_driver.desktop:4
+msgctxt "Comment"
+msgid "Kexi SQL-Driver plugin"
+msgstr ""

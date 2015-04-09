@@ -1,0 +1,32 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kopete_whiteboard_config.desktop:10
+msgctxt "Name"
+msgid "whiteboard Plugin Configuration"
+msgstr ""
+
+#: kopete_whiteboard_config.desktop:27
+msgctxt "Comment"
+msgid "whiteboard Plugin"
+msgstr ""
+
+#: kopete_whiteboard.desktop:18
+msgctxt "Name"
+msgid "Whiteboard"
+msgstr ""
+
+#: kopete_whiteboard.desktop:36
+msgctxt "Comment"
+msgid "Collaborative drawing and sharing multimedia content"
+msgstr ""

@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 07:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: main.cpp:20
+msgid "Viki"
+msgstr ""
+
+#: main.cpp:21
+msgid ""
+"Visual Keyboard - Multilingual and assistive technology for your fingertips"
+msgstr ""
+
+#: main.cpp:22
+msgid "(c) 2003, 2008 by Shaheed Haque"
+msgstr ""
+
+#: main.cpp:23
+msgid "Shaheed Haque"
+msgstr ""
+
+#: main.cpp:23
+msgid "Original Developer/Maintainer"
+msgstr ""
+
+#: main.cpp:24
+msgid "Lubos Lunak"
+msgstr ""
+
+#: main.cpp:24
+msgid "XKB wizard"
+msgstr ""
+
+#: pushbutton.cpp:186
+msgid "Backspace"
+msgstr ""
+
+#: pushbutton.cpp:191
+msgid "Tab"
+msgstr ""
+
+#: pushbutton.cpp:195
+msgid "Left Tab"
+msgstr ""
+
+#: pushbutton.cpp:200
+msgid "Return"
+msgstr ""
+
+#: pushbutton.cpp:204
+msgid "Pause"
+msgstr ""
+
+#: pushbutton.cpp:207
+msgid ""
+"Scroll\n"
+"Lock"
+msgstr ""
+
+#: pushbutton.cpp:210
+msgid ""
+"Sys\n"
+"Req"
+msgstr ""
+
+#: pushbutton.cpp:214
+msgid "Escape"
+msgstr ""
+
+#: pushbutton.cpp:219
+msgid "Delete"
+msgstr ""
+
+#: pushbutton.cpp:224
+msgid "Shift"
+msgstr ""
+
+#: pushbutton.cpp:229
+msgid "Ctrl"
+msgstr ""
+
+#: pushbutton.cpp:233
+msgid "Caps Lock"
+msgstr ""
+
+#: pushbutton.cpp:236
+msgid ""
+"Shift\n"
+"Lock"
+msgstr ""
+
+#: pushbutton.cpp:241
+msgid "Meta"
+msgstr ""
+
+#: pushbutton.cpp:246
+msgid "Alt"
+msgstr ""
+
+#: pushbutton.cpp:251
+msgid "Super"
+msgstr ""
+
+#: pushbutton.cpp:256
+msgid "Hyper"
+msgstr ""
+
+#: pushbutton.cpp:260
+msgid ""
+"Group\n"
+"Shift"
+msgstr ""
+
+#: pushbutton.cpp:263
+msgid "Compose"
+msgstr ""
+
+#: pushbutton.cpp:268
+msgid "Home"
+msgstr ""
+
+#: pushbutton.cpp:273
+msgid "End"
+msgstr ""
+
+#: pushbutton.cpp:278
+msgid "Up"
+msgstr ""
+
+#: pushbutton.cpp:283
+msgid "Left"
+msgstr ""
+
+#: pushbutton.cpp:287
+msgid "Begin"
+msgstr ""
+
+#: pushbutton.cpp:292
+msgid "Right"
+msgstr ""
+
+#: pushbutton.cpp:297
+msgid "Down"
+msgstr ""
+
+#: pushbutton.cpp:302
+msgid "Page Up"
+msgstr ""
+
+#: pushbutton.cpp:307
+msgid "Page Down"
+msgstr ""
+
+#: pushbutton.cpp:310
+msgid "Select"
+msgstr ""
+
+#: pushbutton.cpp:314
+msgid "Print Screen"
+msgstr ""
+
+#: pushbutton.cpp:317
+msgid "Execute"
+msgstr ""
+
+#: pushbutton.cpp:322
+msgid "Insert"
+msgstr ""
+
+#: pushbutton.cpp:325
+msgid "Undo"
+msgstr ""
+
+#: pushbutton.cpp:328
+msgid "Redo"
+msgstr ""
+
+#: pushbutton.cpp:332
+msgid "Menu"
+msgstr ""
+
+#: pushbutton.cpp:335
+msgid "Find"
+msgstr ""
+
+#: pushbutton.cpp:338
+msgid "Cancel"
+msgstr ""
+
+#: pushbutton.cpp:341
+msgid "Help "
+msgstr ""
+
+#: pushbutton.cpp:344
+msgid "Break"
+msgstr ""
+
+#: pushbutton.cpp:348
+msgid "Num Lock"
+msgstr ""
+
+#: pushbutton.cpp:368
+#, kde-format
+msgid "%1"
+msgstr ""
+
+#: pushbutton.cpp:373
+#, kde-format
+msgctxt "Function key name, where the argument is the key number"
+msgid "F%1"
+msgstr ""
+
+#: pushbutton.cpp:389
+msgid "Unused"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label2)
+#: settingswidget.ui:46
+msgid "Font size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label1)
+#: settingswidget.ui:81
+msgid "Zoom:"
+msgstr ""
+
+#: viki.cpp:67
+msgid "View"
+msgstr ""
+
+#. i18n: ectx: label, entry (zoom), group (View)
+#: viki.kcfg:9
+msgid "Size of the main window."
+msgstr ""
+
+#. i18n: ectx: label, entry (fontSize), group (View)
+#: viki.kcfg:13
+msgid "Font size adjustment for unusual fonts."
+msgstr ""

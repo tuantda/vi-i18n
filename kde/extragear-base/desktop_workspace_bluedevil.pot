@@ -1,0 +1,179 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-09 02:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/bluedevil.notifyrc:3
+msgctxt "Comment"
+msgid "Bluetooth system"
+msgstr ""
+
+#: src/bluedevil.notifyrc:45 src/daemon/kded/bluedevil.desktop:11
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr ""
+
+#: src/bluedevil.notifyrc:91
+msgctxt "Name"
+msgid "Authorization Requested"
+msgstr ""
+
+#: src/bluedevil.notifyrc:132
+msgctxt "Comment"
+msgid "A device wants to connect"
+msgstr ""
+
+#: src/bluedevil.notifyrc:175
+msgctxt "Name"
+msgid "Confirm Mode Change"
+msgstr ""
+
+#: src/bluedevil.notifyrc:210
+msgctxt "Comment"
+msgid "Bluetooth mode is about to be changed (normal to flight for example)"
+msgstr ""
+
+#: src/bluedevil.notifyrc:254
+msgctxt "Name"
+msgid "Confirm PIN"
+msgstr ""
+
+#: src/bluedevil.notifyrc:295
+msgctxt "Comment"
+msgid "Confirm a device request using matching PINs"
+msgstr ""
+
+#: src/bluedevil.notifyrc:337
+msgctxt "Name"
+msgid "Request PIN"
+msgstr ""
+
+#: src/bluedevil.notifyrc:382
+msgctxt "Comment"
+msgid "A PIN is needed"
+msgstr ""
+
+#: src/bluedevil.notifyrc:431
+msgctxt "Name"
+msgid "Incoming File"
+msgstr ""
+
+#: src/bluedevil.notifyrc:476
+msgctxt "Comment"
+msgid "Incoming file transfer"
+msgstr ""
+
+#: src/daemon/kded/bluedevil.desktop:55
+msgctxt "Comment"
+msgid "Handles Bluetooth events"
+msgstr ""
+
+#: src/fileitemactionplugin/bluedevilsendfile.desktop:3
+msgctxt "Name"
+msgid "Send file via Bluetooth"
+msgstr ""
+
+#: src/fileitemactionplugin/bluedevilsendfile.desktop:48
+msgctxt "X-KDE-Submenu"
+msgid "Bluetooth"
+msgstr ""
+
+#: src/kcmodule/bluedeviladapters.desktop:14
+msgctxt "Name"
+msgid "Adapters"
+msgstr ""
+
+#: src/kcmodule/bluedeviladapters.desktop:61
+msgctxt "Comment"
+msgid "Configure Bluetooth adapters"
+msgstr ""
+
+#: src/kcmodule/bluedeviladapters.desktop:102
+#: src/kcmodule/bluedevildevices.desktop:108
+#: src/kcmodule/bluedeviltransfer.desktop:101
+msgctxt "X-KDE-Keywords"
+msgid "Network,Connectivity,Bluetooth"
+msgstr ""
+
+#: src/kcmodule/bluedevildevices.desktop:14
+msgctxt "Name"
+msgid "Devices"
+msgstr ""
+
+#: src/kcmodule/bluedevildevices.desktop:65
+msgctxt "Comment"
+msgid "Manage Bluetooth devices"
+msgstr ""
+
+#: src/kcmodule/bluedeviltransfer.desktop:14
+msgctxt "Name"
+msgid "File Transfers"
+msgstr ""
+
+#: src/kcmodule/bluedeviltransfer.desktop:59
+msgctxt "Comment"
+msgid "Configure Bluetooth file sharing and transfers"
+msgstr ""
+
+#: src/kio/obexftp/daemon/obexftpdaemon.desktop:11
+msgctxt "Name"
+msgid "Bluetooth File Transfer"
+msgstr ""
+
+#: src/kio/obexftp/daemon/obexftpdaemon.desktop:52
+msgctxt "Comment"
+msgid "Supports Bluetooth file transfer using ObexFTP"
+msgstr ""
+
+#: src/monolithic/bluedevil-monolithic.desktop:4
+msgctxt "Name"
+msgid "BlueDevil"
+msgstr ""
+
+#: src/monolithic/bluedevil-monolithic.desktop:51
+msgctxt "GenericName"
+msgid "BlueDevil"
+msgstr ""
+
+#: src/monolithic/bluedevil-monolithic.desktop:99
+msgctxt "Comment"
+msgid "KDE Bluetooth support"
+msgstr ""
+
+#: src/sendfile/bluedevil-sendfile.desktop:4
+msgctxt "Name"
+msgid "BlueDevil Send File"
+msgstr ""
+
+#: src/sendfile/bluedevil-sendfile.desktop:49
+msgctxt "GenericName"
+msgid "BlueDevil Send File"
+msgstr ""
+
+#: src/sendfile/bluedevil-sendfile.desktop:96
+msgctxt "Comment"
+msgid "BlueDevil Send File"
+msgstr ""
+
+#: src/wizard/bluedevil-wizard.desktop:4
+msgctxt "Name"
+msgid "BlueDevil Wizard"
+msgstr ""
+
+#: src/wizard/bluedevil-wizard.desktop:50
+msgctxt "GenericName"
+msgid "BlueDevil Wizard"
+msgstr ""
+
+#: src/wizard/bluedevil-wizard.desktop:97
+msgctxt "Comment"
+msgid "BlueDevil Wizard"
+msgstr ""

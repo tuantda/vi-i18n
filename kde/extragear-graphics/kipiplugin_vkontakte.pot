@@ -1,0 +1,281 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-08-20 01:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: albumchooserwidget.cpp:52
+msgctxt "@title:group Header above controls for managing albums"
+msgid "Album"
+msgstr ""
+
+#: albumchooserwidget.cpp:57
+msgid "This is the VKontakte album that will be used for the transfer."
+msgstr ""
+
+#: albumchooserwidget.cpp:63
+msgid "New Album"
+msgstr ""
+
+#: albumchooserwidget.cpp:63
+msgid "Create new VKontakte album"
+msgstr ""
+
+#: albumchooserwidget.cpp:64
+msgctxt "reload albums list"
+msgid "Reload"
+msgstr ""
+
+#: albumchooserwidget.cpp:65
+msgid "Reload albums list"
+msgstr ""
+
+#: albumchooserwidget.cpp:68
+msgid "Edit selected album"
+msgstr ""
+
+#: albumchooserwidget.cpp:73
+msgid "Delete selected album"
+msgstr ""
+
+#: albumchooserwidget.cpp:246
+#, kde-format
+msgid ""
+"<qt>Are you sure you want to remove the album <b>%1</b> including all photos "
+"in it?</qt>"
+msgstr ""
+
+#: albumchooserwidget.cpp:247
+msgctxt "@title:window"
+msgid "Confirm Album Deletion"
+msgstr ""
+
+#: albumchooserwidget.cpp:342 authinfowidget.cpp:182 vkwindow.cpp:395
+msgctxt "@title:window"
+msgid "Request to VKontakte failed"
+msgstr ""
+
+#: authinfowidget.cpp:60
+msgid "Account"
+msgstr ""
+
+#: authinfowidget.cpp:65
+msgid "This account is used for authentication."
+msgstr ""
+
+#: authinfowidget.cpp:69
+msgid "Name:"
+msgstr ""
+
+#: authinfowidget.cpp:70
+msgid "Your VKontakte login"
+msgstr ""
+
+#: authinfowidget.cpp:73
+msgid "Change Account"
+msgstr ""
+
+#: authinfowidget.cpp:74
+msgid "Change VKontakte account used to authenticate"
+msgstr ""
+
+#: authinfowidget.cpp:173
+msgid "Unauthorized"
+msgstr ""
+
+#. i18n: ectx: Menu (Export)
+#: kipiplugin_vkontakteui.rc:7
+msgid "&Export"
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kipiplugin_vkontakteui.rc:13
+msgid "Main Toolbar"
+msgstr ""
+
+#: plugin_vkontakte.cpp:90
+msgid "Export to &VKontakte..."
+msgstr ""
+
+#: vkalbumdialog.cpp:55
+msgctxt "@title:window"
+msgid "Edit album"
+msgstr ""
+
+#: vkalbumdialog.cpp:56
+msgctxt "@title:window"
+msgid "New album"
+msgstr ""
+
+#: vkalbumdialog.cpp:64
+msgctxt "@title:group Header above Title and Summary fields"
+msgid "Album"
+msgstr ""
+
+#: vkalbumdialog.cpp:65
+msgid "These are basic settings for the new VKontakte album."
+msgstr ""
+
+#: vkalbumdialog.cpp:68
+msgid "Title of the album that will be created (required)."
+msgstr ""
+
+#: vkalbumdialog.cpp:71
+msgid "Description of the album that will be created (optional)."
+msgstr ""
+
+#: vkalbumdialog.cpp:75
+msgid "Title:"
+msgstr ""
+
+#: vkalbumdialog.cpp:76
+msgid "Summary:"
+msgstr ""
+
+#: vkalbumdialog.cpp:79
+msgid "Privacy Settings"
+msgstr ""
+
+#: vkalbumdialog.cpp:83 vkalbumdialog.cpp:91
+msgid "Only me"
+msgstr ""
+
+#: vkalbumdialog.cpp:84 vkalbumdialog.cpp:92
+msgid "My friends"
+msgstr ""
+
+#: vkalbumdialog.cpp:85 vkalbumdialog.cpp:93
+msgid "Friends of my friends"
+msgstr ""
+
+#: vkalbumdialog.cpp:86 vkalbumdialog.cpp:94
+msgid "Everyone"
+msgstr ""
+
+#: vkalbumdialog.cpp:87
+msgid "Album available to:"
+msgstr ""
+
+#: vkalbumdialog.cpp:95
+msgid "Comments available to:"
+msgstr ""
+
+#: vkalbumdialog.cpp:128
+msgid "Title cannot be empty."
+msgstr ""
+
+#: vkalbumdialog.cpp:129
+msgid "Error"
+msgstr ""
+
+#: vkwindow.cpp:124
+msgid "This is the list of images to upload to your VKontakte album."
+msgstr ""
+
+#: vkwindow.cpp:130
+msgid ""
+"This is a clickable link to open the VKontakte service in a web browser."
+msgstr ""
+
+#: vkwindow.cpp:148
+msgid "Destination"
+msgstr ""
+
+#: vkwindow.cpp:149
+msgid "This is the location where VKontakte images will be downloaded."
+msgstr ""
+
+#: vkwindow.cpp:157
+msgid "Options"
+msgstr ""
+
+#: vkwindow.cpp:158
+msgid "These are options that will be applied to images before upload."
+msgstr ""
+
+#: vkwindow.cpp:196
+msgctxt "@title:window"
+msgid "Export to VKontakte Web Service"
+msgstr ""
+
+#: vkwindow.cpp:198
+msgid "Start Upload"
+msgstr ""
+
+#: vkwindow.cpp:199
+msgid "Start upload to VKontakte service"
+msgstr ""
+
+#: vkwindow.cpp:210
+msgid "VKontakte Plugin"
+msgstr ""
+
+#: vkwindow.cpp:213
+msgid "A Kipi plugin to export image collections to VKontakte web service."
+msgstr ""
+
+#: vkwindow.cpp:215
+msgid ""
+"(c) 2007-2009, Vardhman Jain\n"
+"(c) 2008-2013, Gilles Caulier\n"
+"(c) 2009, Luka Renko\n"
+"(c) 2010-2013, Roman Tsisyk\n"
+"(c) 2011-2013, Alexander Potashev"
+msgstr ""
+
+#: vkwindow.cpp:221
+msgid "Alexander Potashev"
+msgstr ""
+
+#: vkwindow.cpp:221
+msgid "Author"
+msgstr ""
+
+#: vkwindow.cpp:291
+msgid "Close"
+msgstr ""
+
+#: vkwindow.cpp:292
+msgid "Close window"
+msgstr ""
+
+#: vkwindow.cpp:299
+msgid "Cancel"
+msgstr ""
+
+#: vkwindow.cpp:300
+msgid "Cancel current operation"
+msgstr ""
+
+#: vkwindow.cpp:388
+msgid "VKontakte"
+msgstr ""
+
+#: vkwindow.cpp:407
+msgid "Please select album first."
+msgstr ""
+
+#: vkwindow.cpp:437
+msgid "Vkontakte Export"
+msgstr ""

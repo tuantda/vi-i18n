@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-09-02 01:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: createmprisplayercommandwidget.cpp:33
+msgid "Play / Pause"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:34
+msgid "Play"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:35
+msgid "Pause"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:36
+msgid "Stop"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:37
+msgid "Next"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:38
+msgid "Previous"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:39
+msgid "Volume Up"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:40
+msgid "Volume Down"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:41
+msgid "Seek Ahead"
+msgstr ""
+
+#: createmprisplayercommandwidget.cpp:42
+msgid "Seek Back"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, commandLabel)
+#: createmprisplayercommandwidget.ui:23
+msgid "Command"
+msgstr ""
+
+#: mprisplayercommand.cpp:35 mprisplayercommandmanager.cpp:68
+#: mprisplayerconfiguration.cpp:30
+msgid "Media Player Control"
+msgstr ""
+
+#: mprisplayercommand.cpp:95
+msgctxt "Toggle between Play and Pause"
+msgid "Play / Pause"
+msgstr ""
+
+#: mprisplayercommand.cpp:98
+msgctxt "Start playing the media"
+msgid "Play"
+msgstr ""
+
+#: mprisplayercommand.cpp:101
+msgctxt "Pause the media"
+msgid "Pause"
+msgstr ""
+
+#: mprisplayercommand.cpp:104
+msgctxt "Stop the media"
+msgid "Stop"
+msgstr ""
+
+#: mprisplayercommand.cpp:107
+msgctxt "Play the next media in the list"
+msgid "Next"
+msgstr ""
+
+#: mprisplayercommand.cpp:110
+msgctxt "Play the previous media in the list"
+msgid "Previous"
+msgstr ""
+
+#: mprisplayercommand.cpp:113
+msgctxt "Increase the volume of the player"
+msgid "Increase Volume"
+msgstr ""
+
+#: mprisplayercommand.cpp:116
+msgctxt "Decrease the volume of the player"
+msgid "Decrease Volume"
+msgstr ""
+
+#: mprisplayercommand.cpp:119
+msgctxt "Fast forward to some time ahead"
+msgid "Seek Ahead"
+msgstr ""
+
+#: mprisplayercommand.cpp:122
+msgctxt "Rewind to some time back"
+msgid "Seek Back"
+msgstr ""
+
+#: mprisplayercommand.cpp:125
+msgctxt "Play a particular track from a playlist"
+msgid "Play Particular"
+msgstr ""
+
+#: mprisplayercommand.cpp:128
+msgctxt "Type of the command"
+msgid "Type"
+msgstr ""
+
+#: mprisplayercommandmanager.cpp:279
+#, kde-format
+msgid "Play media: %1"
+msgstr ""
+
+#: mprisplayerconfiguration.cpp:31
+msgid "Control MPRIS enabled media players"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, rbSupportAll)
+#: mprisplayerconfigurationdlg.ui:29
+msgid "Control all supported media players"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, rbSupportOne)
+#: mprisplayerconfigurationdlg.ui:39
+msgid "Only control the following media player"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: mprisplayerconfigurationdlg.ui:57
+msgid "D-Bus Interface"
+msgstr ""

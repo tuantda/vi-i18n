@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/backends/circuitmacros/circuitmacrosbackend.desktop:4
+msgctxt "Name"
+msgid "Circuit Macros"
+msgstr ""
+
+#: src/backends/circuitmacros/circuitmacrosbackend.desktop:29
+msgctxt "Comment"
+msgid "Backend for Circuit Macros"
+msgstr ""
+
+#: src/backends/gnuplot/gnuplotbackend.desktop:4
+msgctxt "Name"
+msgid "Gnuplot"
+msgstr ""
+
+#: src/backends/gnuplot/gnuplotbackend.desktop:33
+msgctxt "Comment"
+msgid "Backend for Gnuplot"
+msgstr ""
+
+#: src/backends/null/nullbackend.desktop:4
+msgctxt "Name"
+msgid "Nullbackend"
+msgstr ""
+
+#: src/backends/null/nullbackend.desktop:29
+msgctxt "Comment"
+msgid "Backend for Cirkuit for testing purposes"
+msgstr ""
+
+#: src/backends/pstricks/pstricksbackend.desktop:4
+msgctxt "Name"
+msgid "PSTricks"
+msgstr ""
+
+#: src/backends/pstricks/pstricksbackend.desktop:31
+msgctxt "Comment"
+msgid "Backend for PSTricks"
+msgstr ""
+
+#: src/backends/tikz/tikzbackend.desktop:4
+msgctxt "Name"
+msgid "TikZ"
+msgstr ""
+
+#: src/backends/tikz/tikzbackend.desktop:31
+msgctxt "Comment"
+msgid "Backend for TikZ"
+msgstr ""
+
+#: src/cirkuit.desktop:3
+msgctxt "Name"
+msgid "Cirkuit"
+msgstr ""
+
+#: src/cirkuit.desktop:25
+msgctxt "GenericName"
+msgid "Circuit drawer"
+msgstr ""
+
+#: src/cirkuit.desktop:44
+msgctxt "Comment"
+msgid "A program to draw circuits and diagrams"
+msgstr ""
+
+#: src/cirkuit.notifyrc:3
+msgctxt "Comment"
+msgid "Cirkuit"
+msgstr ""
+
+#: src/cirkuit.notifyrc:27
+msgctxt "Name"
+msgid "Preview generated"
+msgstr ""
+
+#: src/cirkuit.notifyrc:47
+msgctxt "Comment"
+msgid "The preview has been generated"
+msgstr ""
+
+#: src/cirkuit.notifyrc:70
+msgctxt "Name"
+msgid "Download progress"
+msgstr ""
+
+#: src/cirkuit.notifyrc:91
+msgctxt "Comment"
+msgid "Download progress"
+msgstr ""
+
+#: src/cirkuit.notifyrc:115
+msgctxt "Name"
+msgid "Download finished"
+msgstr ""
+
+#: src/cirkuit.notifyrc:137
+msgctxt "Comment"
+msgid "Download finished"
+msgstr ""
+
+#: src/lib/cirkuit_backend.desktop:4
+msgctxt "Comment"
+msgid "A Backend for Cirkuit"
+msgstr ""

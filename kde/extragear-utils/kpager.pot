@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2012-08-20 03:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: config.cpp:32
+msgid "Configuration"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_windowDragging)
+#: config.ui:17
+msgid "Enable window dragging"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showName)
+#: config.ui:31
+msgid "Show name"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showNumber)
+#: config.ui:38
+msgid "Show number"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showBackground)
+#: config.ui:45
+msgid "Show background"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_showWindows)
+#: config.ui:52
+msgid "Show windows"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (KButtonGroup, kcfg_windowDrawMode)
+#: config.ui:61
+msgid "Type of Window"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton)
+#: config.ui:67
+msgid "Plain"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#: config.ui:74
+msgid "Icon"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_3)
+#: config.ui:81
+msgid "Pixmap"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (KButtonGroup, kcfg_layoutType)
+#: config.ui:91
+msgid "Layout"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_4)
+#: config.ui:97
+msgid "Classical"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_5)
+#: config.ui:104
+msgid "Horizontal"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_6)
+#: config.ui:111
+msgid "Vertical"
+msgstr ""
+
+#: kpager.cpp:335
+msgid "&To Desktop"
+msgstr ""
+
+#: kpager.cpp:340
+msgid "Mi&nimize"
+msgstr ""
+
+#: kpager.cpp:344
+msgid "Ma&ximize"
+msgstr ""
+
+#: kpager.cpp:348 kpager.cpp:605
+msgid "&Sticky"
+msgstr ""
+
+#: kpager.cpp:357
+msgid "&Close"
+msgstr ""
+
+#: kpager.cpp:605
+msgid "Un&sticky"
+msgstr ""
+
+#: kpager.cpp:613
+msgid "&All Desktops"
+msgstr ""
+
+#: main.cpp:60
+msgid "KPager"
+msgstr ""
+
+#: main.cpp:61
+msgid "Desktop Overview"
+msgstr ""
+
+#: main.cpp:63
+msgid ""
+"© 1998-2002, Antonio Larrosa Jiménez\n"
+"© 2010-2011, Pino Toscano"
+msgstr ""
+
+#: main.cpp:69
+msgid "Antonio Larrosa Jiménez"
+msgstr ""
+
+#: main.cpp:70
+msgid "Original Developer/Maintainer"
+msgstr ""
+
+#: main.cpp:73
+msgid "Pino Toscano"
+msgstr ""
+
+#: main.cpp:74 main.cpp:77 main.cpp:80
+msgid "Developer"
+msgstr ""
+
+#: main.cpp:76
+msgid "Matthias Elter"
+msgstr ""
+
+#: main.cpp:79
+msgid "Matthias Ettrich"
+msgstr ""
+
+#: main.cpp:86
+msgid "Create pager but keep the window hidden"
+msgstr ""
+
+#: main.cpp:102
+msgid "Desktop Pager"
+msgstr ""

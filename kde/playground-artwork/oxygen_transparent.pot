@@ -1,0 +1,917 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-12-19 01:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:48
+msgid "Button mouseover transition"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:49
+msgid "Configure window buttons' mouseover highlight animation"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:52
+msgid "Title transitions"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:53
+msgid "Configure fading transitions when window title is changed"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:56
+msgid "Window active state change transitions"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:57
+msgid ""
+"Configure fading between window shadow and glow when window's active state "
+"is changed"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:60
+msgid "Window grouping animations"
+msgstr ""
+
+#: decoration/config/oxygenanimationconfigwidget.cpp:61
+msgid "Configure window titlebar animations when windows are grouped/ungrouped"
+msgstr ""
+
+#: decoration/config/oxygenconfigwidget.cpp:171
+#: style/config/oxygenstyleconfig.cpp:195
+msgid "Hide Advanced Configuration Options"
+msgstr ""
+
+#: decoration/config/oxygenconfigwidget.cpp:171
+#: style/config/oxygenstyleconfig.cpp:195
+msgid "Show Advanced Configuration Options"
+msgstr ""
+
+#: decoration/config/oxygenconfigwidget.cpp:188
+#: style/config/oxygenstyleconfig.cpp:213
+msgid "Animations"
+msgstr ""
+
+#: decoration/config/oxygenexceptionlistwidget.cpp:189
+#: style/config/oxygenblacklistdialog.cpp:202
+msgid "Remove selected exception?"
+msgstr ""
+
+#: decoration/config/oxygenexceptionlistwidget.cpp:330
+msgid "Regular Expression syntax is incorrect"
+msgstr ""
+
+#: decoration/config/oxygenexceptionmodel.cpp:35
+msgid "Exception Type"
+msgstr ""
+
+#: decoration/config/oxygenexceptionmodel.cpp:36
+msgid "Regular Expression"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, exceptionType)
+#: decoration/config/oxygenexceptionmodel.cpp:61
+#: decoration/config/ui/oxygenexceptiondialog.ui:69
+msgid "Window Title"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, exceptionType)
+#: decoration/config/oxygenexceptionmodel.cpp:65
+#: decoration/config/ui/oxygenexceptiondialog.ui:64
+msgid "Window Class Name"
+msgstr ""
+
+#: decoration/config/oxygenexceptionmodel.cpp:81
+msgid "Enable/disable this exception"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_1)
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: decoration/config/ui/oxygenconfigurationui.ui:33
+#: style/config/ui/oxygenstyleconfig.ui:45
+msgid "General"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: decoration/config/ui/oxygenconfigurationui.ui:39
+#: style/config/ui/oxygenstyleconfig.ui:179
+msgid "Background Opacity"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, opacityFromStyle)
+#: decoration/config/ui/oxygenconfigurationui.ui:45
+msgid "Use widget style opacity settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: decoration/config/ui/oxygenconfigurationui.ui:58
+#: style/config/ui/oxygenstyleconfig.ui:187
+msgid "Transparent"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: decoration/config/ui/oxygenconfigurationui.ui:84
+#: style/config/ui/oxygenstyleconfig.ui:213
+msgid "Opaque"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#: decoration/config/ui/oxygenconfigurationui.ui:116
+#: decoration/config/ui/oxygenexceptiondialog.ui:198
+msgid "No Border"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#: decoration/config/ui/oxygenconfigurationui.ui:121
+#: decoration/config/ui/oxygenexceptiondialog.ui:203
+msgid "No Side Borders"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _viewTriangularExpanderSize)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#: decoration/config/ui/oxygenconfigurationui.ui:126
+#: decoration/config/ui/oxygenexceptiondialog.ui:208
+#: style/config/ui/oxygenstyleconfig.ui:326
+msgid "Tiny"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _viewTriangularExpanderSize)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#. i18n: ectx: property (text), item, widget (KComboBox, buttonSize)
+#: decoration/config/ui/oxygenconfigurationui.ui:131
+#: decoration/config/ui/oxygenconfigurationui.ui:220
+#: decoration/config/ui/oxygenexceptiondialog.ui:213
+#: style/config/ui/oxygenstyleconfig.ui:336
+msgid "Normal"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#. i18n: ectx: property (text), item, widget (KComboBox, buttonSize)
+#: decoration/config/ui/oxygenconfigurationui.ui:136
+#: decoration/config/ui/oxygenconfigurationui.ui:225
+#: decoration/config/ui/oxygenexceptiondialog.ui:218
+msgid "Large"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#. i18n: ectx: property (text), item, widget (KComboBox, buttonSize)
+#: decoration/config/ui/oxygenconfigurationui.ui:141
+#: decoration/config/ui/oxygenconfigurationui.ui:230
+#: decoration/config/ui/oxygenexceptiondialog.ui:223
+msgid "Very Large"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#. i18n: ectx: property (text), item, widget (KComboBox, buttonSize)
+#: decoration/config/ui/oxygenconfigurationui.ui:146
+#: decoration/config/ui/oxygenconfigurationui.ui:235
+#: decoration/config/ui/oxygenexceptiondialog.ui:228
+msgid "Huge"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#: decoration/config/ui/oxygenconfigurationui.ui:151
+#: decoration/config/ui/oxygenexceptiondialog.ui:233
+msgid "Very Huge"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorderComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, frameBorder)
+#: decoration/config/ui/oxygenconfigurationui.ui:156
+#: decoration/config/ui/oxygenexceptiondialog.ui:238
+msgid "Oversized"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, titleAlignment)
+#: decoration/config/ui/oxygenconfigurationui.ui:165
+msgid "Left"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, titleAlignment)
+#: decoration/config/ui/oxygenconfigurationui.ui:170
+msgid "Center"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, titleAlignment)
+#: decoration/config/ui/oxygenconfigurationui.ui:175
+msgid "Center (Full Width)"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, titleAlignment)
+#: decoration/config/ui/oxygenconfigurationui.ui:180
+msgid "Right"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: decoration/config/ui/oxygenconfigurationui.ui:188
+msgid "Title alignment:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: decoration/config/ui/oxygenconfigurationui.ui:201
+msgid "Button size:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _viewTriangularExpanderSize)
+#. i18n: ectx: property (text), item, widget (KComboBox, buttonSize)
+#: decoration/config/ui/oxygenconfigurationui.ui:215
+#: style/config/ui/oxygenstyleconfig.ui:331
+msgid "Small"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, frameBorderCheckBox)
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: decoration/config/ui/oxygenconfigurationui.ui:243
+#: decoration/config/ui/oxygenexceptiondialog.ui:86
+msgid "Border size:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, animationsEnabled)
+#. i18n: ectx: property (text), widget (QCheckBox, _animationsEnabled)
+#: decoration/config/ui/oxygenconfigurationui.ui:273
+#: libs/ui/oxygenanimationconfigwidget.ui:23
+#: style/config/ui/oxygenstyleconfig.ui:79
+msgid "Enable animations"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: decoration/config/ui/oxygenconfigurationui.ui:283
+msgid "Fine Tuning"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, separatorCheckBox)
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: decoration/config/ui/oxygenconfigurationui.ui:305
+#: decoration/config/ui/oxygenexceptiondialog.ui:187
+msgid "Separator display:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, separatorComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, separatorMode)
+#: decoration/config/ui/oxygenconfigurationui.ui:332
+#: decoration/config/ui/oxygenexceptiondialog.ui:131
+msgid "Never Draw Separator"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, separatorComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, separatorMode)
+#: decoration/config/ui/oxygenconfigurationui.ui:337
+#: decoration/config/ui/oxygenexceptiondialog.ui:136
+msgid "Draw Separator When Window is Active"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, separatorComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox, separatorMode)
+#: decoration/config/ui/oxygenconfigurationui.ui:342
+#: decoration/config/ui/oxygenexceptiondialog.ui:141
+msgid "Always Draw Separator"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, titleOutline)
+#: decoration/config/ui/oxygenconfigurationui.ui:350
+msgid "Outline active window title"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, closeFromMenuButton)
+#: decoration/config/ui/oxygenconfigurationui.ui:357
+msgid "Close windows by double clicking the menu button"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, sizeGripCheckBox)
+#. i18n: ectx: property (text), widget (QCheckBox, drawSizeGrip)
+#: decoration/config/ui/oxygenconfigurationui.ui:364
+#: decoration/config/ui/oxygenexceptiondialog.ui:173
+msgid "Add handle to resize windows with no border"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, narrowButtonSpacing)
+#: decoration/config/ui/oxygenconfigurationui.ui:371
+msgid "Use narrow space between decoration buttons"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: decoration/config/ui/oxygenconfigurationui.ui:379
+msgid "Shadows"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (Oxygen::ShadowConfigWidget, inactiveShadowConfiguration)
+#: decoration/config/ui/oxygenconfigurationui.ui:387
+msgid "Window Drop-Down Shadow"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (Oxygen::ShadowConfigWidget, activeShadowConfiguration)
+#: decoration/config/ui/oxygenconfigurationui.ui:397
+msgid "Active Window Glow"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: decoration/config/ui/oxygenconfigurationui.ui:423
+msgid "Window-Specific Overrides"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: decoration/config/ui/oxygendetectwidget.ui:17
+msgid "Information about Selected Window"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: decoration/config/ui/oxygendetectwidget.ui:23
+msgid "Class: "
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: decoration/config/ui/oxygendetectwidget.ui:40
+msgid "Title: "
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: decoration/config/ui/oxygendetectwidget.ui:60
+msgid "Window Property Selection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, windowClassCheckBox)
+#: decoration/config/ui/oxygendetectwidget.ui:66
+msgid "Use window class (whole application)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, windowTitleCheckBox)
+#: decoration/config/ui/oxygendetectwidget.ui:76
+msgid "Use window title"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: decoration/config/ui/oxygenexceptiondialog.ui:17
+msgid "Window Identification"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: decoration/config/ui/oxygenexceptiondialog.ui:23
+msgid "Matching window property: "
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: decoration/config/ui/oxygenexceptiondialog.ui:36
+msgid "Regular expression to match: "
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, detectDialogButton)
+#: decoration/config/ui/oxygenexceptiondialog.ui:49
+msgid "Detect Window Properties"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: decoration/config/ui/oxygenexceptiondialog.ui:80
+msgid "Decoration Options"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, sizeGripComboBox)
+#: decoration/config/ui/oxygenexceptiondialog.ui:97
+msgctxt "Add handle to resize windows with no border"
+msgid "Disabled"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, sizeGripComboBox)
+#: decoration/config/ui/oxygenexceptiondialog.ui:102
+msgctxt "Add handle to resize windows with no border"
+msgid "Enabled"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, titleOutlineComboBox)
+#: decoration/config/ui/oxygenexceptiondialog.ui:114
+msgctxt "outline window title"
+msgid "Disabled"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, titleOutlineComboBox)
+#: decoration/config/ui/oxygenexceptiondialog.ui:119
+msgctxt "outline window title"
+msgid "Enabled"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, transparencyDisabled)
+#: decoration/config/ui/oxygenexceptiondialog.ui:149
+msgid "Disable background translucency"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, hideTitleBar)
+#: decoration/config/ui/oxygenexceptiondialog.ui:166
+msgid "Hide window title bar"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, titleOutlineCheckBox)
+#: decoration/config/ui/oxygenexceptiondialog.ui:180
+msgid "Outline active window title:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, moveUpButton)
+#: decoration/config/ui/oxygenexceptionlistwidget.ui:56
+msgid "Move Up"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, moveDownButton)
+#: decoration/config/ui/oxygenexceptionlistwidget.ui:63
+msgid "Move Down"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, addButton)
+#: decoration/config/ui/oxygenexceptionlistwidget.ui:70
+#: style/config/ui/oxygenblacklistdialog.ui:47
+msgid "Add"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, removeButton)
+#: decoration/config/ui/oxygenexceptionlistwidget.ui:77
+#: style/config/ui/oxygenblacklistdialog.ui:54
+msgid "Remove"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, editButton)
+#: decoration/config/ui/oxygenexceptionlistwidget.ui:84
+#: style/config/ui/oxygenblacklistdialog.ui:61
+msgid "Edit"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:83
+msgid "Oxygen Transparent"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:221
+msgid "Window Actions Menu"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:224
+msgid "Application Menu"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:227
+msgid "Help"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:230
+msgid "Minimize"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:233
+msgid "Maximize"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:236
+msgid "Close"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:239
+msgid "Keep Above Others"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:242
+msgid "Keep Below Others"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:245
+msgid "On All Desktops"
+msgstr ""
+
+#: decoration/oxygenclient.cpp:248
+msgid "Shade Button"
+msgstr ""
+
+#: libs/oxygenanimationconfigitem.cpp:104
+msgid "oxygen-settings - information"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, enableCheckBox)
+#: libs/ui/oxygenanimationconfigitem.ui:29
+msgid "CheckBox"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QToolButton, configurationButton)
+#. i18n: ectx: property (text), widget (QToolButton, descriptionButton)
+#: libs/ui/oxygenanimationconfigitem.ui:36
+#: libs/ui/oxygenanimationconfigitem.ui:49
+msgid "..."
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QFrame, GenericAnimationConfigBox)
+#. i18n: ectx: property (windowTitle), widget (QFrame, FollowMouseAnimationConfigBox)
+#: libs/ui/oxygengenericanimationconfigbox.ui:20
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:20
+msgid "Frame"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: libs/ui/oxygengenericanimationconfigbox.ui:38
+msgid "Duration:"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, durationSpinBox)
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, followMouseDurationSpinBox)
+#: libs/ui/oxygengenericanimationconfigbox.ui:51
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:72
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:101
+msgid "ms"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: libs/ui/oxygenshadowconfigurationui.ui:23
+msgid "Inner Color:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: libs/ui/oxygenshadowconfigurationui.ui:42
+msgid "Outer Color:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: libs/ui/oxygenshadowconfigurationui.ui:69
+msgid "Vertical Offset:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: libs/ui/oxygenshadowconfigurationui.ui:82
+msgid "Size: "
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, shadowSize)
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, verticalOffset)
+#. i18n: ectx: property (suffix), widget (KIntSpinBox, _scrollBarWidth)
+#: libs/ui/oxygenshadowconfigurationui.ui:95
+#: libs/ui/oxygenshadowconfigurationui.ui:102
+#: style/config/ui/oxygenstyleconfig.ui:461
+msgid "px"
+msgstr ""
+
+#: style/config/main.cpp:38 style/config/oxygenconfigdialog.cpp:56
+#: style/config/oxygenconfigdialog.cpp:158
+msgid "Oxygen Settings"
+msgstr ""
+
+#: style/config/main.cpp:40
+msgid "Oxygen expert configuration tool"
+msgstr ""
+
+#: style/config/main.cpp:42
+msgid "(c) 2010, Hugo Pereira Da Costa"
+msgstr ""
+
+#: style/config/main.cpp:44
+msgid "Hugo Pereira Da Costa"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:50
+msgid "Focus, mouseover and widget state transition"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:51
+msgid ""
+"Configure widgets' focus and mouseover highlight animation, as well as "
+"widget enabled/disabled state transition"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:54
+msgid "Toolbar highlight"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:55
+msgid "Configure toolbars' mouseover highlight animation"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:59
+msgid "Menu bar highlight"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:60
+msgid "Configure menu bars' mouseover highlight animation"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:63
+msgid "Menu highlight"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:64
+msgid "Configure menus' mouseover highlight animation"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:67
+msgid "Progress bar animation"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:68
+msgid "Configure progress bars' steps animation"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:71
+msgid "Tab transitions"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:71
+msgid "Configure fading transition between tabs"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:74
+msgid "Label transitions"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:74
+msgid "Configure fading transition when a label's text is changed"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:77
+msgid "Text editor transitions"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:77
+msgid "Configure fading transition when an editor's text is changed"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:80
+msgid "Combo box transitions"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:80
+msgid ""
+"Configure fading transition when a combo box's selected choice is changed"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:90
+msgid "Busy indicator steps"
+msgstr ""
+
+#: style/config/oxygenanimationconfigwidget.cpp:91
+msgid "Configure progress bars' busy indicator animation"
+msgstr ""
+
+#: style/config/oxygenblacklistdialog.cpp:41
+msgid "Exceptions - Oxygen Settings"
+msgstr ""
+
+#: style/config/oxygenblacklistmodel.cpp:37
+msgid "Application Name"
+msgstr ""
+
+#: style/config/oxygenconfigdialog.cpp:72
+msgid "Widget Style"
+msgstr ""
+
+#: style/config/oxygenconfigdialog.cpp:73
+msgid "Modify the appearance of widgets"
+msgstr ""
+
+#: style/config/oxygenconfigdialog.cpp:91
+msgid "Window Decorations"
+msgstr ""
+
+#: style/config/oxygenconfigdialog.cpp:92
+msgid "Modify the appearance of window decorations"
+msgstr ""
+
+#: style/config/oxygenconfigdialog.cpp:191
+#: style/config/oxygenconfigdialog.cpp:201
+msgid "Unable to find oxygen style configuration plugin"
+msgstr ""
+
+#: style/config/oxygenconfigdialog.cpp:237
+#: style/config/oxygenconfigdialog.cpp:247
+msgid "Unable to find oxygen decoration configuration plugin"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:32
+msgid "Animation type:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, typeComboBox)
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:46
+msgid "Fade"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, typeComboBox)
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:51
+msgid "Follow Mouse"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, durationLabel)
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:59
+msgid "Fade duration:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, followMouseDurationLabel)
+#: style/config/ui/oxygenfollowmouseanimationconfigbox.ui:88
+msgid "Follow mouse duration:"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, OxygenStyleConfig)
+#: style/config/ui/oxygenstyleconfig.ui:26
+msgid "Dialog"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _toolBarDrawItemSeparator)
+#: style/config/ui/oxygenstyleconfig.ui:51
+msgid "Draw toolbar item separators"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _checkDrawX)
+#: style/config/ui/oxygenstyleconfig.ui:58
+msgid "Use 'X' in checkboxes instead of check"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _splitterProxyEnabled)
+#: style/config/ui/oxygenstyleconfig.ui:65
+msgid "Enable extended resize handles"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _cacheEnabled)
+#: style/config/ui/oxygenstyleconfig.ui:72
+msgid "Enable pixmap cache"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, _mnemonicsLabel)
+#: style/config/ui/oxygenstyleconfig.ui:97
+msgid "Keyboard accelerators visibility:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
+#: style/config/ui/oxygenstyleconfig.ui:111
+msgid "Always Hide Keyboard Accelerators"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
+#: style/config/ui/oxygenstyleconfig.ui:116
+msgid "Show Keyboard Accelerators When Needed"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
+#: style/config/ui/oxygenstyleconfig.ui:121
+msgid "Always Show Keyboard Accelerators"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, _generalExpertWidget)
+#: style/config/ui/oxygenstyleconfig.ui:131
+msgid "Windows' drag mode"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _windowDragMode)
+#: style/config/ui/oxygenstyleconfig.ui:138
+msgid "Drag windows from titlebar only"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _windowDragMode)
+#: style/config/ui/oxygenstyleconfig.ui:143
+msgid "Drag windows from titlebar, menubar and toolbars"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _windowDragMode)
+#: style/config/ui/oxygenstyleconfig.ui:148
+msgid "Drag windows from all empty areas"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _useWMMoveResize)
+#: style/config/ui/oxygenstyleconfig.ui:169
+msgid "Use window manager to perform windows' drag"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KPushButton, _exceptionsButton)
+#: style/config/ui/oxygenstyleconfig.ui:240
+msgid "Exceptions ..."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: style/config/ui/oxygenstyleconfig.ui:266
+msgid "Views"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _viewDrawFocusIndicator)
+#: style/config/ui/oxygenstyleconfig.ui:272
+msgid "Draw focus indicator"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _viewDrawTreeBranchLines)
+#: style/config/ui/oxygenstyleconfig.ui:279
+msgid "Draw tree branch lines"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, _viewDrawTriangularExpander)
+#: style/config/ui/oxygenstyleconfig.ui:286
+msgid "Use triangle tree expander instead of +/-"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: style/config/ui/oxygenstyleconfig.ui:315
+msgid "Triangle size:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: style/config/ui/oxygenstyleconfig.ui:374
+msgid "Tabs"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, _tabStyleSingle)
+#: style/config/ui/oxygenstyleconfig.ui:393
+msgctxt "Renders each inactive tab in a tabbar as separate darker slab"
+msgid "Single"
+msgstr ""
+
+#. i18n: Renders inactive tabs in a tabbar as a unique darker slab
+#. i18n: ectx: property (text), widget (QRadioButton, _tabStylePlain)
+#: style/config/ui/oxygenstyleconfig.ui:400
+msgctxt "Renders inactive tabs in a tabbar as a unique darker slab"
+msgid "Plain"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: style/config/ui/oxygenstyleconfig.ui:407
+msgid "Inactive tabs style:"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_4)
+#: style/config/ui/oxygenstyleconfig.ui:415
+msgid "Scrollbars"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: style/config/ui/oxygenstyleconfig.ui:423
+msgid "Scrollbar width:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: style/config/ui/oxygenstyleconfig.ui:491
+msgid "Top arrow button type:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: style/config/ui/oxygenstyleconfig.ui:501
+msgid "Bottom arrow button type:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarSubLineButtons)
+#: style/config/ui/oxygenstyleconfig.ui:512
+msgid "No buttons"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarSubLineButtons)
+#. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarAddLineButtons)
+#: style/config/ui/oxygenstyleconfig.ui:517
+#: style/config/ui/oxygenstyleconfig.ui:549
+msgid "One button"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarSubLineButtons)
+#. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarAddLineButtons)
+#: style/config/ui/oxygenstyleconfig.ui:522
+#: style/config/ui/oxygenstyleconfig.ui:554
+msgid "Two buttons"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarAddLineButtons)
+#: style/config/ui/oxygenstyleconfig.ui:544
+msgid "No button"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_5)
+#: style/config/ui/oxygenstyleconfig.ui:578
+msgid "Menu Highlight"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, _menuHighlightDark)
+#: style/config/ui/oxygenstyleconfig.ui:584
+msgid "Use dark color"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, _menuHighlightStrong)
+#: style/config/ui/oxygenstyleconfig.ui:591
+msgid "Use selection color (plain)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, _menuHighlightSubtle)
+#: style/config/ui/oxygenstyleconfig.ui:598
+msgid "Use selection color (subtle)"
+msgstr ""

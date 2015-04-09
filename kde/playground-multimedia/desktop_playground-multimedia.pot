@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2015-04-04 02:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: jultagger/src/jultagger.desktop:3
+msgctxt "Name"
+msgid "JulTagger"
+msgstr ""
+
+#: jultagger/src/jultagger.desktop:35
+msgctxt "Comment"
+msgid "Music File Tagger"
+msgstr ""
+
+#: kalva2/src/kalva2.desktop:2
+msgctxt "Name"
+msgid "Kalva2"
+msgstr ""
+
+#: kalva2/src/kalva2.desktop:34
+msgctxt "Comment"
+msgid "A simple video recorder using mencoder."
+msgstr ""
+
+#: kcam/kcam.desktop:2
+msgctxt "Name"
+msgid "kcam"
+msgstr ""
+
+#: kcam/kcam.desktop:29
+msgctxt "GenericName"
+msgid "A simple webcam application."
+msgstr ""
+
+#: kenvy24/src/kenvy24gui.desktop:3
+msgctxt "Name"
+msgid "KEnvy24"
+msgstr ""
+
+#: kenvy24/src/kenvy24gui.desktop:32
+msgctxt "GenericName"
+msgid "Audio mixer utility"
+msgstr ""
+
+#: kenvy24/src/kenvy24gui.desktop:59
+msgctxt "Comment"
+msgid "ICE1712 (Via Envy24) Sound Card Control utility, for KDE"
+msgstr ""
+
+#: kenvy24/src/kenvy24_mainpart.desktop:2
+msgctxt "Name"
+msgid "KEnvy24 Main Part"
+msgstr ""
+
+#: kenvy24/src/kenvy24_mixerpart.desktop:2
+msgctxt "Name"
+msgid "KEnvy24 Mixer Control"
+msgstr ""
+
+#: kenvy24/src/kenvy24_surroundpart.desktop:2
+msgctxt "Name"
+msgid "KEnvy24 Surround Control"
+msgstr ""
+
+#: kxtodvd/src/kxtodvd.desktop:2
+msgctxt "Name"
+msgid "KxToDvd"
+msgstr ""
+
+#: kxtodvd/src/kxtodvd.desktop:27
+msgctxt "GenericName"
+msgid "KonvertXtoDVD"
+msgstr ""
+
+#: lintv/lintv/lintv.desktop:4
+msgctxt "Comment"
+msgid "Watch and Record TV"
+msgstr ""
+
+#: lintv/lintv/lintv.desktop:28
+msgctxt "GenericName"
+msgid "Watch and Record TV"
+msgstr ""
+
+#: lintv/lintv/lintv.desktop:52
+msgctxt "Name"
+msgid "LinTV"
+msgstr ""
+
+#: lintv/lintvscheduler/lintvscheduler.desktop:4
+msgctxt "Comment"
+msgid "Schedule TV Recordings"
+msgstr ""
+
+#: lintv/lintvscheduler/lintvscheduler.desktop:28
+msgctxt "GenericName"
+msgid "Schedule TV Recordings"
+msgstr ""
+
+#: lintv/lintvscheduler/lintvscheduler.desktop:52
+msgctxt "Name"
+msgid "LinTV Scheduler"
+msgstr ""
+
+#: lintv/lintv/src/lintv.notifyrc:3
+msgctxt "Comment"
+msgid "LinTV"
+msgstr ""
+
+#: lintv/lintv/src/lintv.notifyrc:30
+msgctxt "Name"
+msgid "Started Recording"
+msgstr ""
+
+#: lintv/lintv/src/lintv.notifyrc:56
+msgctxt "Name"
+msgid "Canceled Recording"
+msgstr ""
+
+#: lintv/lintv/src/lintv.notifyrc:82
+msgctxt "Name"
+msgid "Finished Recording"
+msgstr ""
+
+#: phonon-backends/gst2/gst.desktop:11
+msgctxt "Name"
+msgid "Gst"
+msgstr ""
+
+#: phonon-backends/gst2/gst.desktop:41 phonon-backends/gst/gst.desktop:48
+msgctxt "Comment"
+msgid "GStreamer Backend"
+msgstr ""
+
+#: phonon-backends/gst/gst.desktop:11
+msgctxt "Name"
+msgid "GStreamer"
+msgstr ""
+
+#: phonon-backends/gst/kcm/kcm_phonongst.desktop:13
+msgctxt "Name"
+msgid "Phonon GStreamer"
+msgstr ""
+
+#: phonon-backends/gst/kcm/kcm_phonongst.desktop:45
+msgctxt "Comment"
+msgid "GStreamer Backend Configuration"
+msgstr ""
+
+#: phonon-backends/gst/kcm/kcm_phonongst.desktop:77
+msgctxt "Keywords"
+msgid "GStreamer"
+msgstr ""
+
+#: phonon-backends/nmm/nmm.desktop:13
+msgctxt "Name"
+msgid "NMM"
+msgstr ""
+
+#: phonon-backends/nmm/nmm.desktop:45
+msgctxt "Comment"
+msgid "Phonon Backend using NMM (Network Multimedia Middleware)"
+msgstr ""
